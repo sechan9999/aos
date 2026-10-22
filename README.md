@@ -2,7 +2,8 @@
 
 > Kim, Paeng, Kim. *Architect of Silence: Persona-prompted Large Language Models Make Minority Population and Social Suffering Invisible.* 서울대학교 보건대학원.
 
-논문의 결과를 독립 재현하고, 그 결과가 모델의 작동 방식에서 나오는지 아니면 설문 설계에서 나오는지 가르기 위한 검증 실험 모음입니다.
+논문의 결과를 독립 재현하고, 그 결과가 모델의 작동 방식에서 나오는지 아니면 설문 설계에서 나오는지 가르기 위한 검증 실험 모음입니다. 
+논문 한국어 발표 자료 Download: https://oeh.snu.ac.kr/ai-fairness
 
 **종합 보고서 → [`docs/00_replication_report.md`](docs/00_replication_report.md)**
 
