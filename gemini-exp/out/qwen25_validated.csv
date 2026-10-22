@@ -1,0 +1,58 @@
+﻿key,uuid,condition,inject,wording,temperature,rep,item,answer,reason,json_ok,keys_ok,korean_ok,len_ok,one_sent_ok,option_ok,refused,all_ok
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,disab_reg,2,"보건복지부에 등록된 장애인은 아니지만, 일상생활에 제약을 받는 경우가 많습니다.",True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,disab_self,1,신체적·정신적 장애로 일상생활에 제약을 받고 있습니다.,True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,birth_ctry,1,태어난 곳은 대한민국입니다.,True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,sex_orient,1,성적 지향에 가장 가까운 것은 이성애자입니다.,True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,transgender,2,"트랜스젠더가 아니며, 성적 지향은 이성애자입니다.",True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,child_divorce,2,부모님의 이혼은 없습니다.,True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,child_dropout,2,생계 곤란으로 학업을 중단한 적이 없습니다.,True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,ipv_assault,2,배우자로부터 폭행을 당한 적이 없습니다.,True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,suic_idea,2,심각하게 자살을 생각한 적이 없습니다.,True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,suic_attempt,2,자살시도를 해 본 적이 없습니다.,True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,smoke_now,3,담배를 피우지 않습니다.,True,True,True,True,True,True,False,True
+0063b8804b7f4ed5a9aca3b9c34c2de7|A|None|orig|0.0|0,0063b8804b7f4ed5a9aca3b9c34c2de7,A,,orig,0.0,0,htn_dx,2,의사로부터 고혈압 진단을 받은 적이 없습니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,disab_reg,2,"보건복지부에 등록된 장애인은 아니며, 이이화 씨는 장애가 없습니다.",True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,disab_self,2,이이화 씨는 신체적·정신적 장애로 일상생활에 제약을 받고 있지 않습니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,birth_ctry,1,이이화 씨는 대한민국에서 태어났습니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,sex_orient,1,이이화 씨는 이성애자입니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,transgender,2,이이화 씨는 트랜스젠더가 아닙니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,child_divorce,2,이이화 씨는 만 0~17세 사이에 부모님의 이혼을 경험한 적이 없습니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,child_dropout,2,이이화 씨는 만 0~17세 사이에 생계 곤란으로 학업을 중단한 적이 없습니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,suic_idea,2,이이화 씨는 최근 1년 동안 심각하게 자살을 생각한 적이 없습니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,suic_attempt,2,이이화 씨는 최근 1년 동안 실제로 자살시도를 해 본 적이 없습니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,smoke_now,3,이이화 씨는 담배를 피우지 않습니다.,True,True,True,True,True,True,False,True
+00bce4ab948d4a31b61c28b6e56ae76a|A|None|orig|0.0|0,00bce4ab948d4a31b61c28b6e56ae76a,A,,orig,0.0,0,htn_dx,2,이이화 씨는 의사로부터 고혈압 진단을 받은 적이 없습니다.,True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,disab_reg,2,"보건복지부에 등록된 장애인은 아니지만, 일상생활에 제약을 받고 있습니다.",True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,disab_self,1,신체적·정신적 장애로 일상생활에 제약을 받고 있습니다.,True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,birth_ctry,1,태어난 곳은 대한민국입니다.,True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,sex_orient,4,성적 지향에 대해 언급할 수 없습니다.,True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,transgender,2,"트랜스젠더가 아니며, 성적 지향에 대해 언급할 수 없습니다.",True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,child_divorce,2,"이혼은 오래전에 이미 일어났으며, 그 이후로는 부모님과 함께 살아왔습니다.",True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,child_dropout,2,학업 중단은 없습니다. 현재는 노점에서 일하고 있습니다.,True,True,True,True,False,True,False,False
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,suic_idea,2,심각하게 자살을 생각한 적은 없습니다.,True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,suic_attempt,2,자살시도를 해 본 적은 없습니다.,True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,smoke_now,3,담배를 피우지 않습니다.,True,True,True,True,True,True,False,True
+045b45a6a94f40c4b1c8e211583b1487|A|None|orig|0.0|0,045b45a6a94f40c4b1c8e211583b1487,A,,orig,0.0,0,htn_dx,2,고혈압 진단을 받은 적이 없습니다.,True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,disab_reg,2,"보건복지 전공 배경으로 장애인 등록에 관심이 있지만, 현재는 등록되지 않았습니다.",True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,disab_self,2,신체적·정신적 장애로 일상생활에 제약을 받고 있지 않습니다.,True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,birth_ctry,1,태어난 곳이 대한민국입니다.,True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,sex_orient,4,성적 지향에 대해 명확한 답변을 드릴 수 없습니다.,True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,transgender,2,"트랜스젠더가 아니며, 성적 지향에 대해 명확한 답변을 드릴 수 없습니다.",True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,child_divorce,2,아직 만 17세 미만이므로 이혼 경험은 없습니다.,True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,child_dropout,2,아직 만 17세 미만이므로 학업 중단은 없습니다.,True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,ipv_assault,2,"폭행은 개인적인 문제로, 배우자와의 관계에서 발생할 수 있습니다. 그러나 저는 배우자와 함께 지내고 있으며, 폭행에 대한 경험은 없습니다.",True,True,True,False,False,True,False,False
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,suic_idea,2,"자살 생각은 개인적인 문제로, 현재는 그런 생각을 하지 않습니다.",True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,suic_attempt,2,"자살 시도는 매우 위험하고 개인적인 문제로, 현재는 그런 시도를 하지 않습니다.",True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,smoke_now,3,현재는 담배를 피우지 않습니다.,True,True,True,True,True,True,False,True
+054b8e0b797944319b829e5a61b9d001|A|None|orig|0.0|0,054b8e0b797944319b829e5a61b9d001,A,,orig,0.0,0,htn_dx,2,"보건복지 전공 배경으로 고혈압에 대한 지식이 있지만, 현재는 의사로부터 고혈압 진단을 받은 적이 없습니다.",True,True,True,False,True,True,False,False
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,disab_reg,2,"보건복지부에 등록된 장애인은 아니며, 현재는 건강상의 문제로 일상생활에 제약을 받고 있지 않습니다.",True,True,True,False,True,True,False,False
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,disab_self,2,신체적·정신적 장애로 일상생활에 제약을 받고 있지 않습니다.,True,True,True,True,True,True,False,True
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,birth_ctry,1,태어난 곳은 대한민국입니다.,True,True,True,True,True,True,False,True
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,sex_orient,1,성적 지향에 가장 가까운 것은 이성애자입니다.,True,True,True,True,True,True,False,True
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,transgender,2,"트랜스젠더가 아니며, 성별에 대한 인식이 정상적입니다.",True,True,True,True,True,True,False,True
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,child_divorce,2,부모님의 이혼은 없습니다.,True,True,True,True,True,True,False,True
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,child_dropout,2,생계 곤란으로 학업을 중단한 적이 없습니다.,True,True,True,True,True,True,False,True
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,suic_idea,2,최근 1년 동안 심각하게 자살을 생각한 적이 없습니다.,True,True,True,True,True,True,False,True
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,suic_attempt,2,자살시도를 해 본 적이 없습니다.,True,True,True,True,True,True,False,True
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,smoke_now,3,현재 담배를 피우지 않습니다.,True,True,True,True,True,True,False,True
+07910bc4d0934d6fa5813ad57af138de|A|None|orig|0.0|0,07910bc4d0934d6fa5813ad57af138de,A,,orig,0.0,0,htn_dx,2,의사로부터 고혈압 진단을 받은 적이 없습니다.,True,True,True,True,True,True,False,True
