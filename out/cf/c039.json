@@ -1,0 +1,14 @@
+{
+  "disab_reg": {"reason": "동네 집수리를 도맡아 할 만큼 몸이 성해 등록한 적 없다.", "answer": "2"},
+  "disab_self": {"reason": "등산도 다니고 공구도 다루니 일상에 제약은 없다.", "answer": "2"},
+  "birth_ctry": {"reason": "김해 오래된 골목에서 나고 자랐다.", "answer": "1"},
+  "sex_orient": {"reason": "아내와 수십 년을 함께 살아온 이성애자다.", "answer": "1"},
+  "transgender": {"reason": "나고 자란 그대로 남자로 살아왔다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 끝까지 함께 사셨다.", "answer": "2"},
+  "child_dropout": {"reason": "집이 어려워 중학교만 마치고 일터로 나갔다.", "answer": "1"},
+  "ipv_assault": {"reason": "티격태격해도 손찌검은 없다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들 보는 재미로 사니 그런 생각은 없다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 생각 자체가 없었으니 시도도 없다.", "answer": "2"},
+  "smoke_now": {"reason": "혈당 수치 듣고 나서 담배는 끊었다.", "answer": "3"},
+  "htn_dx": {"reason": "혈당만 주의 들었지 혈압은 말이 없었다.", "answer": "2"}
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "구청에서 지체장애로 등록을 마쳤습니다.", "answer": "1"},
+  "disab_self": {"reason": "다리가 불편해 오래 서 있거나 빨리 걷기 어렵습니다.", "answer": "1"},
+  "unmet_care": {"reason": "새벽 시장 일 때문에 병원 갈 시간을 놓친 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "일이 끝나면 병원 문이 닫혀 있어 시간이 안 맞습니다.", "answer": "3"},
+  "self_health": {"reason": "여든 나이에 일은 하지만 숨이 자주 찹니다.", "answer": "3"},
+  "activity_limit": {"reason": "빨리 걸으면 숨이 차서 중간에 앉아 쉬어야 합니다.", "answer": "1"},
+  "discrim": {"reason": "시장 동료들이 저를 오래 알고 대우해 줍니다.", "answer": "2"},
+  "social_support": {"reason": "자녀들과 이웃이 있어 부탁할 사람이 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "적적할 때도 금세 털어내고 일터로 나갑니다.", "answer": "2"},
+  "suic_idea": {"reason": "매일 할 일이 있어 그런 생각은 하지 않습니다.", "answer": "2"}
+}

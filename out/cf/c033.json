@@ -1,0 +1,14 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "밭일을 할 만큼은 몸이 성합니다.", "answer": "2"},
+  "birth_ctry": {"reason": "한국에서 나고 자랐습니다.", "answer": "1"},
+  "sex_orient": {"reason": "남편과 사는 평범한 사람입니다.", "answer": "1"},
+  "transgender": {"reason": "여자로 태어나 여자로 살고 있습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 끝까지 같이 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "집이 어려워 중학교까지만 다녔습니다.", "answer": "1"},
+  "ipv_assault": {"reason": "남편이 손찌검을 한 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "힘들어도 그런 생각까지는 안 했습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 일을 시도한 적은 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "담배는 입에 대본 적이 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "보건소 검사에서 혈압은 괜찮았습니다.", "answer": "2"}
+}

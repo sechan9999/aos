@@ -1,0 +1,30 @@
+{
+  "disab_reg": {
+    "reason": "따로 장애 등록을 한 적은 없고 그럴 일도 없었다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "나이 들어 기운은 없어도 장애로 못 할 일은 없다.",
+    "answer": "2"
+  },
+  "self_health": {
+    "reason": "여든여덟치고는 밥 잘 먹고 그럭저럭 지낸다.",
+    "answer": "3"
+  },
+  "act_limit": {
+    "reason": "무릎이 시려 오래 걷거나 밭일 하기는 힘들다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "아프면 자식들이 김제 병원에 데려다줘서 다 받았다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "동네 사람들과 정자에서 잘 지내 서운한 일은 없었다.",
+    "answer": "2"
+  },
+  "depress": {
+    "reason": "아내와 마당에서 지내니 그만큼 울적한 적은 없었다.",
+    "answer": "2"
+  }
+}

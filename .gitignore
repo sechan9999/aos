@@ -1,0 +1,15 @@
+# 비밀값 — 절대 커밋 금지
+.secrets/
+*.key
+.env
+.env.*
+
+# NPK 페르소나 원자료 — 재배포하지 않음. uuid 목록에서 src/load_personas.py로 재생성
+data/personas_150.parquet
+data/uuids_only.parquet
+
+# 실행 로그·캐시
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

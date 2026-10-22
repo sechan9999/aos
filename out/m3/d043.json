@@ -1,0 +1,30 @@
+{
+  "disab_reg": {
+    "reason": "장애 등록을 한 적이 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "몸이나 마음 때문에 생활이 막히는 일은 없습니다.",
+    "answer": "2"
+  },
+  "self_health": {
+    "reason": "아픈 데는 없지만 운동을 거의 안 해서 보통입니다.",
+    "answer": "3"
+  },
+  "act_limit": {
+    "reason": "공장 일과 집안일을 하는 데 지장은 없었습니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "아프면 동네 병원에 바로 다녀왔습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "작업장에서도 동료들이 제 일을 믿고 맡깁니다.",
+    "answer": "2"
+  },
+  "depress": {
+    "reason": "지칠 때는 집에서 푹 쉬면 하루 이틀 안에 풀립니다.",
+    "answer": "2"
+  }
+}

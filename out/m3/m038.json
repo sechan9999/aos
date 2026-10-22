@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 심하지 않은 지체장애로 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "장애가 심하지 않아 매장 근무와 일상생활은 혼자 해냅니다.", "answer": "2"},
+  "unmet_care": {"reason": "매장 운영에 매여 병원 갈 시간을 내지 못한 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "영업시간 내내 매장을 지켜야 해서 진료 시간을 못 냅니다.", "answer": "3"},
+  "self_health": {"reason": "체중이 늘고 조금만 뛰어도 숨이 차서 보통이라 봅니다.", "answer": "3"},
+  "activity_limit": {"reason": "체력은 떨어져도 일하고 생활하는 데 지장은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "장애가 드러나지 않고 갈등을 피해 지내 겪은 일이 없습니다.", "answer": "2"},
+  "social_support": {"reason": "같이 맛집 다니는 친한 친구에게는 부탁할 수 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "혼자 사는 집에서 힘든 일을 삼키다 길게 가라앉은 적이 있습니다.", "answer": "1"},
+  "suic_idea": {"reason": "가라앉을 때도 그런 생각까지 간 적은 없습니다.", "answer": "2"}
+}

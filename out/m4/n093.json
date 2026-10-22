@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애 판정을 받은 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "일상생활에 지장을 주는 장애는 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "온라인 주문 처리에 매여 진료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "주문과 배송 일정 때문에 병원 갈 시간을 못 냈습니다.", "answer": "3"},
+  "self_health": {"reason": "배드민턴과 산책을 하지만 앉아 일하는 시간이 깁니다.", "answer": "3"},
+  "activity_limit": {"reason": "건강 때문에 일이나 외출을 못 한 적은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "나이 마흔 가까이 미혼에 부모님과 산다는 말을 듣습니다.", "answer": "1"},
+  "social_support": {"reason": "부모님과 함께 살아 아프면 바로 도움을 받습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "매출이 줄고 독립이 늦어져 2주 넘게 가라앉았습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 그런 생각까지 한 적은 없습니다.", "answer": "2"}
+}

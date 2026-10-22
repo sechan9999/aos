@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "지체장애로 보건복지부에 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "무릎과 다리가 불편해 오래 서 있거나 걷기 힘듭니다.", "answer": "1"},
+  "unmet_care": {"reason": "요양 시설 근무 시간이 길어 병원 갈 짬을 못 냈습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "교대 근무라 진료 시간에 맞춰 가기가 어렵습니다.", "answer": "3"},
+  "self_health": {"reason": "일은 하지만 무릎 통증이 늘 있어 보통입니다.", "answer": "3"},
+  "activity_limit": {"reason": "무리한 등산이나 오래 걷기는 피하고 있습니다.", "answer": "1"},
+  "discrim": {"reason": "중학교 졸업 학력과 장애를 두고 무시하는 말을 들었습니다.", "answer": "1"},
+  "social_support": {"reason": "같이 사는 남편이 무뚝뚝해도 집안일을 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "서운한 날은 있어도 2주 넘게 가라앉은 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "일에서 보람을 느끼며 그런 생각은 해본 적 없습니다.", "answer": "2"}
+}

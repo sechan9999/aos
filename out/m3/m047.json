@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록된 장애는 없고 몸은 건강한 편입니다.", "answer": "2"},
+  "disab_self": {"reason": "가게 일과 집안일에 제약을 느끼지 않습니다.", "answer": "2"},
+  "unmet_care": {"reason": "가게를 비우기 어려워 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "평일 근무라 진료 시간 내기가 어렵습니다.", "answer": "3"},
+  "self_health": {"reason": "큰 병은 없지만 가끔 피로를 느낍니다.", "answer": "2"},
+  "activity_limit": {"reason": "매일 출근하고 산책도 거르지 않습니다.", "answer": "2"},
+  "discrim": {"reason": "손님과 이웃 모두 저를 편하게 대합니다.", "answer": "2"},
+  "social_support": {"reason": "남편과 가까이 사는 친정 부모님이 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "재고 걱정으로 마음은 졸여도 그 정도는 아닙니다.", "answer": "2"},
+  "suic_idea": {"reason": "일상이 평온해 그런 생각은 해본 적 없습니다.", "answer": "2"}
+}

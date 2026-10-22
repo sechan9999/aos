@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "복지부에 장애인으로 등록한 적은 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "오래 걸으면 다리가 저려 쉬어야 해 생활에 제약이 있습니다.", "answer": "1"},
+  "unmet_care": {"reason": "다리 저림으로 병원을 가려다 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "계단 많은 병원 건물과 이동이 불편해 미뤘습니다.", "answer": "2"},
+  "self_health": {"reason": "배드민턴은 하지만 다리 문제가 있어 보통입니다.", "answer": "3"},
+  "activity_limit": {"reason": "계단을 피하고 걷다 쉬어야 해 활동이 제한됩니다.", "answer": "1"},
+  "discrim": {"reason": "주변에서 예의 바른 청년으로 봐 주어 차별은 없었습니다.", "answer": "2"},
+  "social_support": {"reason": "부모님과 함께 살아 집안일을 부탁할 수 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "독립 문제로 답답해도 2주 넘게 이어지진 않았습니다.", "answer": "2"},
+  "suic_idea": {"reason": "힘들어도 그런 생각까지 한 적은 없습니다.", "answer": "2"}
+}

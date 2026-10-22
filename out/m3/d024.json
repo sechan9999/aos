@@ -1,0 +1,30 @@
+{
+  "disab_reg": {
+    "reason": "지체장애로 복지부에 등록해 복지카드를 갖고 있습니다.",
+    "answer": "1"
+  },
+  "disab_self": {
+    "reason": "다리가 불편해 계단과 무거운 살림에 제약이 있습니다.",
+    "answer": "1"
+  },
+  "self_health": {
+    "reason": "혈압약을 먹지만 집안일은 아직 거뜬히 해냅니다.",
+    "answer": "3"
+  },
+  "act_limit": {
+    "reason": "다리가 아픈 날은 청소와 장보기를 미루게 됩니다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "동구 단골 병원에 제때 다녀 미룬 적은 없습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "절뚝이는 걸음을 힐끗 보는 시선을 여러 번 느꼈습니다.",
+    "answer": "1"
+  },
+  "depress": {
+    "reason": "몸이 마음을 안 따라줘 몇 주 내내 가라앉은 적 있습니다.",
+    "answer": "1"
+  }
+}

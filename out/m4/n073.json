@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 지체장애로 등록을 마쳤습니다.", "answer": "1"},
+  "disab_self": {"reason": "걸음이 느려 오래 서 있거나 이동할 때 제약이 있습니다.", "answer": "1"},
+  "unmet_care": {"reason": "무직이라 재활 치료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "수입이 없어 진료비가 부담스러웠습니다.", "answer": "1"},
+  "self_health": {"reason": "둘레길을 걸을 정도는 되지만 썩 좋지는 않습니다.", "answer": "3"},
+  "activity_limit": {"reason": "지체장애로 긴 보행과 계단 이용이 어렵습니다.", "answer": "1"},
+  "discrim": {"reason": "구직 과정에서 장애와 나이 때문에 밀린 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "한집에 사는 형제들이 바로 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "실직이 길어지며 무기력하고 절망스러운 시기가 있었습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 가족을 생각하면 그런 마음까지는 없습니다.", "answer": "2"}
+}

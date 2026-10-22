@@ -1,0 +1,9 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "몸이나 마음의 장애로 생활에 제약을 받지는 않습니다.", "answer": "2"},
+  "self_health": {"reason": "주말마다 호수공원을 걷지만 앉아서 일하는 시간이 길어 보통입니다.", "answer": "3"},
+  "act_limit": {"reason": "일이 몰릴 때 어깨와 허리가 아파 하루 쉰 적이 있습니다.", "answer": "1"},
+  "unmet_care": {"reason": "주문 처리 때문에 미루긴 해도 필요하면 동네 병원에 갔습니다.", "answer": "2"},
+  "discrim": {"reason": "온라인 판매자라 그런지 직업을 가볍게 보는 말을 들었습니다.", "answer": "1"},
+  "depress": {"reason": "지칠 때는 혼자 여행을 다녀오며 회복해 2주씩 이어지지는 않았습니다.", "answer": "2"}
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "다리가 저리긴 해도 장애 등록을 할 정도는 아니라 신청한 적 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "계단을 피하고 오래 걸으면 다리가 저려 쉬어야 해서 불편합니다.", "answer": "1"},
+  "unmet_care": {"reason": "다리 저림으로 병원에 가려 했지만 매장 일에 밀려 넘겼습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "매장 매출과 재고를 챙기느라 진료받을 시간을 내지 못했습니다.", "answer": "3"},
+  "self_health": {"reason": "조깅만 하면 금방 숨이 차고 체중도 늘어 보통 수준입니다.", "answer": "3"},
+  "activity_limit": {"reason": "계단 많은 곳은 피하고 오래 걸으면 중간에 쉬어야 합니다.", "answer": "1"},
+  "discrim": {"reason": "매장과 동네에서 조용히 지내 차별을 느낀 일은 없었습니다.", "answer": "2"},
+  "social_support": {"reason": "혼자 살고 힘든 일은 속으로 삼켜 집안일을 부탁하지 못합니다.", "answer": "2"},
+  "depress_2wk": {"reason": "혼자 있는 밤이면 가라앉는 기분이 몇 주씩 이어진 적 있습니다.", "answer": "1"},
+  "suic_idea": {"reason": "기분이 가라앉아도 사우나나 드라이브로 풀지 그런 생각은 없습니다.", "answer": "2"}
+}

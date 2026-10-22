@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애인은 아니고 아직 배달 일을 다니고 있습니다.", "answer": "2"},
+  "disab_self": {"reason": "무릎이 시큰해도 일상에 큰 제약은 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "허리가 아파도 물량 맞추느라 병원을 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "배달 시간에 쫓겨 진료 시간을 내기 어려웠습니다.", "answer": "3"},
+  "self_health": {"reason": "나이에 비해 걷는 일로 버티지만 예전만은 못합니다.", "answer": "3"},
+  "activity_limit": {"reason": "힘들어도 매일 배달하고 집안일도 그럭저럭 합니다.", "answer": "2"},
+  "discrim": {"reason": "나이 많다고 대놓고 무시하는 손님을 겪은 적 있습니다.", "answer": "1"},
+  "social_support": {"reason": "아내와 자녀가 같이 살아 아프면 바로 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "힘든 날은 있어도 그렇게 오래 가라앉지는 않았습니다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들 보는 재미로 살아 그런 생각은 없습니다.", "answer": "2"}
+}

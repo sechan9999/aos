@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 지체장애인으로 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "장애가 심하지 않아 텃밭 일과 집안일은 혼자 해냅니다.", "answer": "2"},
+  "unmet_care": {"reason": "혈당 검사 때문에 동네 의원에 제때 다니고 있습니다.", "answer": "2"},
+  "unmet_reason": {"reason": "진료를 못 받은 적이 없어 해당 사항이 없습니다.", "answer": "5"},
+  "self_health": {"reason": "공복혈당이 높고 다리가 불편해도 아직 움직일 만합니다.", "answer": "3"},
+  "activity_limit": {"reason": "무리한 일만 피하면 살림과 텃밭은 다 합니다.", "answer": "2"},
+  "discrim": {"reason": "동네 사람들과 지내며 차별받았다고 느낀 적은 없습니다.", "answer": "2"},
+  "social_support": {"reason": "몸이 아프면 남편이 곁에서 집안일을 거들어 줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "답답할 때는 텃밭을 매고 노래를 들으며 넘깁니다.", "answer": "2"},
+  "suic_idea": {"reason": "자식들 보며 건강하게 더 살고 싶은 마음뿐입니다.", "answer": "2"}
+}

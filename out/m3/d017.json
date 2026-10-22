@@ -1,0 +1,9 @@
+{
+  "disab_reg": {"reason": "지체장애로 보건복지부에 장애인 등록을 마쳤습니다.", "answer": "1"},
+  "disab_self": {"reason": "다리가 불편해 오래 서 있거나 계단 오를 때 제약이 있습니다.", "answer": "1"},
+  "self_health": {"reason": "매일 만 보를 걷지만 혈압과 다리 때문에 보통입니다.", "answer": "3"},
+  "act_limit": {"reason": "장거리 이동이나 무거운 장보기는 중간에 쉬어야 합니다.", "answer": "1"},
+  "unmet_care": {"reason": "필요한 진료는 동네 병원에서 제때 받아 왔습니다.", "answer": "2"},
+  "discrim": {"reason": "장애인 등록증을 보이면 눈길이 달라진다고 느낄 때가 있습니다.", "answer": "1"},
+  "depress": {"reason": "남편과 친구들 덕에 마음이 평온해 그런 일은 없었습니다.", "answer": "2"}
+}

@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "보건복지부에 지체장애로 등록되어 있습니다.",
+    "answer": "1"
+  },
+  "disab_self": {
+    "reason": "심하지 않은 장애라 가게 일과 집안일은 무리 없이 합니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "가게를 비우기 어려워 미뤄둔 진료가 있었습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "평일 영업시간에 짬을 내기가 어려웠습니다.",
+    "answer": "3"
+  },
+  "self_health": {
+    "reason": "크게 아프진 않지만 종일 서 있어 피로가 쌓입니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "저녁 산책도 하고 일상에 큰 제한은 없습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "손님이 장애를 두고 무심히 던진 말에 상처받은 적이 있습니다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "남편과 가까이 사는 친정 부모님께 부탁할 수 있습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "마음이 소란할 때는 있지만 공예로 금세 가라앉힙니다.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "그런 생각은 해본 적 없고 지금 생활에 만족합니다.",
+    "answer": "2"
+  }
+}

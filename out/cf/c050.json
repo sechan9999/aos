@@ -1,0 +1,14 @@
+{
+  "disab_reg": {"reason": "등록 장애인으로 신청하거나 판정받은 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "앱 개발과 필라테스를 하는 데 신체적 제약은 없습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "한국에서 태어나 자랐고 지금도 일산에 삽니다.", "answer": "1"},
+  "sex_orient": {"reason": "남편과 결혼해 신혼 생활을 하고 있습니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때 성별과 지금 정체성이 같습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 지금도 함께 계시고 주말마다 찾아뵙습니다.", "answer": "2"},
+  "child_dropout": {"reason": "전문대학까지 중단 없이 마치고 바로 취업했습니다.", "answer": "2"},
+  "ipv_assault": {"reason": "남편과 서로 감정을 살피며 지내고 폭력은 없었습니다.", "answer": "2"},
+  "suic_idea": {"reason": "업무 압박은 있지만 운동과 노래로 풀고 있습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 시도를 해 본 적은 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "몸 상태를 세밀하게 챙기는 편이라 담배는 피운 적 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "건강검진에서 혈압 관련 진단을 받은 적이 없습니다.", "answer": "2"}
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "지체장애로 보건복지부에 등록돼 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "다리가 불편해 계단 배달과 오래 서 있기가 힘듭니다.", "answer": "1"},
+  "unmet_care": {"reason": "물량 맞추느라 병원 갈 시간을 못 냈습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "배달 일이 끝나면 병원 문이 닫혀 있습니다.", "answer": "3"},
+  "self_health": {"reason": "나이와 다리 때문에 아주 좋진 않아도 일은 합니다.", "answer": "3"},
+  "activity_limit": {"reason": "무릎과 다리가 아파 계단 오르내리기가 버겁습니다.", "answer": "1"},
+  "discrim": {"reason": "늙고 다리 전다고 무시하는 입주민을 겪었습니다.", "answer": "1"},
+  "social_support": {"reason": "아내와 자녀들이 한집에 살아 바로 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "가족과 교회 식구들 덕에 그만큼 힘든 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들 용돈 줄 생각에 그런 마음 먹은 적 없습니다.", "answer": "2"}
+}

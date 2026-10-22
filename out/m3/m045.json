@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "장애 등록을 한 적이 없고 경비 일도 계속 하고 있음.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "무릎이 시큰거려도 순찰과 집안일은 혼자 해냄.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "교대 근무가 겹쳐 병원 문 여는 시간에 못 간 적 있음.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "돈보다는 근무 시간 때문에 진료를 미뤘음.",
+    "answer": "3"
+  },
+  "self_health": {
+    "reason": "나이에 비해 혈압약만 먹을 뿐 큰 병은 없음.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "야간 순찰과 텃밭 가꾸기를 매일 그대로 하고 있음.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "입주민이 나이 많다고 말을 함부로 한 일이 있었음.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "아내와 아들 내외가 한집에 살아 바로 도와줌.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "일과 손주 보는 재미로 그만큼 가라앉은 적은 없음.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "집안의 버팀목이라 그런 생각은 해본 적 없음.",
+    "answer": "2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "복지부에 장애인 등록을 한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "몸은 고되지만 일상생활에 큰 제약은 없습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "한국에서 나고 자랐습니다.", "answer": "1"},
+  "sex_orient": {"reason": "남편과 결혼해 살았고 이성애자입니다.", "answer": "1"},
+  "transgender": {"reason": "태어난 성별 그대로 여자로 살고 있습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 이혼하지 않고 함께 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "집안 형편이 어려워 초등학교만 마치고 일했습니다.", "answer": "1"},
+  "suic_idea": {"reason": "남편을 잃고 혼자 지내며 그런 생각이 든 적 있습니다.", "answer": "1"},
+  "suic_attempt": {"reason": "생각은 했어도 실제로 시도한 적은 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "담배는 배운 적이 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "병원에서 혈압 문제를 들은 적은 없습니다.", "answer": "2"}
+}

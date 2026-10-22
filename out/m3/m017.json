@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "장애 판정을 받은 적도 없고 등록한 적도 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "다리가 좀 저릴 뿐 장애라고 할 정도는 아닙니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "혈당 검사 때문에 동네 내과를 제때 다니고 있습니다.",
+    "answer": "2"
+  },
+  "unmet_reason": {
+    "reason": "진료를 못 받은 일이 없어 해당하지 않습니다.",
+    "answer": "5"
+  },
+  "self_health": {
+    "reason": "공복혈당이 높고 다리가 저려 아주 좋다고는 못 합니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "오래 걸으면 다리가 저려 중간에 쉬고 계단은 피합니다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "집과 동네에서만 지내 차별받을 일이 없었습니다.",
+    "answer": "2"
+  },
+  "social_support": {
+    "reason": "남편이 같이 살고 자녀들도 가끔 들여다봅니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "텃밭 가꾸고 노래 들으며 마음을 달래 그런 적 없습니다.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "건강하게 여생을 보내려는 생각뿐입니다.",
+    "answer": "2"
+  }
+}

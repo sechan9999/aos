@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "다리가 불편해도 따로 장애 등록은 하지 않았습니다.", "answer": "2"},
+  "disab_self": {"reason": "조금만 걸어도 다리가 버티지 못해 이동에 제약이 큽니다.", "answer": "1"},
+  "unmet_care": {"reason": "가고 싶은 병원이 멀어 이동이 힘들어 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "저상버스나 경사로가 없는 곳은 혼자 가기 어렵습니다.", "answer": "2"},
+  "self_health": {"reason": "다리 문제만 빼면 또래와 비슷한 편이라 보통입니다.", "answer": "3"},
+  "activity_limit": {"reason": "계단과 오래 걷기가 안 돼 전동 스쿠터를 씁니다.", "answer": "1"},
+  "discrim": {"reason": "무직이고 걸음이 느리다는 이유로 무시당한 적 있습니다.", "answer": "1"},
+  "social_support": {"reason": "조부모님과 부모님이 한집에 계셔 바로 도움을 받습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "취업이 길어지며 몇 주씩 무기력했던 때가 있었습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 가족과 설계 작업 덕에 그런 생각은 없었습니다.", "answer": "2"}
+}

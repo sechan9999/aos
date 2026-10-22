@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록된 장애 없이 매일 새벽 가게에서 빵을 굽고 있습니다.", "answer": "2"},
+  "disab_self": {"reason": "오래 서 있어 허리가 결릴 뿐 일상에 제약은 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "가게 문을 비울 수 없어 병원 가는 일을 미뤘습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "새벽 반죽부터 마감까지 시간을 내기 어려웠습니다.", "answer": "3"},
+  "self_health": {"reason": "헬스장은 다니지만 배가 나오고 새벽일로 피로합니다.", "answer": "3"},
+  "activity_limit": {"reason": "빵 굽기와 주말 가족 나들이 모두 문제없이 합니다.", "answer": "2"},
+  "discrim": {"reason": "동네 단골들과 지내며 차별받았다고 느낀 적 없습니다.", "answer": "2"},
+  "social_support": {"reason": "아내와 가까이 사는 오랜 친구들이 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "매출 걱정은 있어도 2주씩 가라앉은 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "아이들이 클 때까지 가게를 지키자는 생각뿐입니다.", "answer": "2"}
+}

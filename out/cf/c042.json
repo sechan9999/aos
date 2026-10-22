@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없고 등록 대상도 아닙니다.", "answer": "2"},
+  "disab_self": {"reason": "공장에서 재단기 다루는 데 몸에 불편은 없습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "경기도에서 태어나 쭉 한국에서 살았습니다.", "answer": "1"},
+  "sex_orient": {"reason": "여자친구를 사귀어 왔고 여자에게 끌립니다.", "answer": "1"},
+  "transgender": {"reason": "태어난 성별 그대로 남자로 살고 있습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님 두 분 다 계시고 지금도 같이 삽니다.", "answer": "2"},
+  "child_dropout": {"reason": "형편이 넉넉하진 않았어도 고등학교는 마쳤습니다.", "answer": "2"},
+  "suic_idea": {"reason": "일이 고되긴 해도 그런 생각까지는 안 했습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "생각한 적이 없으니 시도한 적도 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "교대 근무 쉬는 시간마다 피워 하루 한 갑입니다.", "answer": "1"},
+  "htn_dx": {"reason": "건강검진에서 혈압 얘기를 들은 적은 없습니다.", "answer": "2"}
+}

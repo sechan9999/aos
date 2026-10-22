@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "다리가 불편해도 따로 장애 등록은 해본 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "조금만 걸어도 다리가 버텨주질 않아 늘 제약이 있습니다.", "answer": "1"},
+  "unmet_care": {"reason": "가야지 하면서도 이동이 버거워 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "혼자 버스 타고 병원까지 가는 게 제일 힘듭니다.", "answer": "2"},
+  "self_health": {"reason": "공복혈당도 높고 다리도 성치 않아 좋다고는 못 합니다.", "answer": "4"},
+  "activity_limit": {"reason": "텃밭 일도 오래 못 하고 중간에 쉬어야 합니다.", "answer": "1"},
+  "discrim": {"reason": "전동 스쿠터 타고 다니면 눈치 주는 시선을 느낍니다.", "answer": "1"},
+  "social_support": {"reason": "남편이 옆에 있고 자녀들도 가끔 들여다봅니다.", "answer": "1"},
+  "depress_2wk": {"reason": "텃밭 가꾸고 노래 들으며 그럭저럭 마음을 다잡습니다.", "answer": "2"},
+  "suic_idea": {"reason": "자식들 생각하면 그런 마음은 먹어본 적 없습니다.", "answer": "2"}
+}

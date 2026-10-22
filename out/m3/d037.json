@@ -1,0 +1,9 @@
+{
+  "disab_reg": {"reason": "장애 등록은 한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "살림과 바깥 활동 모두 혼자 해냅니다.", "answer": "2"},
+  "self_health": {"reason": "혈당이 걱정이지만 매일 걸어 그런대로 지냅니다.", "answer": "3"},
+  "act_limit": {"reason": "집안일과 아침 산책을 거른 날이 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "동네 의원이 가까워 제때 다녀옵니다.", "answer": "2"},
+  "discrim": {"reason": "나이 들고 못 배웠다고 무시당한 적이 있습니다.", "answer": "1"},
+  "depress": {"reason": "식구들과 지내고 노래 들으며 마음을 풉니다.", "answer": "2"}
+}

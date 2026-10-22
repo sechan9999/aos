@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애인으로 신청하거나 판정받은 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "몸도 마음도 멀쩡해서 일상생활에 아무 제약이 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "아플 때는 집 근처 병원에 바로 가서 진료받았습니다.", "answer": "2"},
+  "unmet_reason": {"reason": "못 받은 진료가 없어서 해당 사항이 없습니다.", "answer": "5"},
+  "self_health": {"reason": "스물두 살이라 잔병치레 없이 컨디션이 좋은 편입니다.", "answer": "2"},
+  "activity_limit": {"reason": "산책이나 게임, 구직 활동 모두 문제없이 하고 있습니다.", "answer": "2"},
+  "discrim": {"reason": "동네 사람들과 두루 잘 지내서 차별받은 기억이 없습니다.", "answer": "2"},
+  "social_support": {"reason": "부모님과 함께 살고 친구들도 많아 도와줄 사람이 많습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "구직이 힘들어도 금방 털어내는 성격이라 그런 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "가족과 친구 덕에 그런 생각은 해본 적이 없습니다.", "answer": "2"}
+}

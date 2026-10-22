@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "다리가 불편해도 장애인 등록은 따로 해본 적이 없다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "조금만 걸어도 다리가 버티지 못해 일상이 불편하다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "무릎이 아파도 병원에 못 간 적이 몇 번 있었다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "병원까지 오가는 길이 멀고 계단이 많아 힘들었다.",
+    "answer": "2"
+  },
+  "self_health": {
+    "reason": "청소 일은 하지만 다리와 허리가 늘 아프다.",
+    "answer": "4"
+  },
+  "activity_limit": {
+    "reason": "계단을 못 올라가 경사로와 저상버스만 찾아다닌다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "나이 많고 청소한다고 아랫사람 대하듯 하는 사람이 있다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "주말마다 자식들이 와서 집안일을 거들어 준다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "영감 가고 혼자 지내다 보면 한동안 마음이 가라앉는다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "손주들 용돈 챙겨줄 생각에 그런 마음은 먹지 않았다.",
+    "answer": "2"
+  }
+}

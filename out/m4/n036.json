@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "등록 장애인으로 신청한 적이 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "가게 일과 집안일 모두 무리 없이 하고 있습니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "가게 문을 비우기 어려워 진료를 미룬 적이 있습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "평일 낮에는 매장을 지켜야 해서 시간이 없었습니다.",
+    "answer": "3"
+  },
+  "self_health": {
+    "reason": "큰 병은 없지만 재고 맞출 때 속이 자주 쓰립니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "저녁 산책도 거르지 않고 일상에 지장은 없습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "전문대 나온 판매원이라고 낮춰 보는 손님이 있었습니다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "남편과 가까이 사는 친정 부모님께 부탁할 수 있습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "마음이 소란한 날은 있어도 2주씩 이어지진 않았습니다.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "지금 생활에 만족하며 그런 생각은 한 적 없습니다.",
+    "answer": "2"
+  }
+}

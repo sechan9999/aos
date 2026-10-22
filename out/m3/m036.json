@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "오래 걸으면 다리가 저리지만 장애라고 보지는 않습니다.", "answer": "2"},
+  "unmet_care": {"reason": "동네 의원이 가까워 필요할 때 바로 다녀옵니다.", "answer": "2"},
+  "unmet_reason": {"reason": "진료를 못 받은 일이 없습니다.", "answer": "5"},
+  "self_health": {"reason": "매일 산책은 하지만 다리가 저려 보통이라 봅니다.", "answer": "3"},
+  "activity_limit": {"reason": "계단을 피하면 집안일과 산책은 무리 없습니다.", "answer": "2"},
+  "discrim": {"reason": "동네 사람들과 조용히 지내 차별을 겪지 않았습니다.", "answer": "2"},
+  "social_support": {"reason": "부모님과 함께 살고 이웃도 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "수입 없이 지내는 처지가 2주 넘게 답답했습니다.", "answer": "1"},
+  "suic_idea": {"reason": "부모님 약을 챙겨야 해서 그런 생각은 없습니다.", "answer": "2"}
+}

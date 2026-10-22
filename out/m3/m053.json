@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 심하지 않은 지체장애로 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "장애 정도가 심하지 않아 일상생활은 혼자 다 해냅니다.", "answer": "2"},
+  "unmet_care": {"reason": "아플 때는 동네 병원에 바로 가서 진료를 받았습니다.", "answer": "2"},
+  "unmet_reason": {"reason": "진료를 못 받은 적이 없어 해당 사항이 없습니다.", "answer": "5"},
+  "self_health": {"reason": "운동은 적게 하지만 또래답게 큰 탈 없이 지냅니다.", "answer": "2"},
+  "activity_limit": {"reason": "산책과 아르바이트 모두 무리 없이 해왔습니다.", "answer": "2"},
+  "discrim": {"reason": "구직 면접에서 장애 등록 사실을 말한 뒤 태도가 달라진 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "부모님과 함께 살아 아프면 바로 도움을 받습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "구직이 길어져 답답했지만 2주 넘게 이어지지는 않았습니다.", "answer": "2"},
+  "suic_idea": {"reason": "가족과 친구들이 있어 그런 생각은 해본 적 없습니다.", "answer": "2"}
+}

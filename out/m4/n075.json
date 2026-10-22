@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "장애 등록을 한 적이 없고 관련 심사를 받은 일도 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "둘레길을 걷고 볼링을 칠 만큼 몸에 큰 제약은 없습니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "허리가 아팠지만 수입이 없어 병원 가기를 미뤘습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "일을 쉬는 동안 진료비와 검사비가 가장 부담이었습니다.",
+    "answer": "1"
+  },
+  "self_health": {
+    "reason": "큰 병은 없지만 예전 같지 않아 보통이라고 봅니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "집안일과 산책을 하는 데 지장이 없습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "나이 많은 무직이라는 이유로 채용에서 밀린 적이 있습니다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "같이 사는 형제들이 있어 아플 때 부탁할 수 있습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "재취업이 계속 막히면서 몇 주 내내 마음이 가라앉았습니다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "힘들어도 가족을 챙겨야 해서 그런 생각까지는 안 했습니다.",
+    "answer": "2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 지체장애로 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "지체장애로 이동과 작업 자세에 제약이 있습니다.", "answer": "1"},
+  "unmet_care": {"reason": "무직이라 비용이 부담돼 진료를 미룬 적 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "수입이 없어 진료비 부담이 가장 컸습니다.", "answer": "1"},
+  "self_health": {"reason": "숲길을 걷지만 장애로 체력은 보통 수준입니다.", "answer": "3"},
+  "activity_limit": {"reason": "오래 서 있거나 걷는 일상 활동에 제한이 있습니다.", "answer": "1"},
+  "discrim": {"reason": "취업 면접에서 장애를 이유로 거절당한 적 있습니다.", "answer": "1"},
+  "social_support": {"reason": "조부모님과 부모님이 함께 살아 바로 도와주십니다.", "answer": "1"},
+  "depress_2wk": {"reason": "취업 준비가 길어지며 무력감이 2주 넘게 갔습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 가족과 설계 작업이 버팀목이 되었습니다.", "answer": "2"}
+}

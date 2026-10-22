@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 심하지 않은 지체장애로 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "장애 정도가 심하지 않아 출퇴근과 배드민턴에 지장이 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "보고 일정에 밀려 미뤄둔 진료가 올해도 있었습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "임원 회의와 실사 일정이 겹쳐 시간을 내지 못했습니다.", "answer": "3"},
+  "self_health": {"reason": "외식이 잦고 운동은 주말뿐이라 보통 수준으로 봅니다.", "answer": "3"},
+  "activity_limit": {"reason": "일상 활동과 주말 운동 모두 문제없이 하고 있습니다.", "answer": "2"},
+  "discrim": {"reason": "직장과 동호회에서 차별로 느낄 일은 없었습니다.", "answer": "2"},
+  "social_support": {"reason": "부모님과 함께 살아 아플 때 바로 도움을 받습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "업무 스트레스는 있어도 2주 이상 가라앉은 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "그런 생각을 해본 적이 없습니다.", "answer": "2"}
+}

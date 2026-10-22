@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "다리가 불편해 지체장애로 구청에 등록해 두었습니다.", "answer": "1"},
+  "disab_self": {"reason": "계단 오르내릴 때 다리가 아파 일상이 더딥니다.", "answer": "1"},
+  "unmet_care": {"reason": "무릎이 아파도 청소 일 때문에 병원을 미뤘습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "근무 시간에 묶여 진료 시간을 못 냈습니다.", "answer": "3"},
+  "self_health": {"reason": "여든에 다리까지 불편하니 성한 데가 없습니다.", "answer": "4"},
+  "activity_limit": {"reason": "오래 서 있거나 걷는 일이 예전 같지 않습니다.", "answer": "1"},
+  "discrim": {"reason": "청소하는 늙은이라고 함부로 대하는 사람이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "주말마다 오는 자식들이 집안일을 거들어 줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "영감 떠난 뒤 혼자 있는 밤이면 한참 가라앉습니다.", "answer": "1"},
+  "suic_idea": {"reason": "손주들 얼굴 보려면 그런 마음은 먹지 않습니다.", "answer": "2"}
+}

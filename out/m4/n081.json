@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 지체장애로 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "지체장애로 오래 서 있거나 걷는 일에 제약이 있습니다.", "answer": "1"},
+  "unmet_care": {"reason": "대구와 가까워 필요할 때 병원에 다녀왔습니다.", "answer": "2"},
+  "unmet_reason": {"reason": "진료를 못 받은 적이 없어 해당하지 않습니다.", "answer": "5"},
+  "self_health": {"reason": "운동은 하지만 쉽게 지쳐 보통이라고 봅니다.", "answer": "3"},
+  "activity_limit": {"reason": "장애와 피로로 집안일과 외출에 제한이 있습니다.", "answer": "1"},
+  "discrim": {"reason": "장애인이라는 이유로 불편한 시선을 받은 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "남편과 자녀, 이웃이 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "가족과 전시 관람으로 기분을 추슬러 왔습니다.", "answer": "2"},
+  "suic_idea": {"reason": "가족과 지내며 그런 생각을 한 적은 없습니다.", "answer": "2"}
+}

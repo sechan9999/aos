@@ -1,0 +1,14 @@
+{
+  "disab_reg": {"reason": "복지부에 등록한 장애는 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "무릎은 시원찮아도 봉래산은 매주 오릅니다.", "answer": "2"},
+  "birth_ctry": {"reason": "부산 영도에서 나고 자랐습니다.", "answer": "1"},
+  "sex_orient": {"reason": "평생 함께한 아내가 있는 이성애자입니다.", "answer": "1"},
+  "transgender": {"reason": "타고난 성별 그대로 살아왔습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 끝까지 같이 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "형편은 빠듯했어도 고등학교는 마쳤습니다.", "answer": "2"},
+  "ipv_assault": {"reason": "아내와는 서로 의지하며 조용히 지냅니다.", "answer": "2"},
+  "suic_idea": {"reason": "봉사하고 등산하며 사는 재미가 있습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 생각 자체를 해본 적이 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "물류사무실 시절엔 피웠지만 등산하며 끊었습니다.", "answer": "3"},
+  "htn_dx": {"reason": "몇 해 전 진단받고 약 챙겨 먹습니다.", "answer": "1"}
+}

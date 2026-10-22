@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없고 그럴 일도 없었습니다.", "answer": "2"},
+  "disab_self": {"reason": "무릎이 시큰거려도 일상생활에 큰 제약은 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "허리가 아파도 근무 교대 때문에 병원을 미뤘습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "돌봄 일정이 빡빡해 진료 시간을 내기 어려웠습니다.", "answer": "3"},
+  "self_health": {"reason": "체위 변경 일로 허리는 뻐근하지만 그런대로 지냅니다.", "answer": "3"},
+  "activity_limit": {"reason": "완만한 산길은 걷고 집안일도 다 해내고 있습니다.", "answer": "2"},
+  "discrim": {"reason": "요양보호사라고 함부로 말하는 보호자를 겪었습니다.", "answer": "1"},
+  "social_support": {"reason": "무뚝뚝해도 남편이 아플 때는 챙겨 줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "서운한 날은 있어도 그만큼 오래 가라앉지는 않습니다.", "answer": "2"},
+  "suic_idea": {"reason": "그런 생각은 해 본 적 없이 하루하루 살아갑니다.", "answer": "2"}
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애인으로 신청하거나 판정받은 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "둘레길을 걷고 볼링도 칠 만큼 일상에 제약이 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "무직이라 병원비가 부담돼 진료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "소득이 없어 진료비와 검사비가 가장 큰 걸림돌이었습니다.", "answer": "1"},
+  "self_health": {"reason": "큰 병은 없지만 나이 들며 예전만 못해 보통입니다.", "answer": "3"},
+  "activity_limit": {"reason": "집안일과 모임 총무 일을 하는 데 지장은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "면접과 모임에서 무직이라는 이유로 무시당한 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "한집에 사는 형제들이 있어 아플 때 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "재취업이 길어지며 몇 주씩 무기력하고 막막했습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 가족을 생각하면 그런 마음까지는 없었습니다.", "answer": "2"}
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "구청에서 지체장애 등록을 마쳤고 복지 카드도 갖고 있다.", "answer": "1"},
+  "disab_self": {"reason": "심한 편은 아니어도 오래 서 있으면 다리가 저려 쉬어야 한다.", "answer": "1"},
+  "unmet_care": {"reason": "새벽 일 끝내고 가면 병원 문이 닫혀 미룬 적이 있다.", "answer": "1"},
+  "unmet_reason": {"reason": "돈보다 시장 일 시간에 맞추기가 어려워 못 갔다.", "answer": "3"},
+  "self_health": {"reason": "여든 나이에 아직 일하니 나쁘진 않고 그저 보통이다.", "answer": "3"},
+  "activity_limit": {"reason": "빨리 걸으면 숨이 차서 벤치에 앉아 쉬어야 한다.", "answer": "1"},
+  "discrim": {"reason": "늙었다고 말을 함부로 하거나 못 알아듣는 취급을 받는다.", "answer": "1"},
+  "social_support": {"reason": "자식들과 시장 동료들에게 아쉬운 소리 하면 와 준다.", "answer": "1"},
+  "depress_2wk": {"reason": "영감 생각에 적적해도 하루 이틀이면 털고 일어난다.", "answer": "2"},
+  "suic_idea": {"reason": "내 벌이로 살림 꾸리는 재미가 있어 그런 생각은 없다.", "answer": "2"}
+}

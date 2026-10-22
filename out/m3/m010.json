@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애 판정을 받은 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "일상생활에 제약을 주는 장애는 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "필요할 때 동네 병원에 바로 갔습니다.", "answer": "2"},
+  "unmet_reason": {"reason": "진료를 못 받은 경우가 없습니다.", "answer": "5"},
+  "self_health": {"reason": "산책을 자주 하고 큰 병치레가 없습니다.", "answer": "2"},
+  "activity_limit": {"reason": "건강 문제로 못 하는 일은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "무직이라 눈치는 보이지만 차별까지는 아닙니다.", "answer": "2"},
+  "social_support": {"reason": "부모님과 가까운 친구가 바로 와 줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "취업 준비를 미루며 무력감이 오래 간 적 있습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 그런 생각까지 한 적은 없습니다.", "answer": "2"}
+}

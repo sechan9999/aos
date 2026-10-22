@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없고 혼자 생활을 꾸려가고 있습니다.", "answer": "2"},
+  "disab_self": {"reason": "매일 배드민턴을 칠 만큼 일상에 큰 제약은 없습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "울산에서 나고 자랐습니다.", "answer": "1"},
+  "sex_orient": {"reason": "결혼해 가정을 이루고 살아온 이성애자입니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때부터 남자로 살아왔습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 끝까지 함께 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "형편이 넉넉지 않았지만 고등학교는 마쳤습니다.", "answer": "2"},
+  "suic_idea": {"reason": "혼자여도 하루 일과가 정해져 있어 그런 생각은 없습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 생각 자체를 해 본 적이 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "건강 기록을 시작하면서 담배는 끊었습니다.", "answer": "3"},
+  "htn_dx": {"reason": "의사 말을 듣고 매일 혈압을 적어 두고 있습니다.", "answer": "1"}
+}

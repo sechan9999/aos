@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "다리가 불편해 지체장애로 등록해 두었습니다.",
+    "answer": "1"
+  },
+  "disab_self": {
+    "reason": "다리 힘이 달려 계단 오르내리기와 오래 서 있기가 힘듭니다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "무릎 치료를 받고 싶었지만 미루다가 넘긴 적이 있습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "벌이가 없어 치료비가 부담스러워 그냥 참았습니다.",
+    "answer": "1"
+  },
+  "self_health": {
+    "reason": "산에는 다니지만 다리와 허리가 예전 같지 않습니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "장을 보거나 집안일을 할 때 중간에 쉬어야 합니다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "걸음이 느리다고 눈치를 주거나 배운 것 없다고 무시당한 적이 있습니다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "남편과 자식들이 같이 살고 이웃들도 금방 와 줍니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "속상한 날은 있어도 산에 다녀오면 금세 풀립니다.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "손주들 크는 재미에 그런 생각은 해 본 적 없습니다.",
+    "answer": "2"
+  }
+}

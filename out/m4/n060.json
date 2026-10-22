@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록된 장애는 없고 복지부 등록 절차를 밟은 적도 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "몸은 건강한 편이라 일상생활에 제약은 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "식당가 일정이 빡빡해 진료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "진료시간과 근무시간이 겹쳐 시간을 내기 어려웠습니다.", "answer": "3"},
+  "self_health": {"reason": "식단은 잘 챙기지만 흡연과 피로가 걸립니다.", "answer": "3"},
+  "activity_limit": {"reason": "예민함은 있어도 일상 활동을 못 할 정도는 아닙니다.", "answer": "2"},
+  "discrim": {"reason": "현장에서 젊은 여성이라 무시당하는 일을 겪었습니다.", "answer": "1"},
+  "social_support": {"reason": "배우자와 가까운 친구가 있어 부탁할 사람이 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "감정 기복이 커서 길게 가라앉은 시기가 있었습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 사우나와 여행으로 풀지 그 생각까지는 안 갑니다.", "answer": "2"}
+}

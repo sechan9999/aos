@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "다리가 불편해도 따로 장애 등록은 해 본 적이 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "조금만 걸어도 다리가 버텨주지 못해 스쿠터를 탑니다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "병원 가는 길이 멀고 계단이 많아 미룬 적이 있습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "저상버스를 기다려야 해서 오가는 일이 제일 힘듭니다.",
+    "answer": "2"
+  },
+  "self_health": {
+    "reason": "산도 다니지만 다리 탓에 예전만은 못합니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "멀리 갈 때는 꼭 스쿠터를 타야 움직일 수 있습니다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "버스에서 스쿠터 때문에 눈총 받은 일이 있었습니다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "남편과 자식들이 한집에 사니 부탁할 사람은 있습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "다리가 아파 속상해도 그만큼 길게 가라앉지는 않습니다.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "손주들 보는 재미가 있어 그런 생각은 하지 않습니다.",
+    "answer": "2"
+  }
+}

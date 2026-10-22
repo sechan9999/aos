@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 지체장애로 정식 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "심하지 않은 장애라 둘레길 산책과 볼링은 무리 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "무직이라 병원비가 부담돼 진료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "소득이 없어 진료비와 검사비가 가장 큰 걸림돌입니다.", "answer": "1"},
+  "self_health": {"reason": "큰 병은 없지만 나이와 장애를 생각하면 보통입니다.", "answer": "3"},
+  "activity_limit": {"reason": "집안 살림과 서류 업무를 혼자 다 처리하고 있습니다.", "answer": "2"},
+  "discrim": {"reason": "구직 상담에서 장애와 경력 공백 때문에 밀린 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "형제들과 한집에 살아 아프면 바로 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "재취업이 계속 안 되면서 몇 주간 무력감이 이어졌습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 가족을 챙겨야 해서 그런 생각은 안 했습니다.", "answer": "2"}
+}

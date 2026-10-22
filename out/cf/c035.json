@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "장애 등록을 해본 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "무릎과 허리가 아프지만 청소 일은 계속 합니다.", "answer": "2"},
+  "birth_ctry": {"reason": "한국에서 태어나 평생 살았습니다.", "answer": "1"},
+  "sex_orient": {"reason": "남편과 결혼해 살았고 이성애자입니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때부터 여자로 살아왔습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 두 분 다 돌아가실 때까지 함께 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "집이 가난해 초등학교만 마치고 일을 했습니다.", "answer": "1"},
+  "suic_idea": {"reason": "혼자 살아 외롭지만 죽을 생각까지는 안 했습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 시도를 한 적이 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "담배는 평생 피운 적이 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "보건소에서 고혈압 진단을 받고 약을 먹습니다.", "answer": "1"}
+}

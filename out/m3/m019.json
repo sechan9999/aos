@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애인이 아니며 신청한 적도 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "일상생활에 제약을 줄 장애는 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "야근과 회의가 많아 병원 갈 시간을 못 냈습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "비용이 아니라 진료 시간을 내기 어려웠습니다.", "answer": "3"},
+  "self_health": {"reason": "외식이 잦고 운동은 주말뿐이라 보통 수준입니다.", "answer": "3"},
+  "activity_limit": {"reason": "배드민턴과 산책을 하는 데 지장은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "직장과 동네에서 차별받은 기억은 없습니다.", "answer": "2"},
+  "social_support": {"reason": "부모님과 함께 살아 바로 도움을 받습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "업무 스트레스는 있어도 2주 이상 간 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "그런 생각을 해 본 적은 없습니다.", "answer": "2"}
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록은 해본 적 없고 매일 시장에 나가 일한다.", "answer": "2"},
+  "disab_self": {"reason": "오래 걸으면 다리가 저려 계단 많은 곳은 피한다.", "answer": "1"},
+  "unmet_care": {"reason": "새벽 일 끝나고 가려면 늦어 병원을 미룬 적이 있다.", "answer": "1"},
+  "unmet_reason": {"reason": "시장 일 시간에 맞추다 보니 진료 시간을 놓쳤다.", "answer": "3"},
+  "self_health": {"reason": "여든에 숨이 차긴 해도 매일 출근은 하니 보통이다.", "answer": "3"},
+  "activity_limit": {"reason": "빨리 걸으면 숨이 차서 벤치에 앉아 쉬어야 한다.", "answer": "1"},
+  "discrim": {"reason": "나이 많다고 일 느리다며 핀잔 듣는 일이 더러 있다.", "answer": "1"},
+  "social_support": {"reason": "자갈치 동료들과 가끔 오는 자식들이 거들어 준다.", "answer": "1"},
+  "depress_2wk": {"reason": "혼자라 적막할 때는 있어도 금세 털어내고 지낸다.", "answer": "2"},
+  "suic_idea": {"reason": "내일 입을 앞치마 다려 놓으며 하루하루 살아간다.", "answer": "2"}
+}

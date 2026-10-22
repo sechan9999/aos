@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "몸은 불편한 데 없어서 장애 등록은 한 적 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "살림하고 배드민턴 칠 만큼은 건강합니다.", "answer": "2"},
+  "birth_ctry": {"reason": "서울에서 나고 자라 쭉 한국에서 살았습니다.", "answer": "1"},
+  "sex_orient": {"reason": "남편과 결혼해 살았고 이성애자입니다.", "answer": "1"},
+  "transgender": {"reason": "여자로 태어나 여자로 살아왔습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 끝까지 함께 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "형편이 어려워 중학교만 마치고 더 못 배웠습니다.", "answer": "1"},
+  "suic_idea": {"reason": "남편 보내고 힘들어도 자녀들 보며 견딥니다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 생각까지 간 적은 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "담배는 평생 손에 대본 적이 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "혈압은 아직 괜찮다고 들었고 관리만 합니다.", "answer": "2"}
+}

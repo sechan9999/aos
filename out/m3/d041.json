@@ -1,0 +1,30 @@
+{
+  "disab_reg": {
+    "reason": "보건복지부에 지체장애로 등록되어 있습니다.",
+    "answer": "1"
+  },
+  "disab_self": {
+    "reason": "전동차 운행과 집안일 모두 무리 없이 해내고 있습니다.",
+    "answer": "2"
+  },
+  "self_health": {
+    "reason": "뱃살과 공복 혈당이 신경 쓰이지만 아직 버틸 만합니다.",
+    "answer": "3"
+  },
+  "act_limit": {
+    "reason": "건강 때문에 일상이나 근무를 못 한 적은 없습니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "교대 근무 중에도 쉬는 날 병원에 갈 수 있었습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "직장에서나 동네에서나 차별을 느낀 일은 없었습니다.",
+    "answer": "2"
+  },
+  "depress": {
+    "reason": "가족과 지내며 길게 우울했던 적은 없습니다.",
+    "answer": "2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없고 그럴 일도 없었습니다.", "answer": "2"},
+  "disab_self": {"reason": "무릎이 좀 시릴 뿐 집안일과 텃밭 일은 다 합니다.", "answer": "2"},
+  "unmet_care": {"reason": "혈당 검사받으러 동네 내과에 제때 다니고 있습니다.", "answer": "2"},
+  "unmet_reason": {"reason": "진료를 못 받은 적이 없어 해당되지 않습니다.", "answer": "5"},
+  "self_health": {"reason": "공복혈당이 좀 높다고 해서 아주 좋다고는 못 합니다.", "answer": "3"},
+  "activity_limit": {"reason": "텃밭 가꾸고 살림하는 데 지장은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "동네에서 오래 살아 그런 일을 겪은 적은 없습니다.", "answer": "2"},
+  "social_support": {"reason": "남편이 있고 자녀들도 부르면 와서 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "적적할 때는 있어도 그렇게까지 힘든 적은 없었습니다.", "answer": "2"},
+  "suic_idea": {"reason": "가족 생각하며 그런 마음은 품은 적이 없습니다.", "answer": "2"}
+}

@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "등록 장애인으로 신청한 적도 없고 해당 사항이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "산책도 다니고 일상생활에 불편한 점은 없습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "관악구에서 나고 자란 한국 사람입니다.", "answer": "1"},
+  "sex_orient": {"reason": "지금까지 이성에게만 끌렸습니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때 성별 그대로 살고 있습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 지금도 저와 함께 살고 계십니다.", "answer": "2"},
+  "child_dropout": {"reason": "집안 형편 때문에 학교를 쉰 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "취업 걱정은 크지만 그런 생각까지 간 적은 없습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "시도해 본 적은 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "술자리는 좋아해도 담배는 손댄 적이 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "건강검진에서 혈압 문제를 들은 적이 없습니다.", "answer": "2"}
+}

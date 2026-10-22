@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "지체장애로 복지부에 장애인 등록을 마쳤다.",
+    "answer": "1"
+  },
+  "disab_self": {
+    "reason": "다리가 불편해 오래 서거나 걷는 일이 힘들다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "큰 병원에 가야 할 때 혼자 움직이기 어려워 미룬 적이 있다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "남편이 운전해 줄 때만 갈 수 있어 때를 놓쳤다.",
+    "answer": "2"
+  },
+  "self_health": {
+    "reason": "공복혈당이 높고 다리가 아프지만 텃밭 일은 한다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "집안일과 텃밭 일을 쉬어 가며 해야 한다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "걸음이 느리다고 눈치 주는 시선을 겪었다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "남편이 같이 살고 자녀들도 가끔 들른다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "몸이 아픈 날은 울적해도 2주씩 이어지지는 않았다.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "자녀와 남편을 생각하면 그런 마음은 들지 않는다.",
+    "answer": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "산책과 가드닝에 지장이 없을 만큼 건강합니다.", "answer": "2"},
+  "birth_ctry": {"reason": "한국에서 태어나 줄곧 살아왔습니다.", "answer": "1"},
+  "sex_orient": {"reason": "남편과 함께 사는 이성애자입니다.", "answer": "1"},
+  "transgender": {"reason": "태어난 성별 그대로 살아왔습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 끝까지 함께 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "대학까지 끊김 없이 마쳤습니다.", "answer": "2"},
+  "ipv_assault": {"reason": "남편과는 대화로 갈등을 풀어 왔습니다.", "answer": "2"},
+  "suic_idea": {"reason": "식물과 전시를 보며 평온하게 지냅니다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 생각을 한 적도 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "평생 담배를 피워 본 적이 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "나이가 들며 혈압약을 처방받아 먹고 있습니다.", "answer": "1"}
+}

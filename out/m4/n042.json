@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "지체장애로 보건복지부에 장애인 등록을 마쳤습니다.", "answer": "1"},
+  "disab_self": {"reason": "다리가 불편해 오래 걷거나 서 있기가 힘듭니다.", "answer": "1"},
+  "unmet_care": {"reason": "진료비가 부담돼 아파도 참고 넘긴 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "수입이 없어 병원비가 가장 큰 걸림돌이었습니다.", "answer": "1"},
+  "self_health": {"reason": "매일 탄천을 걷지만 장애와 나이로 예전 같지 않습니다.", "answer": "3"},
+  "activity_limit": {"reason": "집안일과 외출에서 움직임에 제한을 받습니다.", "answer": "1"},
+  "discrim": {"reason": "장애가 있다는 이유로 불편한 시선을 받은 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "배우자와 자녀가 함께 살아 바로 도움을 받습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "작은 말 한마디에 상처받아 오래 가라앉은 때가 있었습니다.", "answer": "1"},
+  "suic_idea": {"reason": "가족과 성당 모임이 있어 그런 생각까지는 하지 않았습니다.", "answer": "2"}
+}

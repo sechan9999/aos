@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "장애 등록을 한 적이 없고 신청을 생각해본 적도 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "오래 걸으면 다리가 저리지만 장애라고 할 정도는 아닙니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "다리 저림으로 병원에 가려다 계속 미뤄서 못 갔습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "급하지 않다고 여겨 예약을 자꾸 뒤로 미룬 탓입니다.",
+    "answer": "4"
+  },
+  "self_health": {
+    "reason": "큰 병은 없지만 쉽게 지치는 편이라 보통이라고 봅니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "계단을 피하는 정도이고 집안일이나 외출은 그대로 합니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "혼자 지내는 시간이 많아 차별을 겪을 일이 없었습니다.",
+    "answer": "2"
+  },
+  "social_support": {
+    "reason": "가까이 사는 부모님께 부탁하면 바로 와 주십니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "취업 준비가 길어지며 몇 주간 무기력하고 우울했습니다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "힘들어도 그런 생각까지 한 적은 없습니다.",
+    "answer": "2"
+  }
+}

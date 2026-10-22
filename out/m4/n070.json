@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록은 해 본 적 없고 매일 시장에 나가 일한다.", "answer": "2"},
+  "disab_self": {"reason": "손놀림도 걸음도 아직 내 일은 혼자 다 해낸다.", "answer": "2"},
+  "unmet_care": {"reason": "새벽부터 시장 일이라 병원 문 여는 시간을 자꾸 놓쳤다.", "answer": "1"},
+  "unmet_reason": {"reason": "돈이나 거리보다 일하는 시간이 겹쳐서 못 갔다.", "answer": "3"},
+  "self_health": {"reason": "여든치고는 괜찮지만 빨리 걸으면 숨이 찬다.", "answer": "3"},
+  "activity_limit": {"reason": "숨이 차면 좀 쉬었다 할 뿐 하던 일은 다 한다.", "answer": "2"},
+  "discrim": {"reason": "시장 사람들도 이웃도 나를 오래 알고 대접해 준다.", "answer": "2"},
+  "social_support": {"reason": "자식들과 시장 동료들이 아프다 하면 바로 와 준다.", "answer": "1"},
+  "depress_2wk": {"reason": "영감 생각에 적막할 때 있어도 금세 털고 일어난다.", "answer": "2"},
+  "suic_idea": {"reason": "내 벌이로 사는 재미가 있어 그런 생각은 없었다.", "answer": "2"}
+}

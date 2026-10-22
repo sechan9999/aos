@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "복지부에 지체장애로 등록되어 있다.", "answer": "1"},
+  "disab_self": {"reason": "장애가 심하지 않아 경비 일과 순찰을 다 해낸다.", "answer": "2"},
+  "unmet_care": {"reason": "아프면 홍성 읍내 병원에 바로 가서 진료를 받는다.", "answer": "2"},
+  "unmet_reason": {"reason": "진료를 못 받은 적이 없으니 해당 없다.", "answer": "5"},
+  "self_health": {"reason": "일흔여덟 나이에 다리가 좀 불편해도 그럭저럭 지낸다.", "answer": "3"},
+  "activity_limit": {"reason": "매일 산책하고 텃밭도 가꾸니 큰 제한은 없다.", "answer": "2"},
+  "discrim": {"reason": "원칙대로 일하니 입주민들도 함부로 대하지 않는다.", "answer": "2"},
+  "social_support": {"reason": "3세대가 한집에 사니 도와줄 식구가 많다.", "answer": "1"},
+  "depress_2wk": {"reason": "손주들 보는 재미로 지내 그만큼 울적한 적은 없다.", "answer": "2"},
+  "suic_idea": {"reason": "집안의 버팀목이라 그런 생각은 해본 적 없다.", "answer": "2"}
+}

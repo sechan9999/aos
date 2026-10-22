@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 지체장애로 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "오래 서서 일하면 다리가 아파 생활에 제약이 있습니다.", "answer": "1"},
+  "unmet_care": {"reason": "가게 문을 비울 수 없어 진료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "평일 영업시간과 병원 진료시간이 겹쳐 시간을 내기 어렵습니다.", "answer": "3"},
+  "self_health": {"reason": "큰 병은 없지만 다리 통증과 피로가 잦아 보통입니다.", "answer": "3"},
+  "activity_limit": {"reason": "장시간 서 있거나 걷는 일에는 제한을 느낍니다.", "answer": "1"},
+  "discrim": {"reason": "동네 손님들과 지내는 일상에서 차별을 겪진 않았습니다.", "answer": "2"},
+  "social_support": {"reason": "남편과 가까이 사는 친정 부모님이 도와주십니다.", "answer": "1"},
+  "depress_2wk": {"reason": "재고가 안 맞던 시기에 몇 주간 마음이 가라앉았습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 그런 생각까지 해본 적은 없습니다.", "answer": "2"}
+}

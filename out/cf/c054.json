@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "장애 판정을 받은 적이 없어 등록도 안 했습니다.", "answer": "2"},
+  "disab_self": {"reason": "무릎이 시원찮아도 혼자 살림은 하고 지냅니다.", "answer": "2"},
+  "birth_ctry": {"reason": "한국에서 나고 자랐습니다.", "answer": "1"},
+  "sex_orient": {"reason": "남편과 결혼해 평생 살았습니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때부터 여자로 살아왔습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 끝까지 같이 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "집이 어려워 중학교만 마치고 일하러 나갔습니다.", "answer": "1"},
+  "suic_idea": {"reason": "남편 보내고 벌이도 없어 죽고 싶다는 생각이 들 때가 있습니다.", "answer": "1"},
+  "suic_attempt": {"reason": "생각만 했지 실제로 해 본 적은 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "담배는 평생 손에 대 본 적이 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "몇 해 전부터 혈압약을 받아 먹고 있습니다.", "answer": "1"}
+}

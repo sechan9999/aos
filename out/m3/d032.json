@@ -1,0 +1,9 @@
+{
+  "disab_reg": {"reason": "장애 등록은 해본 적 없고 그냥 일하며 살아왔다.", "answer": "2"},
+  "disab_self": {"reason": "무릎이 시큰해도 청소 일은 아직 혼자 다 해낸다.", "answer": "2"},
+  "self_health": {"reason": "나이에 비하면 그럭저럭, 약 몇 알로 버티는 정도다.", "answer": "3"},
+  "act_limit": {"reason": "허리와 무릎이 아픈 날은 계단 청소를 쉬어야 했다.", "answer": "1"},
+  "unmet_care": {"reason": "일 빠지기 어렵고 돈도 아까워 병원을 미룬 적 있다.", "answer": "1"},
+  "discrim": {"reason": "청소하는 늙은이라고 인사도 안 받는 사람들이 있었다.", "answer": "1"},
+  "depress": {"reason": "영감 생각에 울적해도 손주들 보면 금세 풀린다.", "answer": "2"}
+}

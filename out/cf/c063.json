@@ -1,0 +1,46 @@
+{
+  "disab_reg": {
+    "reason": "따로 장애 등록을 한 적은 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "무릎이 시큰거려도 매일 일터에 나가고 있습니다.",
+    "answer": "2"
+  },
+  "birth_ctry": {
+    "reason": "나고 자란 곳이 이 나라입니다.",
+    "answer": "1"
+  },
+  "sex_orient": {
+    "reason": "남편과 평생을 살았습니다.",
+    "answer": "1"
+  },
+  "transgender": {
+    "reason": "여자로 태어나 여자로 살아왔습니다.",
+    "answer": "2"
+  },
+  "child_divorce": {
+    "reason": "부모님은 끝까지 같이 사셨습니다.",
+    "answer": "2"
+  },
+  "child_dropout": {
+    "reason": "집이 어려워 초등학교만 마치고 일을 나갔습니다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "혼자 적적해도 손주들 볼 생각에 그런 마음은 없습니다.",
+    "answer": "2"
+  },
+  "suic_attempt": {
+    "reason": "그런 생각을 한 적이 없으니 시도도 없습니다.",
+    "answer": "2"
+  },
+  "smoke_now": {
+    "reason": "담배는 평생 손에 대본 적이 없습니다.",
+    "answer": "4"
+  },
+  "htn_dx": {
+    "reason": "보건소에서 혈압약을 받아 매일 챙겨 먹습니다.",
+    "answer": "1"
+  }
+}

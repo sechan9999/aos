@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "지체장애로 복지부에 등록돼 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "심하지 않은 장애라 배달 일은 그런대로 합니다.", "answer": "2"},
+  "unmet_care": {"reason": "물량 맞추느라 병원 갈 짬을 못 냈습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "낮에는 배달이라 진료 시간을 못 맞춥니다.", "answer": "3"},
+  "self_health": {"reason": "나이에 비해 걸어 다녀서 그럭저럭 버팁니다.", "answer": "3"},
+  "activity_limit": {"reason": "무릎이 시큰해도 하루 일은 다 해냅니다.", "answer": "2"},
+  "discrim": {"reason": "나이 많다고 대놓고 무시하는 손님이 있었습니다.", "answer": "1"},
+  "social_support": {"reason": "아내와 자식들이 같이 살아 바로 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "교회 식구들과 어울려 크게 처진 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "손주 보는 재미로 그런 생각은 안 해봤습니다.", "answer": "2"}
+}

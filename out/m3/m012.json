@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "다리가 저리긴 해도 장애 등록을 해본 적은 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "오래 걸으면 다리가 저려 쉬어야 하고 계단은 피합니다.", "answer": "1"},
+  "unmet_care": {"reason": "무직이라 병원비가 부담되어 진료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "수입이 없어 진료비 부담이 가장 컸습니다.", "answer": "1"},
+  "self_health": {"reason": "둘레길은 걷지만 다리 저림이 있어 보통 수준입니다.", "answer": "3"},
+  "activity_limit": {"reason": "계단과 긴 보행을 피해야 해서 움직임에 제한이 있습니다.", "answer": "1"},
+  "discrim": {"reason": "나이 든 무직이라는 시선을 구직 과정에서 느꼈습니다.", "answer": "1"},
+  "social_support": {"reason": "같이 사는 형제들이 있어 집안일을 부탁할 수 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "재취업이 막막해 몇 주 동안 가라앉은 적이 있습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 가족을 생각하면 그런 생각까지는 안 했습니다.", "answer": "2"}
+}

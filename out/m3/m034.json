@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "장애 등록을 한 적이 없고 그럴 정도의 상태도 아닙니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "다리가 저리긴 해도 장애라고 할 만큼은 아닙니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "다리 저림으로 병원에 가려다 계속 미룬 적이 있습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "평일 근무 시간과 병원 진료 시간이 겹쳐 못 갔습니다.",
+    "answer": "3"
+  },
+  "self_health": {
+    "reason": "큰 병은 없지만 쉽게 지쳐 보통이라고 봅니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "계단을 피하고 오래 걸으면 쉬어야 해 불편합니다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "직장과 동네에서 부당한 대우를 받은 일은 없습니다.",
+    "answer": "2"
+  },
+  "social_support": {
+    "reason": "남편과 자녀가 함께 살아 집안일을 부탁할 수 있습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "가끔 울적해도 2주 넘게 이어진 적은 없습니다.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "가족과 지내는 일상이 안정적이라 그런 생각은 없습니다.",
+    "answer": "2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애인으로 신청한 적도, 해당되는 사유도 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "몸은 건강해 일상생활에 제약을 느낀 적은 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "속이 안 좋아 내과에 가려다 근무에 밀려 못 갔습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "식당가 일정이 빡빡해 진료 시간을 내기 어려웠습니다.", "answer": "3"},
+  "self_health": {"reason": "식단을 직접 관리해 또래보다 몸 상태는 좋은 편입니다.", "answer": "2"},
+  "activity_limit": {"reason": "건강 때문에 일이나 집안일을 못 한 적은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "직장에서 전문성을 인정받아 차별을 느낀 적 없습니다.", "answer": "2"},
+  "social_support": {"reason": "배우자와 가까운 친구가 있어 부탁할 사람은 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "감정 기복이 심해져 몇 주간 가라앉은 적이 있습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 아이와 가족을 생각하면 그런 생각은 없습니다.", "answer": "2"}
+}

@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "몸이 불편한 데가 없어 장애 등록은 한 적 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "나이 들어 무릎이 시큰해도 혼자 지내는 데 지장은 없습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "청주에서 나고 자라 이 동네를 떠난 적 없습니다.", "answer": "1"},
+  "sex_orient": {"reason": "젊을 때부터 남자만 마음에 두었습니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때 여자였고 지금도 여자로 삽니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 두 분 다 끝까지 함께 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "집이 가난해 초등학교만 마치고 진학을 못 했습니다.", "answer": "1"},
+  "suic_idea": {"reason": "사는 게 고단해도 죽을 생각까지 한 적은 없습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 마음을 먹은 적이 없으니 시도도 없었습니다.", "answer": "2"},
+  "smoke_now": {"reason": "여자가 담배 피우면 흉보던 시절이라 손도 안 댔습니다.", "answer": "4"},
+  "htn_dx": {"reason": "작년 보건소 검사에서 혈압이 높다고 약을 받았습니다.", "answer": "1"}
+}

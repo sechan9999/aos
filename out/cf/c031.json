@@ -1,0 +1,14 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없고 집안일도 혼자 다 해냅니다.", "answer": "2"},
+  "disab_self": {"reason": "몸이 불편한 데 없이 청소와 가구 옮기기를 매일 합니다.", "answer": "2"},
+  "birth_ctry": {"reason": "대구에서 나고 자라 지금까지 이 동네에 삽니다.", "answer": "1"},
+  "sex_orient": {"reason": "남편과 오래 함께 살아온 평범한 이성애자입니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때 성별 그대로 여자로 살아왔습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 끝까지 같이 사셨고 이혼은 없었습니다.", "answer": "2"},
+  "child_dropout": {"reason": "형편이 넉넉지 않아도 고등학교는 마쳤습니다.", "answer": "2"},
+  "ipv_assault": {"reason": "남편이 무심할 때는 있어도 손찌검은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "집을 가꾸는 일에서 만족을 얻으며 지내고 있습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "그런 생각 자체를 해본 적이 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "담배 냄새가 집에 배는 게 싫어 평생 피운 적 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "혈압 진단을 받고 저염식으로 식단을 관리 중입니다.", "answer": "1"}
+}

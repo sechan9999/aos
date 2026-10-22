@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "보건복지부에 지체장애인으로 등록되어 있습니다.",
+    "answer": "1"
+  },
+  "disab_self": {
+    "reason": "심하지 않은 장애라 일상생활은 혼자 해냅니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "무직이지만 가족 건강보험으로 필요한 진료는 받았습니다.",
+    "answer": "2"
+  },
+  "unmet_reason": {
+    "reason": "진료를 못 받은 적이 없어 해당하지 않습니다.",
+    "answer": "5"
+  },
+  "self_health": {
+    "reason": "숲길은 걷지만 격한 운동은 피해서 보통입니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "설계 작업과 외출 모두 제한 없이 하고 있습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "입사 지원에서 장애와 무직을 두고 다른 대우를 받았습니다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "조부모님과 부모님이 함께 살아 바로 도움을 받습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "취업 준비가 길어지며 2주 넘게 무력감이 이어졌습니다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "힘들어도 가족과 작업 계획이 있어 그런 생각은 없었습니다.",
+    "answer": "2"
+  }
+}

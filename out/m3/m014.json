@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애인은 아니고 요양 시설에서 일하는 쪽입니다.", "answer": "2"},
+  "disab_self": {"reason": "무릎이 좀 시큰해도 일상에 큰 제약은 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "교대 근무라 병원 문 여는 시간에 못 가본 적 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "돈보다 근무 시간 때문에 진료를 미뤘습니다.", "answer": "3"},
+  "self_health": {"reason": "무릎과 허리가 가끔 아파도 아직 일할 만합니다.", "answer": "3"},
+  "activity_limit": {"reason": "완만한 길만 골라 걸으면 생활에 지장 없습니다.", "answer": "2"},
+  "discrim": {"reason": "나이나 학력으로 무시당한 일은 따로 없었습니다.", "answer": "2"},
+  "social_support": {"reason": "무뚝뚝해도 남편이 집안일은 거들어 줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "힘든 날은 빵집 다녀오면 금방 풀립니다.", "answer": "2"},
+  "suic_idea": {"reason": "그런 생각은 해본 적 없습니다.", "answer": "2"}
+}

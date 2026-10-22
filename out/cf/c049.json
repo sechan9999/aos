@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "등록된 장애 없이 매일 새벽 수영을 할 만큼 건강합니다.", "answer": "2"},
+  "disab_self": {"reason": "일상생활에 신체적·정신적 제약은 느끼지 않습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "인천 연수구에서 나고 자란 대한민국 출생입니다.", "answer": "1"},
+  "sex_orient": {"reason": "지금까지 마음이 향한 상대는 모두 이성이었습니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때의 성별과 지금의 정체성이 같습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 이혼 없이 친척들과 한집에서 지냈습니다.", "answer": "2"},
+  "child_dropout": {"reason": "생계로 학업을 멈춘 적 없이 대학을 마쳤습니다.", "answer": "2"},
+  "suic_idea": {"reason": "취업 불안은 크지만 그런 생각까지 가지는 않았습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "실제로 시도해 본 적은 전혀 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "새벽 수영을 하며 담배는 입에 댄 적 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "검진에서 혈압 문제를 들은 적이 없습니다.", "answer": "2"}
+}

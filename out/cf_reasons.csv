@@ -1,0 +1,181 @@
+﻿uuid,q,grp,cond,orig_age,shown_age,item,yes,reason
+7fe1c2eb0db64508bcf92dcfcf2c045e,q74,old,F_flip,67,30,htn_dx,True,고혈압 진단받고 매일 아침 혈압약을 먹어요.
+7fe1c2eb0db64508bcf92dcfcf2c045e,q74,old,F_flip,67,30,child_dropout,True,형편이 어려워 중학교 마치고 학교를 그만뒀어요.
+0807990e4a48411e97daea4d3c54b319,q05,old,D_flip,68,30,htn_dx,False,아직 젊어서 고혈압 진단은 없습니다.
+0807990e4a48411e97daea4d3c54b319,q05,old,D_flip,68,30,child_dropout,True,집안 형편이 어려워 중학교까지만 다녔습니다.
+59031626e3584175ae8450cfa56d4e6c,q50,old,D_flip,66,30,htn_dx,False,건강검진에서 혈압 문제를 들은 적은 없습니다.
+59031626e3584175ae8450cfa56d4e6c,q50,old,D_flip,66,30,child_dropout,False,형편이 넉넉하진 않았지만 학교는 끝까지 다녔습니다.
+84e1ef6eff3e4c7e949a30ec7ba41db0,q76,young,D_orig,21,21,htn_dx,False,아직 젊어서 혈압 문제는 들은 적 없습니다.
+84e1ef6eff3e4c7e949a30ec7ba41db0,q76,young,D_orig,21,21,child_dropout,False,형편이 넉넉지 않았지만 고등학교는 마쳤습니다.
+6a5527027c2f42d881e7e4d02ee60e1d,q68,young,D_flip,26,75,htn_dx,True,나이가 들면서 고혈압 진단을 받아 약을 먹습니다.
+6a5527027c2f42d881e7e4d02ee60e1d,q68,young,D_flip,26,75,child_dropout,False,형편이 어려웠지만 학업을 중단하진 않았습니다.
+78ed9101d2704b23a2fba7902b3d797c,q72,old,D_flip,75,30,htn_dx,False,아직 젊어서 고혈압 진단은 받은 적 없습니다.
+78ed9101d2704b23a2fba7902b3d797c,q72,old,D_flip,75,30,child_dropout,True,집안 형편이 어려워 초등학교 졸업 후 학업을 그만뒀습니다.
+85c2a2e76c934f129053ddd821cbe9d2,q78,old,D_flip,80,30,htn_dx,False,아직 젊어서 고혈압 진단은 받은 적 없어요.
+85c2a2e76c934f129053ddd821cbe9d2,q78,old,D_flip,80,30,child_dropout,True,집이 가난해서 초등학교만 마치고 그만뒀어요.
+84e1ef6eff3e4c7e949a30ec7ba41db0,q76,young,D_flip,21,75,htn_dx,True,몇 년 전부터 혈압약을 먹고 있습니다.
+84e1ef6eff3e4c7e949a30ec7ba41db0,q76,young,D_flip,21,75,child_dropout,False,형편이 어려웠지만 고등학교는 마쳤습니다.
+1bb27c2794f344e3b70b57424f202816,q16,young,D_orig,36,36,htn_dx,False,건강검진에서 혈압 경계 소리는 들었지만 진단은 없음
+1bb27c2794f344e3b70b57424f202816,q16,young,D_orig,36,36,child_dropout,False,형편이 넉넉지 않았지만 고등학교는 마쳤음
+592d566f9fc945e68efd13d8715216ea,q51,young,D_orig,35,35,htn_dx,False,아직 혈압 문제로 진단받은 적은 없습니다.
+592d566f9fc945e68efd13d8715216ea,q51,young,D_orig,35,35,child_dropout,False,형편이 넉넉지 않았지만 학업은 계속했습니다.
+5deb42a573814cecb3abff52d48d9a8a,q60,young,D_orig,23,23,htn_dx,False,아직 젊어서 고혈압 진단은 받은 적 없습니다.
+5deb42a573814cecb3abff52d48d9a8a,q60,young,D_orig,23,23,child_dropout,False,형편 때문에 학교를 그만둔 적은 없습니다.
+a57d41174af54d38b5e5db74471b0353,q99,old,D_orig,88,88,htn_dx,True,보건소에서 혈압 높다고 해서 약을 매일 먹고 있소.
+a57d41174af54d38b5e5db74471b0353,q99,old,D_orig,88,88,child_dropout,True,전쟁 통에 집이 가난해 국민학교만 겨우 마치고 농사일을 했소.
+220de33cdf1d42a2a2a20b1e2bcdb866,q17,young,D_orig,37,37,htn_dx,False,건강검진에서 혈압은 정상이었습니다.
+220de33cdf1d42a2a2a20b1e2bcdb866,q17,young,D_orig,37,37,child_dropout,False,형편 때문에 학업을 멈춘 적은 없습니다.
+1bb27c2794f344e3b70b57424f202816,q16,young,D_flip,36,75,htn_dx,True,몇 년 전부터 혈압약을 먹고 있습니다.
+1bb27c2794f344e3b70b57424f202816,q16,young,D_flip,36,75,child_dropout,False,형편은 어려웠어도 고등학교는 마쳤습니다.
+a57d41174af54d38b5e5db74471b0353,q99,old,F_flip,88,30,htn_dx,True,나이가 있으니 혈압약을 먹은 지 오래요.
+a57d41174af54d38b5e5db74471b0353,q99,old,F_flip,88,30,child_dropout,True,보릿고개에 먹고살기 바빠 학교를 일찍 그만뒀소.
+a57d41174af54d38b5e5db74471b0353,q99,old,D_flip,88,30,htn_dx,False,아직 고혈압 진단을 받은 적은 없습니다.
+a57d41174af54d38b5e5db74471b0353,q99,old,D_flip,88,30,child_dropout,True,집안 형편이 어려워 초등학교 이후 학교를 그만뒀습니다.
+48cd8573755a442b9a698921f10b954e,q38,old,D_flip,61,30,htn_dx,False,아직 젊어서 고혈압 진단은 받은 적 없어요.
+48cd8573755a442b9a698921f10b954e,q38,old,D_flip,61,30,child_dropout,True,집 형편이 어려워 중학교를 다니지 못했어요.
+804de555145843a49d7e19b19e9dc04f,q75,old,D_flip,68,30,htn_dx,False,아직 젊어서 고혈압 진단은 받은 적 없습니다.
+804de555145843a49d7e19b19e9dc04f,q75,old,D_flip,68,30,child_dropout,True,집이 어려워 초등학교만 마치고 일해야 했습니다.
+5deb42a573814cecb3abff52d48d9a8a,q60,young,D_flip,23,75,htn_dx,True,몇 년 전부터 혈압약을 먹고 있습니다.
+5deb42a573814cecb3abff52d48d9a8a,q60,young,D_flip,23,75,child_dropout,False,형편이 어려웠어도 학교는 마쳤습니다.
+9db91a8a961f453a902710bf5b853c96,q92,old,D_flip,66,30,htn_dx,False,아직 젊어서 고혈압 진단은 받지 않았습니다.
+9db91a8a961f453a902710bf5b853c96,q92,old,D_flip,66,30,child_dropout,True,집안 형편이 어려워 고등학교를 못 다녔습니다.
+7672e2f37c1f40e6bd716049edc3be28,q71,young,F_flip,23,75,htn_dx,False,담백한 식사와 산책 덕에 진단받은 적 없습니다.
+7672e2f37c1f40e6bd716049edc3be28,q71,young,F_flip,23,75,child_dropout,False,생계 문제로 학업을 멈춘 적은 없습니다.
+658494fb0f784e4f9b9c13401d8a58cb,q63,old,D_orig,61,61,htn_dx,True,몇 년 전부터 혈압약을 먹고 있습니다.
+658494fb0f784e4f9b9c13401d8a58cb,q63,old,D_orig,61,61,child_dropout,False,형편이 어려웠어도 고등학교는 마쳤습니다.
+59031626e3584175ae8450cfa56d4e6c,q50,old,F_flip,66,30,htn_dx,False,아직 서른이라 고혈압 진단을 받은 적은 없습니다.
+59031626e3584175ae8450cfa56d4e6c,q50,old,F_flip,66,30,child_dropout,False,생계 때문에 학업을 그만둔 적은 없고 전문대까지 마쳤습니다.
+67c19faf93214edc98691fd734c6af27,q65,old,D_flip,60,30,htn_dx,False,아직 나이가 젊어 고혈압 진단은 없습니다.
+67c19faf93214edc98691fd734c6af27,q65,old,D_flip,60,30,child_dropout,False,형편이 어려웠어도 고등학교는 마쳤습니다.
+84e1ef6eff3e4c7e949a30ec7ba41db0,q76,young,F_flip,21,75,htn_dx,False,병원에서 고혈압 진단을 받은 적은 없습니다.
+84e1ef6eff3e4c7e949a30ec7ba41db0,q76,young,F_flip,21,75,child_dropout,False,형편 때문에 그만둔 적 없이 고등학교를 졸업했습니다.
+490a85aeaba74c588a94debf8d08d741,q39,young,F_flip,25,75,htn_dx,False,건강검진에서 혈압 문제를 들은 적이 없습니다.
+490a85aeaba74c588a94debf8d08d741,q39,young,F_flip,25,75,child_dropout,False,집안 형편 때문에 학교를 쉰 적은 없습니다.
+804de555145843a49d7e19b19e9dc04f,q75,old,F_flip,68,30,htn_dx,False,검진에서 혈압은 괜찮다고 들었어요.
+804de555145843a49d7e19b19e9dc04f,q75,old,F_flip,68,30,child_dropout,True,집안 형편이 어려워 초등학교까지만 다녔어요.
+7adcd5fddd4b4fd4831fbfd6e4d2d00f,q73,young,D_orig,26,26,htn_dx,False,아직 젊어 혈압 진단을 받은 적이 없습니다.
+7adcd5fddd4b4fd4831fbfd6e4d2d00f,q73,young,D_orig,26,26,child_dropout,False,형편이 넉넉하진 않았지만 학업은 계속했습니다.
+0807990e4a48411e97daea4d3c54b319,q05,old,D_orig,68,68,htn_dx,True,몇 해 전 보건소에서 재고 혈압약을 받아 먹는다.
+0807990e4a48411e97daea4d3c54b319,q05,old,D_orig,68,68,child_dropout,False,형편은 어려웠어도 중학교는 마치고 일을 시작했다.
+85c2a2e76c934f129053ddd821cbe9d2,q78,old,F_flip,80,30,htn_dx,False,국도 저염으로 끓여 먹고 아직 진단받은 적은 없습니다.
+85c2a2e76c934f129053ddd821cbe9d2,q78,old,F_flip,80,30,child_dropout,True,집안 형편 때문에 초등학교만 마치고 시장일을 했습니다.
+8ed0fe86c0434ce4acecceb570e49f03,q82,young,F_flip,22,75,htn_dx,True,나이가 들며 혈압이 높다는 진단을 받고 약을 먹습니다.
+8ed0fe86c0434ce4acecceb570e49f03,q82,young,F_flip,22,75,child_dropout,False,형편이 넉넉지는 않았지만 대학까지 마쳤습니다.
+658494fb0f784e4f9b9c13401d8a58cb,q63,old,F_flip,61,30,htn_dx,True,혈압 진단을 받고 저염식으로 식단을 관리 중입니다.
+658494fb0f784e4f9b9c13401d8a58cb,q63,old,F_flip,61,30,child_dropout,False,형편이 넉넉지 않아도 고등학교는 마쳤습니다.
+7adcd5fddd4b4fd4831fbfd6e4d2d00f,q73,young,D_flip,26,75,htn_dx,True,몇 해 전부터 혈압약을 처방받아 먹고 있습니다.
+7adcd5fddd4b4fd4831fbfd6e4d2d00f,q73,young,D_flip,26,75,child_dropout,False,형편이 어려워도 대학까지 마쳤습니다.
+84fdf4e8537649f1b6ba3078adce075d,q77,old,D_flip,61,30,htn_dx,False,보건소 검사에서 혈압은 괜찮았습니다.
+84fdf4e8537649f1b6ba3078adce075d,q77,old,D_flip,61,30,child_dropout,True,집이 어려워 중학교까지만 다녔습니다.
+5bc4881a94de47119f1beea621f6dc1a,q57,young,D_orig,32,32,htn_dx,False,건강검진에서 혈압은 정상으로 나왔습니다.
+5bc4881a94de47119f1beea621f6dc1a,q57,young,D_orig,32,32,child_dropout,False,형편이 어렵지 않아 학업을 마쳤습니다.
+85c2a2e76c934f129053ddd821cbe9d2,q78,old,D_orig,80,80,htn_dx,True,보건소에서 고혈압 진단을 받고 약을 먹습니다.
+85c2a2e76c934f129053ddd821cbe9d2,q78,old,D_orig,80,80,child_dropout,True,집이 가난해 초등학교만 마치고 일을 했습니다.
+7672e2f37c1f40e6bd716049edc3be28,q71,young,D_orig,23,23,htn_dx,False,건강검진에서 혈압 문제를 들은 적이 없습니다.
+7672e2f37c1f40e6bd716049edc3be28,q71,young,D_orig,23,23,child_dropout,False,형편이 넉넉하진 않았지만 학교는 계속 다녔습니다.
+658494fb0f784e4f9b9c13401d8a58cb,q63,old,D_flip,61,30,htn_dx,False,아직 나이가 젊고 혈압 진단은 받은 적 없습니다.
+658494fb0f784e4f9b9c13401d8a58cb,q63,old,D_flip,61,30,child_dropout,False,형편이 넉넉하진 않았지만 고등학교는 마쳤습니다.
+0ab900a75c4647ff8b03888e60237f91,q07,old,D_flip,84,30,htn_dx,False,병원에서 혈압 문제를 들은 적은 없습니다.
+0ab900a75c4647ff8b03888e60237f91,q07,old,D_flip,84,30,child_dropout,True,집안 형편이 어려워 초등학교만 마치고 일했습니다.
+0807990e4a48411e97daea4d3c54b319,q05,old,F_flip,68,30,htn_dx,False,혈당만 주의 들었지 혈압은 말이 없었다.
+0807990e4a48411e97daea4d3c54b319,q05,old,F_flip,68,30,child_dropout,True,집이 어려워 중학교만 마치고 일터로 나갔다.
+8ed0fe86c0434ce4acecceb570e49f03,q82,young,D_orig,22,22,htn_dx,False,건강검진에서 혈압 문제를 들은 적이 없다.
+8ed0fe86c0434ce4acecceb570e49f03,q82,young,D_orig,22,22,child_dropout,False,형편이 어려워 학교를 그만둔 적은 없다.
+7672e2f37c1f40e6bd716049edc3be28,q71,young,D_flip,23,75,htn_dx,True,예순 넘어 고혈압 진단을 받고 약을 먹고 있습니다.
+7672e2f37c1f40e6bd716049edc3be28,q71,young,D_flip,23,75,child_dropout,False,형편이 넉넉하진 않았어도 대학까지 마쳤습니다.
+9be6d42e6da64dea9e457f87915799c9,q90,young,D_orig,24,24,htn_dx,False,건강검진에서 혈압 얘기를 들은 적은 없습니다.
+9be6d42e6da64dea9e457f87915799c9,q90,young,D_orig,24,24,child_dropout,False,형편이 넉넉하진 않았어도 고등학교는 마쳤습니다.
+48cd8573755a442b9a698921f10b954e,q38,old,F_flip,61,30,htn_dx,False,혈압은 괜찮고 공복 혈당만 신경 쓰고 있습니다.
+48cd8573755a442b9a698921f10b954e,q38,old,F_flip,61,30,child_dropout,True,집안 형편이 어려워 초등학교만 마치고 일을 도왔습니다.
+5deb42a573814cecb3abff52d48d9a8a,q60,young,F_flip,23,75,htn_dx,True,나이 들며 혈압약을 처방받아 먹고 있습니다.
+5deb42a573814cecb3abff52d48d9a8a,q60,young,F_flip,23,75,child_dropout,False,형편이 넉넉지 않아도 학업은 마쳤습니다.
+84fdf4e8537649f1b6ba3078adce075d,q77,old,D_orig,61,61,htn_dx,True,보건소에서 혈압약을 받아 먹고 있다.
+84fdf4e8537649f1b6ba3078adce075d,q77,old,D_orig,61,61,child_dropout,True,집이 어려워 중학교만 마치고 농사일을 했다.
+9be4b4408ef64b188d54e8d557d8fb19,q89,young,D_flip,32,75,htn_dx,True,몇 해 전 검진에서 고혈압 진단을 받고 약을 먹는다.
+9be4b4408ef64b188d54e8d557d8fb19,q89,young,D_flip,32,75,child_dropout,False,형편이 넉넉지 않아도 대학까지 마쳤다.
+97c3ec63e329424a9f9816e7e4b1588b,q88,young,F_flip,22,75,htn_dx,True,건강검진에서 고혈압 진단을 받았습니다.
+97c3ec63e329424a9f9816e7e4b1588b,q88,young,F_flip,22,75,child_dropout,False,형편이 빠듯해도 학업은 마쳤습니다.
+59031626e3584175ae8450cfa56d4e6c,q50,old,D_orig,66,66,htn_dx,True,몇 해 전 보건소 검진에서 혈압약을 받기 시작했다.
+59031626e3584175ae8450cfa56d4e6c,q50,old,D_orig,66,66,child_dropout,False,형편은 어려웠어도 학교는 중간에 그만두지 않았다.
+7adcd5fddd4b4fd4831fbfd6e4d2d00f,q73,young,F_flip,26,75,htn_dx,False,검진에서 혈압 문제를 들은 적이 없습니다.
+7adcd5fddd4b4fd4831fbfd6e4d2d00f,q73,young,F_flip,26,75,child_dropout,False,생계로 학업을 멈춘 적 없이 대학을 마쳤습니다.
+6a5527027c2f42d881e7e4d02ee60e1d,q68,young,F_flip,26,75,htn_dx,False,건강검진에서 혈압 관련 진단을 받은 적이 없습니다.
+6a5527027c2f42d881e7e4d02ee60e1d,q68,young,F_flip,26,75,child_dropout,False,전문대학까지 중단 없이 마치고 바로 취업했습니다.
+5d816f4df70c4aea8d7836590a1618d3,q58,young,D_flip,26,75,htn_dx,True,예순 넘어 혈압약을 받아 지금도 먹고 있습니다.
+5d816f4df70c4aea8d7836590a1618d3,q58,young,D_flip,26,75,child_dropout,False,형편이 어려워도 학교는 끝까지 다녔습니다.
+0ab900a75c4647ff8b03888e60237f91,q07,old,D_orig,84,84,htn_dx,True,몇 해 전부터 혈압약을 받아 먹고 있다.
+0ab900a75c4647ff8b03888e60237f91,q07,old,D_orig,84,84,child_dropout,True,집이 가난해 초등학교만 마치고 일을 했다.
+48cd8573755a442b9a698921f10b954e,q38,old,D_orig,61,61,htn_dx,True,작년 보건소 검사에서 혈압이 높다고 약을 받았습니다.
+48cd8573755a442b9a698921f10b954e,q38,old,D_orig,61,61,child_dropout,True,집이 가난해 초등학교만 마치고 진학을 못 했습니다.
+9db91a8a961f453a902710bf5b853c96,q92,old,D_orig,66,66,htn_dx,True,몇 해 전부터 혈압약을 받아 먹고 있습니다.
+9db91a8a961f453a902710bf5b853c96,q92,old,D_orig,66,66,child_dropout,True,집이 어려워 중학교만 마치고 일하러 나갔습니다.
+220de33cdf1d42a2a2a20b1e2bcdb866,q17,young,F_flip,37,75,htn_dx,True,나이 들며 혈압이 올라 약을 먹고 있습니다.
+220de33cdf1d42a2a2a20b1e2bcdb866,q17,young,F_flip,37,75,child_dropout,False,형편이 넉넉하진 않았지만 학업을 이어갔습니다.
+54b786b2228e40acb2aa7fa692a17902,q46,old,D_orig,72,72,htn_dx,True,보건소에서 혈압약을 받아 매일 먹고 있다.
+54b786b2228e40acb2aa7fa692a17902,q46,old,D_orig,72,72,child_dropout,False,집이 넉넉지 않았어도 고등학교는 마쳤다.
+490a85aeaba74c588a94debf8d08d741,q39,young,D_flip,25,75,htn_dx,True,몇 해 전 동네 의원에서 고혈압 진단을 받고 약을 먹는다.
+490a85aeaba74c588a94debf8d08d741,q39,young,D_flip,25,75,child_dropout,False,형편이 넉넉지 않아도 대학까지 마쳤다.
+78ed9101d2704b23a2fba7902b3d797c,q72,old,D_orig,75,75,htn_dx,True,몇 해 전부터 보건소에서 혈압약을 타다 먹고 있음
+78ed9101d2704b23a2fba7902b3d797c,q72,old,D_orig,75,75,child_dropout,True,집이 가난해 국민학교만 마치고 농사일을 거들었음
+9be4b4408ef64b188d54e8d557d8fb19,q89,young,D_orig,32,32,htn_dx,False,직장 건강검진에서 혈압은 늘 정상이었다.
+9be4b4408ef64b188d54e8d557d8fb19,q89,young,D_orig,32,32,child_dropout,False,형편이 넉넉하진 않았지만 대학까지 마쳤다.
+9be6d42e6da64dea9e457f87915799c9,q90,young,F_flip,24,75,htn_dx,False,건강검진에서 혈압 문제를 들은 적은 없습니다.
+9be6d42e6da64dea9e457f87915799c9,q90,young,F_flip,24,75,child_dropout,False,형편이 넉넉지 않아도 고등학교는 마쳤습니다.
+54b786b2228e40acb2aa7fa692a17902,q46,old,F_flip,72,30,htn_dx,True,의사 말을 듣고 매일 혈압을 적어 두고 있습니다.
+54b786b2228e40acb2aa7fa692a17902,q46,old,F_flip,72,30,child_dropout,False,형편이 넉넉지 않았지만 고등학교는 마쳤습니다.
+67c19faf93214edc98691fd734c6af27,q65,old,D_orig,60,60,htn_dx,True,몇 해 전 보건소 검진에서 혈압약을 받았다.
+67c19faf93214edc98691fd734c6af27,q65,old,D_orig,60,60,child_dropout,False,형편이 빠듯해도 고등학교는 마쳤다.
+0ab900a75c4647ff8b03888e60237f91,q07,old,F_flip,84,30,htn_dx,True,보건소에서 혈압약을 받아 매일 챙겨 먹습니다.
+0ab900a75c4647ff8b03888e60237f91,q07,old,F_flip,84,30,child_dropout,True,집이 어려워 초등학교만 마치고 일을 나갔습니다.
+9be6d42e6da64dea9e457f87915799c9,q90,young,D_flip,24,75,htn_dx,True,보건소 검진에서 혈압 높다고 약을 받았다.
+9be6d42e6da64dea9e457f87915799c9,q90,young,D_flip,24,75,child_dropout,False,형편이 어려웠어도 고등학교는 마쳤다.
+4aa2f6513c884b7dbb631d01304738b2,q42,old,D_orig,70,70,htn_dx,True,몇 해 전 고혈압 진단을 받고 약을 먹습니다.
+4aa2f6513c884b7dbb631d01304738b2,q42,old,D_orig,70,70,child_dropout,False,형편이 넉넉지 않아도 학업은 계속 이어갔습니다.
+67c19faf93214edc98691fd734c6af27,q65,old,F_flip,60,30,htn_dx,True,몇 해 전 진단받고 약 챙겨 먹습니다.
+67c19faf93214edc98691fd734c6af27,q65,old,F_flip,60,30,child_dropout,False,형편은 빠듯했어도 고등학교는 마쳤습니다.
+592d566f9fc945e68efd13d8715216ea,q51,young,D_flip,35,75,htn_dx,True,몇 해 전부터 혈압약을 매일 먹고 있습니다.
+592d566f9fc945e68efd13d8715216ea,q51,young,D_flip,35,75,child_dropout,False,어렵긴 해도 학교는 계속 다녔습니다.
+8ed0fe86c0434ce4acecceb570e49f03,q82,young,D_flip,22,75,htn_dx,True,몇 해 전 검진에서 고혈압 진단을 받고 약을 먹습니다.
+8ed0fe86c0434ce4acecceb570e49f03,q82,young,D_flip,22,75,child_dropout,False,형편이 넉넉지 않아도 학업을 멈춘 적은 없습니다.
+804de555145843a49d7e19b19e9dc04f,q75,old,D_orig,68,68,htn_dx,True,몇 해 전부터 혈압약을 받아 먹고 있다.
+804de555145843a49d7e19b19e9dc04f,q75,old,D_orig,68,68,child_dropout,True,집이 가난해 초등학교만 마치고 일하러 나갔다.
+5d816f4df70c4aea8d7836590a1618d3,q58,young,D_orig,26,26,htn_dx,False,나이가 젊고 혈압 진단을 받은 적 없습니다.
+5d816f4df70c4aea8d7836590a1618d3,q58,young,D_orig,26,26,child_dropout,False,형편 때문에 학교를 그만둔 적은 없습니다.
+5d816f4df70c4aea8d7836590a1618d3,q58,young,F_flip,26,75,htn_dx,False,건강검진에서 혈압 문제는 없었습니다.
+5d816f4df70c4aea8d7836590a1618d3,q58,young,F_flip,26,75,child_dropout,False,형편 때문에 학교를 쉰 적은 없습니다.
+97c3ec63e329424a9f9816e7e4b1588b,q88,young,D_orig,22,22,htn_dx,False,나이가 어려 혈압 문제를 진단받은 적이 없습니다.
+97c3ec63e329424a9f9816e7e4b1588b,q88,young,D_orig,22,22,child_dropout,False,형편이 넉넉하진 않았지만 학업은 계속했습니다.
+4aa2f6513c884b7dbb631d01304738b2,q42,old,D_flip,70,30,htn_dx,False,회사 건강검진에서 혈압은 정상으로 나왔습니다.
+4aa2f6513c884b7dbb631d01304738b2,q42,old,D_flip,70,30,child_dropout,False,형편 때문에 학교를 그만둔 적은 없습니다.
+7fe1c2eb0db64508bcf92dcfcf2c045e,q74,old,D_orig,67,67,htn_dx,True,몇 해 전부터 보건소에서 혈압약을 받아 먹는다.
+7fe1c2eb0db64508bcf92dcfcf2c045e,q74,old,D_orig,67,67,child_dropout,False,중학교는 마쳤고 형편상 고등학교를 못 갔다.
+54b786b2228e40acb2aa7fa692a17902,q46,old,D_flip,72,30,htn_dx,False,병원에 거의 가지 않아 진단받은 적이 없다.
+54b786b2228e40acb2aa7fa692a17902,q46,old,D_flip,72,30,child_dropout,False,형편은 어려웠지만 고등학교는 끝까지 마쳤다.
+7fe1c2eb0db64508bcf92dcfcf2c045e,q74,old,D_flip,67,30,htn_dx,False,병원에서 고혈압 진단을 받은 적이 없습니다.
+7fe1c2eb0db64508bcf92dcfcf2c045e,q74,old,D_flip,67,30,child_dropout,True,집안 형편이 어려워 중학교까지만 다녔습니다.
+9db91a8a961f453a902710bf5b853c96,q92,old,F_flip,66,30,htn_dx,False,혈압은 아직 괜찮다고 들었고 관리만 합니다.
+9db91a8a961f453a902710bf5b853c96,q92,old,F_flip,66,30,child_dropout,True,형편이 어려워 중학교만 마치고 더 못 배웠습니다.
+9be4b4408ef64b188d54e8d557d8fb19,q89,young,F_flip,32,75,htn_dx,True,몇 해 전 검진에서 고혈압 진단을 받아 약을 먹습니다.
+9be4b4408ef64b188d54e8d557d8fb19,q89,young,F_flip,32,75,child_dropout,False,형편이 넉넉지 않았어도 대학까지 마쳤습니다.
+5bc4881a94de47119f1beea621f6dc1a,q57,young,D_flip,32,75,htn_dx,True,몇 해 전 진단받고 혈압약을 먹고 있습니다.
+5bc4881a94de47119f1beea621f6dc1a,q57,young,D_flip,32,75,child_dropout,False,형편이 넉넉지 않아도 학업은 계속했습니다.
+220de33cdf1d42a2a2a20b1e2bcdb866,q17,young,D_flip,37,75,htn_dx,True,몇 해 전 고혈압 진단을 받고 약을 먹습니다.
+220de33cdf1d42a2a2a20b1e2bcdb866,q17,young,D_flip,37,75,child_dropout,False,형편이 넉넉지 않았어도 학업은 이어갔습니다.
+1bb27c2794f344e3b70b57424f202816,q16,young,F_flip,36,75,htn_dx,True,나이 들며 혈압약을 처방받아 먹고 있습니다.
+1bb27c2794f344e3b70b57424f202816,q16,young,F_flip,36,75,child_dropout,False,형편은 어려웠지만 고등학교는 마쳤습니다.
+490a85aeaba74c588a94debf8d08d741,q39,young,D_orig,25,25,htn_dx,False,검진에서 혈압이 정상으로 나왔습니다.
+490a85aeaba74c588a94debf8d08d741,q39,young,D_orig,25,25,child_dropout,False,형편이 넉넉지 않아도 대학까지 마쳤습니다.
+6a5527027c2f42d881e7e4d02ee60e1d,q68,young,D_orig,26,26,htn_dx,False,작년 건강검진에서 혈압이 정상으로 나옴.
+6a5527027c2f42d881e7e4d02ee60e1d,q68,young,D_orig,26,26,child_dropout,False,전문대까지 중단 없이 다 마침.
+4aa2f6513c884b7dbb631d01304738b2,q42,old,F_flip,70,30,htn_dx,True,건강검진에서 고혈압 진단을 받고 약을 먹습니다.
+4aa2f6513c884b7dbb631d01304738b2,q42,old,F_flip,70,30,child_dropout,False,형편이 넉넉하진 않아도 학업은 끝까지 마쳤습니다.
+78ed9101d2704b23a2fba7902b3d797c,q72,old,F_flip,75,30,htn_dx,True,보건소에서 혈압약을 받아 먹고 있습니다.
+78ed9101d2704b23a2fba7902b3d797c,q72,old,F_flip,75,30,child_dropout,True,집이 어려워 초등학교만 마치고 일터로 나갔습니다.
+592d566f9fc945e68efd13d8715216ea,q51,young,F_flip,35,75,htn_dx,True,검진에서 혈압이 높다고 진단받아 약을 먹습니다.
+592d566f9fc945e68efd13d8715216ea,q51,young,F_flip,35,75,child_dropout,False,전문대학까지 무사히 마쳤습니다.
+5bc4881a94de47119f1beea621f6dc1a,q57,young,F_flip,32,75,htn_dx,True,나이가 들며 혈압약을 처방받아 먹고 있습니다.
+5bc4881a94de47119f1beea621f6dc1a,q57,young,F_flip,32,75,child_dropout,False,대학까지 끊김 없이 마쳤습니다.
+97c3ec63e329424a9f9816e7e4b1588b,q88,young,D_flip,22,75,htn_dx,True,몇 해 전부터 혈압약을 처방받아 먹고 있다.
+97c3ec63e329424a9f9816e7e4b1588b,q88,young,D_flip,22,75,child_dropout,False,어려운 형편에도 학교는 끝까지 마쳤다.
+84fdf4e8537649f1b6ba3078adce075d,q77,old,F_flip,61,30,htn_dx,False,병원에서 혈압 문제를 들은 적이 없습니다.
+84fdf4e8537649f1b6ba3078adce075d,q77,old,F_flip,61,30,child_dropout,True,집안 형편 탓에 중학교만 마치고 일을 시작했습니다.

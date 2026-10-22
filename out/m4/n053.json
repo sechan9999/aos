@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "지체장애로 복지부에 등록되어 복지카드를 갖고 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "다리가 불편해 계단이나 오래 걷는 일에 제약이 있습니다.", "answer": "1"},
+  "unmet_care": {"reason": "통증이 심해도 비용과 이동이 부담돼 진료를 미뤘습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "수입이 없어 부모님 약값부터 챙기다 보니 제 진료는 뒤로 밀립니다.", "answer": "1"},
+  "self_health": {"reason": "매일 걷기는 해도 다리 통증과 체력 저하가 늘 따라다닙니다.", "answer": "4"},
+  "activity_limit": {"reason": "집안일과 외출 거리가 몸 상태에 따라 크게 줄어듭니다.", "answer": "1"},
+  "discrim": {"reason": "장애와 무직을 두고 사람들이 무심히 던지는 말을 들었습니다.", "answer": "1"},
+  "social_support": {"reason": "연로한 부모님을 제가 돌보는 처지라 부탁할 사람이 없습니다.", "answer": "2"},
+  "depress_2wk": {"reason": "앞날이 막막해 몇 주씩 가라앉은 적이 있습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 부모님 곁을 지켜야 한다는 생각으로 버팁니다.", "answer": "2"}
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애인 등록을 해 본 적이 없고 지금도 일하고 있습니다.", "answer": "2"},
+  "disab_self": {"reason": "무릎이 시큰거려도 청소 일은 혼자 다 해냅니다.", "answer": "2"},
+  "unmet_care": {"reason": "건물 청소 시간에 매여 병원 갈 짬을 못 냈습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "일하는 낮 시간에는 병원 문 닫기 전에 가기 어렵습니다.", "answer": "3"},
+  "self_health": {"reason": "나이에 비해 다닐 만하지만 허리와 무릎이 늘 뻐근합니다.", "answer": "3"},
+  "activity_limit": {"reason": "계단 오르내리기가 더뎌졌을 뿐 집안일은 다 합니다.", "answer": "2"},
+  "discrim": {"reason": "청소하는 늙은이라고 인사도 안 받고 지나치는 사람이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "주말마다 오는 자식들이 아프면 바로 달려옵니다.", "answer": "1"},
+  "depress_2wk": {"reason": "영감 생각에 쓸쓸해도 일하고 손주 보면 금방 풀립니다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들 용돈 챙겨주며 더 살고 싶은 마음뿐입니다.", "answer": "2"}
+}

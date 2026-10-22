@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "몸은 불편한 데 없이 매일 무심천을 걷고 있습니다.", "answer": "2"},
+  "disab_self": {"reason": "집안 살림을 혼자 도맡을 만큼 일상에 제약이 없습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "청주 흥덕구에서 나고 자란 토박이입니다.", "answer": "1"},
+  "sex_orient": {"reason": "지금껏 남자에게만 마음이 갔습니다.", "answer": "1"},
+  "transgender": {"reason": "여자로 태어나 여자로 살아왔습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 이혼 없이 끝까지 함께 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "집안 형편이 어려워 초등학교만 마치고 일을 도왔습니다.", "answer": "1"},
+  "suic_idea": {"reason": "식구들 챙기느라 그런 생각을 할 겨를이 없었습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "생각조차 한 적이 없으니 시도한 적도 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "담배는 평생 손에 대 본 적이 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "혈압은 괜찮고 공복 혈당만 신경 쓰고 있습니다.", "answer": "2"}
+}

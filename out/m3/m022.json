@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록을 따로 한 적은 없고 그냥 일하며 지낸다.", "answer": "2"},
+  "disab_self": {"reason": "오래 걸으면 다리가 저리지만 장애라고 생각하진 않는다.", "answer": "2"},
+  "unmet_care": {"reason": "다리가 아파도 배달 물량 때문에 병원 갈 짬을 못 냈다.", "answer": "1"},
+  "unmet_reason": {"reason": "진료 시간에 맞춰 쉴 수가 없어 미루게 됐다.", "answer": "3"},
+  "self_health": {"reason": "나이에 비해 매일 걸어 다녀 그럭저럭 버틸 만하다.", "answer": "3"},
+  "activity_limit": {"reason": "계단은 피하지만 일상생활은 그런대로 해낸다.", "answer": "2"},
+  "discrim": {"reason": "가끔 핀잔은 들어도 차별이라 할 일은 없었다.", "answer": "2"},
+  "social_support": {"reason": "아내와 자녀들이 같이 살아 아프면 바로 거들어 준다.", "answer": "1"},
+  "depress_2wk": {"reason": "힘들어도 교회 식구들과 어울리며 털어내는 편이다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들 용돈 쥐여줄 생각에 그런 마음은 품지 않았다.", "answer": "2"}
+}

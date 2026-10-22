@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "지체장애로 복지부에 등록해 복지카드를 받아 쓰고 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "다리가 불편해 계단 오르내리기와 오래 서 있기가 힘듭니다.", "answer": "1"},
+  "unmet_care": {"reason": "무릎 치료를 받으려다 큰 병원 가는 길이 멀어 미룬 적 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "다리가 불편해 버스와 지하철로 병원까지 가는 일이 제일 어렵습니다.", "answer": "2"},
+  "self_health": {"reason": "다리는 불편해도 둘레길을 천천히 걸을 정도는 됩니다.", "answer": "3"},
+  "activity_limit": {"reason": "장보기와 집안 청소를 한 번에 못 하고 중간에 쉬어야 합니다.", "answer": "1"},
+  "discrim": {"reason": "다리를 저는 걸음걸이와 짧은 배움을 두고 은근히 무시당한 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "같이 사는 배우자와 자녀, 이웃 아주머니들이 바로 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "몸이 아픈 날은 서운해도 산악회 사람들 만나면 금세 풀립니다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들 크는 재미에 그런 생각은 해본 적 없습니다.", "answer": "2"}
+}

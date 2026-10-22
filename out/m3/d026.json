@@ -1,0 +1,30 @@
+{
+  "disab_reg": {
+    "reason": "다리가 성치 않아도 따로 장애 등록을 한 적은 없다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "조금만 걸어도 다리가 버텨주질 않아 늘 불편하다.",
+    "answer": "1"
+  },
+  "self_health": {
+    "reason": "일은 하고 있지만 다리 때문에 건강이 좋다고는 못 한다.",
+    "answer": "4"
+  },
+  "act_limit": {
+    "reason": "계단은 못 올라 경사로와 저상버스만 찾아 다닌다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "읍내 병원은 근무 틈틈이 빠짐없이 다녀왔다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "늙은 경비원이라고 반말로 함부로 대하는 입주민이 있었다.",
+    "answer": "1"
+  },
+  "depress": {
+    "reason": "몸은 고단해도 손주들 보며 지내 절망까지는 안 갔다.",
+    "answer": "2"
+  }
+}

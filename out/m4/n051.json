@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애인으로 신청한 적도 없고 해당 사항이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "업무 강도는 높지만 일상생활에 제약을 주는 장애는 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "건강검진 재검 통보를 받고도 일정에 밀려 병원에 못 갔습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "임원 회의와 실사 일정이 겹쳐 진료 시간을 내기 어려웠습니다.", "answer": "3"},
+  "self_health": {"reason": "외식이 잦고 수면이 부족하지만 주말 배드민턴으로 버티는 편입니다.", "answer": "3"},
+  "activity_limit": {"reason": "피로감은 있어도 출근과 운동에 지장을 받을 정도는 아닙니다.", "answer": "2"},
+  "discrim": {"reason": "직장에서나 동네에서나 부당한 대우를 받은 기억은 없습니다.", "answer": "2"},
+  "social_support": {"reason": "부모님과 함께 살아 아플 때 집안일을 부탁할 수 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "업무 압박은 크지만 2주 넘게 절망감이 이어진 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "가족과 반려견이 있어 그런 생각을 해본 적이 없습니다.", "answer": "2"}
+}

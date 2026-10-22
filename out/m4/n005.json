@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애 판정을 받은 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "새벽 반죽 작업도 무리 없이 해내고 있습니다.", "answer": "2"},
+  "unmet_care": {"reason": "가게 문을 비울 수 없어 진료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "매장 운영 시간과 병원 진료 시간이 겹칩니다.", "answer": "3"},
+  "self_health": {"reason": "헬스장은 다니지만 허리와 체중이 신경 쓰입니다.", "answer": "3"},
+  "activity_limit": {"reason": "일하고 가족과 지내는 데 지장은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "동네 장사를 하며 특별히 겪은 일이 없습니다.", "answer": "2"},
+  "social_support": {"reason": "아내와 오랜 친구들이 바로 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "매출 걱정은 있어도 그 정도로 길게 가라앉진 않습니다.", "answer": "2"},
+  "suic_idea": {"reason": "아이들이 클 때까지 버텨야 한다고 생각합니다.", "answer": "2"}
+}

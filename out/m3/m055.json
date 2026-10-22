@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "지체장애로 복지부에 등록되어 복지카드를 가지고 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "심하지 않지만 오래 걷거나 계단을 오를 때 다리가 불편합니다.", "answer": "1"},
+  "unmet_care": {"reason": "소득이 없어 정형외과 물리치료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "무직이라 비급여 진료비가 부담되어 미뤘습니다.", "answer": "1"},
+  "self_health": {"reason": "매일 산책은 하지만 다리 통증이 있어 보통이라 느낍니다.", "answer": "3"},
+  "activity_limit": {"reason": "다리가 불편해 장시간 외출이나 집안일에 제약이 있습니다.", "answer": "1"},
+  "discrim": {"reason": "일자리를 찾을 때 나이와 장애를 이유로 거절당한 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "함께 사는 부모님과 동네 이웃에게 부탁할 수 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "수입 없이 부모님 돌봄만 이어지며 무력감을 길게 느꼈습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 부모님 돌봄과 사진 찍는 일로 하루를 버팁니다.", "answer": "2"}
+}

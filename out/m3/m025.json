@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "다리 저림은 있지만 장애 등록은 한 적 없다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "오래 걸으면 다리가 저려 쉬어야 하고 계단도 피한다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "다리 증상으로 병원에 가려 했지만 계속 미뤘다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "식당가 근무라 진료 시간에 자리를 비우기 어렵다.",
+    "answer": "3"
+  },
+  "self_health": {
+    "reason": "식단은 관리하지만 다리 저림과 예민함이 늘 있다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "서서 일하거나 오래 걸을 때 중간에 쉬어야 한다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "전문성을 인정받는 편이라 차별을 느낀 적은 없다.",
+    "answer": "2"
+  },
+  "social_support": {
+    "reason": "같이 사는 배우자가 집안일을 대신 해준다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "감정 기복이 심해 2주 넘게 가라앉은 때가 있었다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "힘들 때도 자살을 생각한 적은 없다.",
+    "answer": "2"
+  }
+}

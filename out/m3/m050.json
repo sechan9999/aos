@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록 장애는 없고 건강에 큰 문제도 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "몸이나 마음 때문에 일상이 막힌 적은 없습니다.", "answer": "2"},
+  "unmet_care": {"reason": "주문 처리와 배송 일정에 묶여 병원을 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "혼자 운영하다 보니 낮에 자리를 비우기 어렵습니다.", "answer": "3"},
+  "self_health": {"reason": "배드민턴과 둘레길 걷기로 관리하지만 앉아 있는 시간이 깁니다.", "answer": "3"},
+  "activity_limit": {"reason": "체력은 평범해서 생활에 제한은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "나이 들어 부모님과 사는 점을 두고 말을 들은 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "부모님과 함께 살아 아프면 바로 도움을 받습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "매출이 줄고 독립이 늦어져 한동안 많이 가라앉았습니다.", "answer": "1"},
+  "suic_idea": {"reason": "답답한 때는 있어도 그런 생각까지 간 적은 없습니다.", "answer": "2"}
+}

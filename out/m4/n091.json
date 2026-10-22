@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 지체장애로 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "지체장애로 오래 걷거나 서 있는 일에 제약이 있습니다.", "answer": "1"},
+  "unmet_care": {"reason": "매장 운영에 매여 진료 시간을 못 낸 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "매장 근무 시간과 병원 진료 시간이 겹칩니다.", "answer": "3"},
+  "self_health": {"reason": "체중이 늘고 조금만 뛰어도 숨이 차지만 큰 병은 없습니다.", "answer": "3"},
+  "activity_limit": {"reason": "다리 상태 탓에 오래 움직이는 일은 줄여서 합니다.", "answer": "1"},
+  "discrim": {"reason": "장애가 있다는 이유로 응대 중 무시당한 일이 있었습니다.", "answer": "1"},
+  "social_support": {"reason": "혼자 살고 힘든 일은 속으로 삼켜 부탁할 사람이 없습니다.", "answer": "2"},
+  "depress_2wk": {"reason": "혼자 지내며 가라앉은 기분이 2주 넘게 이어진 적이 있습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 그런 생각까지 한 적은 없습니다.", "answer": "2"}
+}

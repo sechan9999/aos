@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "다리가 저리긴 해도 장애 등록을 해 본 적은 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "계단을 피하고 오래 걸으면 쉬어야 해서 불편이 있습니다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "다리 저림으로 병원에 가려다 계속 미뤘습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "큰 병은 아니라고 여겨 그냥 넘겼습니다.",
+    "answer": "4"
+  },
+  "self_health": {
+    "reason": "다리 말고는 또래만큼 지내서 보통입니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "산책 중간에 쉬어야 하고 계단 많은 곳은 피합니다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "구직 중이지만 대놓고 차별받은 일은 없었습니다.",
+    "answer": "2"
+  },
+  "social_support": {
+    "reason": "부모님과 함께 살아 아플 때 바로 도움을 받습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "취업이 길어지면서 몇 주 내내 답답하고 막막했습니다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "힘들어도 그런 생각까지 한 적은 없습니다.",
+    "answer": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "밭일을 하루 종일 해도 몸에 제약은 없습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "연천군 전곡읍에서 나고 자랐습니다.", "answer": "1"},
+  "sex_orient": {"reason": "남편과 부부로 살고 있습니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때 성별 그대로 살고 있습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 이혼 없이 함께 사셨습니다.", "answer": "2"},
+  "child_dropout": {"reason": "집안 형편 탓에 중학교만 마치고 일을 시작했습니다.", "answer": "1"},
+  "ipv_assault": {"reason": "남편과 다투기는 해도 폭행은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "힘들어도 그런 생각까지는 한 적 없습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "시도한 적이 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "담배는 손에 대 본 적이 없습니다.", "answer": "4"},
+  "htn_dx": {"reason": "병원에서 혈압 문제를 들은 적이 없습니다.", "answer": "2"}
+}

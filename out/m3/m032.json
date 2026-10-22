@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "심하지 않은 지체장애로 복지부에 등록되어 있습니다.",
+    "answer": "1"
+  },
+  "disab_self": {
+    "reason": "장애가 심하지 않아 빵 굽는 일과 생활에 큰 제약은 없습니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "매일 새벽부터 매장을 지켜야 해 진료를 미룬 적이 있습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "가게 문을 닫을 수 없어 병원 갈 시간을 내기 어려웠습니다.",
+    "answer": "3"
+  },
+  "self_health": {
+    "reason": "헬스장은 다니지만 배도 나오고 서서 일해 보통 수준입니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "다리가 가끔 불편해도 일상 활동은 그대로 하고 있습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "단골손님과 동네 사람들과 지내며 차별받은 일은 없었습니다.",
+    "answer": "2"
+  },
+  "social_support": {
+    "reason": "아내와 가까이 사는 친구들이 있어 부탁할 사람이 있습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "매출 걱정은 있어도 2주 넘게 절망감을 느낀 적은 없습니다.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "아이들이 아직 어려 그런 생각은 해본 적이 없습니다.",
+    "answer": "2"
+  }
+}

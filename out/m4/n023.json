@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "다리가 약해 지체장애로 등록해 복지카드를 쓰고 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "조금만 걸어도 다리가 버티지 못해 이동에 제약이 큽니다.", "answer": "1"},
+  "unmet_care": {"reason": "가려던 병원이 멀어 진료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "저상버스 노선이 없어 병원까지 가기가 어려웠습니다.", "answer": "2"},
+  "self_health": {"reason": "다리 문제만 빼면 또래처럼 지내서 보통이라고 봅니다.", "answer": "3"},
+  "activity_limit": {"reason": "계단과 긴 거리 이동에서 매번 제한을 받습니다.", "answer": "1"},
+  "discrim": {"reason": "영업직 면접에서 걷는 문제로 거절당한 적이 있습니다.", "answer": "1"},
+  "social_support": {"reason": "부모님과 같이 살아 집안일 도움을 바로 받습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "구직이 힘들어도 친구와 가족 덕분에 오래 가라앉지 않습니다.", "answer": "2"},
+  "suic_idea": {"reason": "힘든 날은 있어도 그런 생각까지 한 적은 없습니다.", "answer": "2"}
+}

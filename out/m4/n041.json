@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "무릎이 좀 시큰해도 산에 잘 다닙니다.", "answer": "2"},
+  "unmet_care": {"reason": "동네 의원이 가까워 아프면 바로 갑니다.", "answer": "2"},
+  "unmet_reason": {"reason": "진료를 못 받은 적이 없습니다.", "answer": "5"},
+  "self_health": {"reason": "나이에 비해 걷는 힘은 아직 괜찮습니다.", "answer": "3"},
+  "activity_limit": {"reason": "살림도 산행도 내 속도로 다 해냅니다.", "answer": "2"},
+  "discrim": {"reason": "배움이 짧다고 무시당한 기억은 없습니다.", "answer": "2"},
+  "social_support": {"reason": "남편과 자식, 이웃들이 바로 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "속상한 날은 있어도 길게 가지 않습니다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들 보는 재미로 삽니다.", "answer": "2"}
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "등록된 장애는 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "몸이나 마음의 장애로 일상이 막히지는 않습니다.", "answer": "2"},
+  "unmet_care": {"reason": "예약을 자꾸 미루다 병원 갈 때를 놓친 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "급하지 않다고 미루다 보니 시간을 못 냈습니다.", "answer": "3"},
+  "self_health": {"reason": "산책은 자주 하지만 체력이 특별히 좋진 않습니다.", "answer": "3"},
+  "activity_limit": {"reason": "건강 때문에 못 하는 일은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "무직이라고 하면 은근히 평가하는 말을 들었습니다.", "answer": "1"},
+  "social_support": {"reason": "부모님과 가까이 지내 도움을 청할 수 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "취업 준비가 길어지며 무기력한 시기가 있었습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 그 정도 생각까지 간 적은 없습니다.", "answer": "2"}
+}

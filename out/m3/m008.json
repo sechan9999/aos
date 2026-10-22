@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "지체장애로 복지부에 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "심하지 않은 장애라 일상생활은 혼자 다 합니다.", "answer": "2"},
+  "unmet_care": {"reason": "허리가 아파도 근무 시간에 묶여 병원을 못 갔습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "요양 시설 교대 근무라 진료 시간을 못 맞춥니다.", "answer": "3"},
+  "self_health": {"reason": "무릎과 허리가 가끔 아파도 일은 다 해냅니다.", "answer": "3"},
+  "activity_limit": {"reason": "무리한 등산만 피하면 생활에 지장은 없습니다.", "answer": "2"},
+  "discrim": {"reason": "직장과 동네에서 특별히 차별받은 일은 없었습니다.", "answer": "2"},
+  "social_support": {"reason": "남편이 무뚝뚝해도 아플 때는 집안일을 거듭니다.", "answer": "1"},
+  "depress_2wk": {"reason": "힘들어도 빵집 투어와 야구로 기분을 풉니다.", "answer": "2"},
+  "suic_idea": {"reason": "그런 생각은 해본 적 없이 성실히 살아왔습니다.", "answer": "2"}
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록을 해 본 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "다리가 저린 건 나이 탓이지 장애는 아니라고 봅니다.", "answer": "2"},
+  "unmet_care": {"reason": "다리가 아팠지만 병원 가는 걸 계속 미뤘습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "수입이 없어 진료비가 부담스러웠습니다.", "answer": "1"},
+  "self_health": {"reason": "매일 걷긴 하지만 예전 같지는 않습니다.", "answer": "3"},
+  "activity_limit": {"reason": "오래 걸으면 다리가 저려 중간에 쉬어야 합니다.", "answer": "1"},
+  "discrim": {"reason": "동네에서 특별히 차별받은 일은 없었습니다.", "answer": "2"},
+  "social_support": {"reason": "배우자와 자녀가 같이 살아 도움을 받습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "속상해 잠을 설쳐도 2주씩 이어지진 않았습니다.", "answer": "2"},
+  "suic_idea": {"reason": "가족을 생각하면 그런 마음은 들지 않습니다.", "answer": "2"}
+}

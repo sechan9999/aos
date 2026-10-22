@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "등록 장애인으로 신청한 적이 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "무릎이 시큰거려도 집안일과 산책은 그런대로 합니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "동네 의원이 가까워 필요할 때 바로 다녀왔습니다.",
+    "answer": "2"
+  },
+  "unmet_reason": {
+    "reason": "진료를 못 받은 일이 없어 해당되지 않습니다.",
+    "answer": "5"
+  },
+  "self_health": {
+    "reason": "큰 병은 없지만 예전 같지 않아 보통이라 봅니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "매일 탄천을 걷고 살림도 제 손으로 다 합니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "나이 든 아줌마라고 은근히 무시당한 적이 있습니다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "남편과 아이들, 성당 이웃들이 곁에 있습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "가족의 말 한마디에 상해 여러 날 잠을 설쳤습니다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "속상해도 그런 생각까지 해본 적은 없습니다.",
+    "answer": "2"
+  }
+}

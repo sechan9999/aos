@@ -1,0 +1,30 @@
+{
+  "disab_reg": {
+    "reason": "장애 등록을 한 적이 없고 혼자 집안일을 다 합니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "몸은 불편한 데 없이 매일 집안을 치우고 다닙니다.",
+    "answer": "2"
+  },
+  "self_health": {
+    "reason": "혈압약을 챙겨 먹는 것 말고는 그럭저럭 지냅니다.",
+    "answer": "3"
+  },
+  "act_limit": {
+    "reason": "가끔 어지러워도 청소나 가구 옮기기는 다 해냅니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "동네 의원이 가까워 혈압 진료는 거르지 않습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "집과 동네 사우나만 오가니 그런 일은 없었습니다.",
+    "answer": "2"
+  },
+  "depress": {
+    "reason": "마음이 가라앉아 몇 주씩 답답했던 때가 있었습니다.",
+    "answer": "1"
+  }
+}

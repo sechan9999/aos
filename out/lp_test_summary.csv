@@ -1,0 +1,7 @@
+﻿item,mode,order,n,greedy_n,E_T1,E_T1_ub,E_T08,max_p,human_%
+disab_reg,cot,orig,1,0,0.0,0.0,0.0,0.0,5.9
+disab_reg,cot,rev,1,0,0.0,0.0,0.0,0.0,5.9
+sex_orient,cot,orig,1,0,0.0,0.0,0.0,0.0,
+sex_orient,cot,rev,1,0,0.0,0.0,0.0,0.0,
+suic_attempt,cot,orig,1,0,0.008,0.008,0.001,0.008,0.6
+suic_attempt,cot,rev,1,0,0.15,0.15,0.03,0.15,0.6

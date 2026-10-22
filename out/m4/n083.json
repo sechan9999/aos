@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "다리가 불편해도 따로 장애인 등록은 하지 않았습니다.", "answer": "2"},
+  "disab_self": {"reason": "조금만 걸어도 다리가 버텨주지 못해 제약이 큽니다.", "answer": "1"},
+  "unmet_care": {"reason": "가려던 병원이 멀어 미루다 넘긴 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "저상버스를 기다려야 해서 이동 자체가 힘듭니다.", "answer": "2"},
+  "self_health": {"reason": "큰 병은 없지만 금세 지쳐 보통이라고 봅니다.", "answer": "3"},
+  "activity_limit": {"reason": "계단 대신 경사로를 찾고 멀리 갈 땐 스쿠터를 탑니다.", "answer": "1"},
+  "discrim": {"reason": "전동 스쿠터를 타면 가끔 불편한 시선을 느낍니다.", "answer": "1"},
+  "social_support": {"reason": "남편과 자녀, 반찬 나누는 이웃이 늘 곁에 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "전시 관람과 가족 덕에 그 정도로 힘든 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "가족과 지내는 지금 생활에 안정감을 느낍니다.", "answer": "2"}
+}

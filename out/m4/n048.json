@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "다리가 불편해 스쿠터를 타지만 장애 등록은 하지 않았다.", "answer": "2"},
+  "disab_self": {"reason": "조금만 걸어도 다리가 버티지 못해 이동에 제약이 크다.", "answer": "1"},
+  "unmet_care": {"reason": "병원까지 가는 이동이 힘들어 진료를 미룬 적이 있다.", "answer": "1"},
+  "unmet_reason": {"reason": "저상버스만 탈 수 있어 병원 가는 길이 가장 큰 부담이다.", "answer": "2"},
+  "self_health": {"reason": "일상은 유지하지만 체력이 약하고 쉽게 지친다.", "answer": "4"},
+  "activity_limit": {"reason": "계단과 긴 보행이 어려워 활동 범위가 제한된다.", "answer": "1"},
+  "discrim": {"reason": "스쿠터를 타거나 저상버스를 기다릴 때 불편한 시선을 받았다.", "answer": "1"},
+  "social_support": {"reason": "부모님과 자주 연락하며 아플 때 도움을 청할 수 있다.", "answer": "1"},
+  "depress_2wk": {"reason": "무직 상태가 길어지며 취업 준비를 미루다 무력감이 이어졌다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 가족과 취미가 있어 그런 생각까지는 하지 않았다.", "answer": "2"}
+}

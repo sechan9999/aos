@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록을 해본 적이 없고 아직 일도 하고 있다.", "answer": "2"},
+  "disab_self": {"reason": "다리가 저려 쉬긴 해도 장애라고 할 정도는 아니다.", "answer": "2"},
+  "unmet_care": {"reason": "무릎이 아파도 근무 교대 때문에 병원을 미뤘다.", "answer": "1"},
+  "unmet_reason": {"reason": "경비 근무가 밤낮으로 이어져 진료 시간을 못 냈다.", "answer": "3"},
+  "self_health": {"reason": "나이에 비해 버티는 편이지만 다리가 신경 쓰인다.", "answer": "3"},
+  "activity_limit": {"reason": "계단을 피하고 오래 걸으면 중간에 쉬어야 한다.", "answer": "1"},
+  "discrim": {"reason": "나이 많은 경비라고 함부로 말하는 입주민이 있었다.", "answer": "1"},
+  "social_support": {"reason": "한집에 사는 아들 내외와 아내가 바로 도와준다.", "answer": "1"},
+  "depress_2wk": {"reason": "규칙적으로 일하고 손주들 보며 지내 그런 일은 없었다.", "answer": "2"},
+  "suic_idea": {"reason": "집안의 버팀목이라 그런 생각은 해본 적 없다.", "answer": "2"}
+}

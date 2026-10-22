@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "보건복지부에 지체장애로 등록되어 있습니다.", "answer": "1"},
+  "disab_self": {"reason": "오래 걷거나 반복 동작을 할 때 몸이 쉽게 지칩니다.", "answer": "1"},
+  "unmet_care": {"reason": "서울이라 동네 병원 접근이 쉬워 필요할 때 다녔습니다.", "answer": "2"},
+  "unmet_reason": {"reason": "진료를 못 받은 경우가 없었습니다.", "answer": "5"},
+  "self_health": {"reason": "큰 병은 없지만 체력이 약해 보통 정도입니다.", "answer": "3"},
+  "activity_limit": {"reason": "혼자 사는 일상은 무리 없이 해내고 있습니다.", "answer": "2"},
+  "discrim": {"reason": "취업 준비 중 장애와 무직을 두고 불편한 시선을 받았습니다.", "answer": "1"},
+  "social_support": {"reason": "부모님과 가까운 친구에게 바로 부탁할 수 있습니다.", "answer": "1"},
+  "depress_2wk": {"reason": "진로를 미루는 자신이 답답해 길게 가라앉은 적이 있습니다.", "answer": "1"},
+  "suic_idea": {"reason": "힘들어도 그런 생각까지 한 적은 없습니다.", "answer": "2"}
+}

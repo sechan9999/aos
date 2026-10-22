@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "장애 등록을 한 적이 없고 그럴 일도 없었습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "무릎이 좀 시큰해도 산에 다니는 데 지장은 없습니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "동네 의원이 가까워 아프면 바로 가서 봅니다.",
+    "answer": "2"
+  },
+  "unmet_reason": {
+    "reason": "진료를 못 받은 적이 없어 해당되지 않습니다.",
+    "answer": "5"
+  },
+  "self_health": {
+    "reason": "나이만큼 여기저기 쑤시지만 그럭저럭 지냅니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "살림도 하고 둘레길도 걸으니 제한은 없습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "이웃들과 오래 지내와 서운한 일은 없었습니다.",
+    "answer": "2"
+  },
+  "social_support": {
+    "reason": "식구들도 있고 앞집 아주머니도 바로 와줍니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "속상한 날은 있어도 그리 오래가지는 않습니다.",
+    "answer": "2"
+  },
+  "suic_idea": {
+    "reason": "손주들 크는 재미에 그런 생각은 해본 적 없습니다.",
+    "answer": "2"
+  }
+}

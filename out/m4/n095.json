@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "지체장애로 복지부에 등록을 마쳤습니다.", "answer": "1"},
+  "disab_self": {"reason": "다리가 불편해 순찰이나 계단 오르내리기가 힘듭니다.", "answer": "1"},
+  "unmet_care": {"reason": "교대 근무가 밀려 병원 갈 시간을 내지 못했습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "근무를 비울 수 없어 진료 시간을 못 맞췄습니다.", "answer": "3"},
+  "self_health": {"reason": "나이와 다리 탓은 있어도 일은 계속하고 있습니다.", "answer": "3"},
+  "activity_limit": {"reason": "오래 서 있거나 걷는 일에 제한이 있습니다.", "answer": "1"},
+  "discrim": {"reason": "나이와 경비일 때문에 함부로 대하는 입주민이 있었습니다.", "answer": "1"},
+  "social_support": {"reason": "3세대가 같이 살아 아내와 자식이 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "맡은 일을 하며 규칙적으로 지내 그런 적은 없습니다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들이 클 때까지 버팀목이 되어야 합니다.", "answer": "2"}
+}

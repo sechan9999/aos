@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "장애 등록을 한 적은 없고 그럴 일도 없었습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "무릎이 시큰거려도 산책은 매일 하니 장애는 아닙니다.",
+    "answer": "2"
+  },
+  "unmet_care": {
+    "reason": "허리가 아파 큰 병원을 가보려다 비용이 걱정돼 미뤘습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "수입 없이 사는 처지라 검사비가 제일 부담됐습니다.",
+    "answer": "1"
+  },
+  "self_health": {
+    "reason": "나이에 견주면 그럭저럭이지만 예전 같지는 않습니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "살림과 산책은 아직 제 힘으로 다 해내고 있습니다.",
+    "answer": "2"
+  },
+  "discrim": {
+    "reason": "나이 든 아주머니라고 은근히 무시당한 적은 없었습니다.",
+    "answer": "2"
+  },
+  "social_support": {
+    "reason": "남편과 아이들, 성당 자매님들이 늘 곁에 있습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "집안일로 마음 상해 몇 주 내리 잠을 설친 때가 있었습니다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "속상해도 그런 생각까지 해본 적은 없습니다.",
+    "answer": "2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "다리가 불편해도 따로 장애 등록은 해 본 적이 없다.", "answer": "2"},
+  "disab_self": {"reason": "조금만 걸어도 다리가 버텨 주지 않아 스쿠터를 탄다.", "answer": "1"},
+  "unmet_care": {"reason": "큰 병원 가려면 멀어서 진료를 미룬 적이 있다.", "answer": "1"},
+  "unmet_reason": {"reason": "저상버스를 기다려 타야 해서 오가기가 가장 힘들다.", "answer": "2"},
+  "self_health": {"reason": "나이 들어 다리가 성치 않으니 건강이 좋다고는 못 한다.", "answer": "4"},
+  "activity_limit": {"reason": "계단을 못 올라 경사로부터 찾으니 생활에 제한이 있다.", "answer": "1"},
+  "discrim": {"reason": "나이 많고 다리 전다고 입주민에게 무시당한 적이 있다.", "answer": "1"},
+  "social_support": {"reason": "한집에 자식 내외와 손주가 있어 부탁할 사람은 있다.", "answer": "1"},
+  "depress_2wk": {"reason": "몸은 힘들어도 그만큼 오래 가라앉은 적은 없었다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들 자라는 걸 봐야 하니 그런 생각은 안 한다.", "answer": "2"}
+}

@@ -1,0 +1,42 @@
+{
+  "disab_reg": {
+    "reason": "다리가 저리긴 해도 장애 등록을 따로 한 적은 없습니다.",
+    "answer": "2"
+  },
+  "disab_self": {
+    "reason": "계단을 피하고 오래 걸으면 쉬어야 해서 생활에 제약이 있습니다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "다리 증상으로 병원에 가려다 무직이라 미룬 적이 있습니다.",
+    "answer": "1"
+  },
+  "unmet_reason": {
+    "reason": "수입이 없어 검사비가 부담스러워 진료를 미뤘습니다.",
+    "answer": "1"
+  },
+  "self_health": {
+    "reason": "큰 병은 없지만 다리 증상 때문에 보통이라고 봅니다.",
+    "answer": "3"
+  },
+  "activity_limit": {
+    "reason": "숲길을 걸을 때도 중간에 쉬어야 해서 활동이 제한됩니다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "무직이라는 이유로 은근히 무시당하는 말을 들은 적이 있습니다.",
+    "answer": "1"
+  },
+  "social_support": {
+    "reason": "조부모님과 부모님이 함께 살아 바로 도움을 받습니다.",
+    "answer": "1"
+  },
+  "depress_2wk": {
+    "reason": "취업 준비가 길어지며 2주 넘게 무기력했던 때가 있었습니다.",
+    "answer": "1"
+  },
+  "suic_idea": {
+    "reason": "힘들어도 가족과 친구가 있어 그런 생각까지는 안 했습니다.",
+    "answer": "2"
+  }
+}

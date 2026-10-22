@@ -1,0 +1,30 @@
+{
+  "disab_reg": {
+    "reason": "지체장애로 복지부에 장애인 등록을 마쳤습니다.",
+    "answer": "1"
+  },
+  "disab_self": {
+    "reason": "다리가 불편해 계단 오르내리기가 늘 힘듭니다.",
+    "answer": "1"
+  },
+  "self_health": {
+    "reason": "여든에 무릎과 허리가 성한 데가 없습니다.",
+    "answer": "4"
+  },
+  "act_limit": {
+    "reason": "몸이 무거운 날은 청소도 집안일도 미룹니다.",
+    "answer": "1"
+  },
+  "unmet_care": {
+    "reason": "일하는 시간이라 병원 가는 걸 자꾸 미뤘습니다.",
+    "answer": "1"
+  },
+  "discrim": {
+    "reason": "늙은 청소원이라고 함부로 대하는 사람이 있었습니다.",
+    "answer": "1"
+  },
+  "depress": {
+    "reason": "영감 떠나고 혼자 있는 밤이면 한참 울적했습니다.",
+    "answer": "1"
+  }
+}

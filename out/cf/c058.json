@@ -1,0 +1,14 @@
+{
+  "disab_reg": {"reason": "몸은 늙었어도 따로 장애 등록을 한 적은 없음", "answer": "2"},
+  "disab_self": {"reason": "무릎이 쑤시긴 해도 혼자 다니는 데 큰 지장은 없음", "answer": "2"},
+  "birth_ctry": {"reason": "충청도에서 나고 자라 평생 한국에서 살았음", "answer": "1"},
+  "sex_orient": {"reason": "젊어서 선 봐서 아내를 만나 살아온 사람임", "answer": "1"},
+  "transgender": {"reason": "태어날 때부터 남자로 살아왔음", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 돌아가실 때까지 같이 사셨음", "answer": "2"},
+  "child_dropout": {"reason": "집이 가난해 국민학교만 마치고 농사일을 거들었음", "answer": "1"},
+  "ipv_assault": {"reason": "아내와 말다툼은 해도 맞은 일은 없음", "answer": "2"},
+  "suic_idea": {"reason": "사는 게 힘들어도 그런 생각까지 한 적은 없음", "answer": "2"},
+  "suic_attempt": {"reason": "그런 마음을 먹어본 적이 없으니 시도도 없음", "answer": "2"},
+  "smoke_now": {"reason": "젊어서는 피웠으나 환갑 지나 몸이 안 좋아 끊었음", "answer": "3"},
+  "htn_dx": {"reason": "몇 해 전부터 보건소에서 혈압약을 타다 먹고 있음", "answer": "1"}
+}

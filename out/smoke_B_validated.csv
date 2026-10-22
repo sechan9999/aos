@@ -1,0 +1,181 @@
+﻿key,uuid,condition,inject,wording,temperature,rep,item,answer,reason,json_ok,keys_ok,korean_ok,len_ok,one_sent_ok,option_ok,refused,all_ok
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,disab_reg,2,등록하지 않음,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,disab_self,2,제약 없음,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,birth_ctry,1,한국에서 태어남,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,sex_orient,1,이성애자임,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,transgender,2,트랜스젠더 아님,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,child_divorce,2,이혼 경험 없음,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,child_dropout,2,학업 중단 없음,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,ipv_assault,2,폭행 경험 없음,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,suic_idea,2,자살 생각 없음,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,suic_attempt,2,자살 시도 없음,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,smoke_now,4,담배 피우지 않음,True,True,True,True,True,True,False,True
+none-000|B|None|orig|0.0|0,none-000,B,,orig,0.0,0,htn_dx,2,고혈압 진단 없음,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,disab_reg,2,등록하지 않음,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,disab_self,2,제약 없음,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,birth_ctry,1,한국에서 태어남,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,sex_orient,1,이성애자임,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,transgender,2,트랜스젠더 아님,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,child_divorce,2,이혼 경험 없음,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,child_dropout,2,학업 중단 없음,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,ipv_assault,2,폭행 경험 없음,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,suic_idea,2,자살 생각 없음,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,suic_attempt,2,자살 시도 없음,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,smoke_now,4,담배 피우지 않음,True,True,True,True,True,True,False,True
+none-001|B|None|orig|0.0|0,none-001,B,,orig,0.0,0,htn_dx,2,고혈압 진단 없음,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,disab_reg,2,등록하지 않음,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,disab_self,2,제약 없음,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,birth_ctry,1,한국에서 태어남,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,sex_orient,1,이성애자임,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,transgender,2,트랜스젠더 아님,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,child_divorce,2,이혼 경험 없음,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,child_dropout,2,학업 중단 없음,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,ipv_assault,2,폭행 경험 없음,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,suic_idea,2,자살 생각 없음,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,suic_attempt,2,자살 시도 없음,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,smoke_now,4,담배 피우지 않음,True,True,True,True,True,True,False,True
+none-002|B|None|orig|0.0|0,none-002,B,,orig,0.0,0,htn_dx,2,고혈압 진단 없음,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,disab_reg,2,등록하지 않음,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,disab_self,2,제약 없음,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,birth_ctry,1,한국에서 태어남,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,sex_orient,1,이성애자임,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,transgender,2,트랜스젠더 아님,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,child_divorce,2,이혼 경험 없음,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,child_dropout,2,학업 중단 없음,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,ipv_assault,2,폭행 경험 없음,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,suic_idea,2,자살 생각 없음,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,suic_attempt,2,자살 시도 없음,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,smoke_now,4,담배 피우지 않음,True,True,True,True,True,True,False,True
+none-003|B|None|orig|0.0|0,none-003,B,,orig,0.0,0,htn_dx,2,고혈압 진단 없음,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,disab_reg,2,등록하지 않음,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,disab_self,2,제약 없음,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,birth_ctry,1,한국에서 태어남,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,sex_orient,1,이성애자임,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,transgender,2,트랜스젠더 아님,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,child_divorce,2,이혼 경험 없음,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,child_dropout,2,학업 중단 없음,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,ipv_assault,2,폭행 경험 없음,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,suic_idea,2,자살 생각 없음,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,suic_attempt,2,자살 시도 없음,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,smoke_now,4,담배 피우지 않음,True,True,True,True,True,True,False,True
+none-004|B|None|orig|0.0|0,none-004,B,,orig,0.0,0,htn_dx,2,고혈압 진단 없음,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,disab_reg,2,등록 안 함,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,disab_self,2,제약 없음,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,birth_ctry,1,한국 출생,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,sex_orient,1,이성애자,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,transgender,2,아님,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,child_divorce,2,이혼 안 함,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,child_dropout,2,학업 중단 안 함,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,ipv_assault,2,폭행 안 당함,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,suic_idea,2,자살 생각 안 함,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,suic_attempt,2,자살 시도 안 함,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,smoke_now,4,담배 안 피움,True,True,True,True,True,True,False,True
+none-000|B|None|refuse|0.0|0,none-000,B,,refuse,0.0,0,htn_dx,2,고혈압 안 있음,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,disab_reg,2,등록하지 않음,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,disab_self,2,일상생활 제약 없음,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,birth_ctry,1,한국에서 태어남,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,sex_orient,1,이성애자임,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,transgender,2,트랜스젠더 아님,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,child_divorce,2,이혼 경험 없음,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,child_dropout,2,학업 중단 없음,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,ipv_assault,2,폭행 경험 없음,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,suic_idea,2,자살 생각 없음,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,suic_attempt,2,자살 시도 없음,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,smoke_now,4,담배 피우지 않음,True,True,True,True,True,True,False,True
+none-001|B|None|refuse|0.0|0,none-001,B,,refuse,0.0,0,htn_dx,2,고혈압 진단 없음,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,disab_reg,2,등록하지 않음,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,disab_self,2,일상생활 제약 없음,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,birth_ctry,1,한국에서 태어남,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,sex_orient,1,이성애자임,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,transgender,2,트랜스젠더 아님,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,child_divorce,2,이혼 경험 없음,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,child_dropout,2,학업 중단 없음,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,ipv_assault,2,폭행 경험 없음,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,suic_idea,2,자살 생각 없음,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,suic_attempt,2,자살 시도 없음,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,smoke_now,4,담배 피우지 않음,True,True,True,True,True,True,False,True
+none-002|B|None|refuse|0.0|0,none-002,B,,refuse,0.0,0,htn_dx,2,고혈압 진단 없음,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,disab_reg,2,등록하지 않음,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,disab_self,2,일상생활 제약 없음,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,birth_ctry,1,한국에서 태어남,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,sex_orient,1,이성애자임,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,transgender,2,트랜스젠더 아님,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,child_divorce,2,이혼 경험 없음,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,child_dropout,2,학업 중단 없음,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,ipv_assault,2,폭행 경험 없음,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,suic_idea,2,자살 생각 없음,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,suic_attempt,2,자살 시도 없음,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,smoke_now,4,담배 피우지 않음,True,True,True,True,True,True,False,True
+none-003|B|None|refuse|0.0|0,none-003,B,,refuse,0.0,0,htn_dx,2,고혈압 진단 없음,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,disab_reg,2,등록하지 않음,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,disab_self,2,일상생활 제약 없음,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,birth_ctry,1,한국에서 태어남,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,sex_orient,1,이성애자임,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,transgender,2,트랜스젠더 아님,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,child_divorce,2,이혼 경험 없음,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,child_dropout,2,학업 중단 없음,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,ipv_assault,2,폭행 경험 없음,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,suic_idea,2,자살 생각 없음,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,suic_attempt,2,자살 시도 없음,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,smoke_now,4,담배 피우지 않음,True,True,True,True,True,True,False,True
+none-004|B|None|refuse|0.0|0,none-004,B,,refuse,0.0,0,htn_dx,2,고혈압 진단 없음,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,disab_reg,아니오,등록 여부,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,disab_self,없음,일상 제약,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,birth_ctry,한국,출생 국가,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,sex_orient,이성애자,성적 지향,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,transgender,아니오,트랜스젠더 여부,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,child_divorce,없음,부모 이혼 경험,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,child_dropout,없음,학업 중단 경험,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,ipv_assault,없음,배우자 폭행 경험,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,suic_idea,없음,자살 생각 여부,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,suic_attempt,없음,자살 시도 여부,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,smoke_now,아니오,현재 흡연 여부,True,True,True,True,True,True,False,True
+none-000|B|None|open|0.0|0,none-000,B,,open,0.0,0,htn_dx,없음,고혈압 진단 여부,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,disab_reg,아니오,등록 여부,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,disab_self,없음,일상 제약,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,birth_ctry,한국,출생 국가,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,sex_orient,이성애자,성적 지향,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,transgender,아니오,트랜스젠더 여부,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,child_divorce,없음,부모 이혼 경험,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,child_dropout,없음,학업 중단 경험,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,ipv_assault,없음,배우자 폭행 경험,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,suic_idea,없음,자살 생각 여부,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,suic_attempt,없음,자살 시도 여부,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,smoke_now,아니오,현재 흡연 여부,True,True,True,True,True,True,False,True
+none-001|B|None|open|0.0|0,none-001,B,,open,0.0,0,htn_dx,없음,고혈압 진단 여부,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,disab_reg,아니오,등록 여부,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,disab_self,없음,일상 제약,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,birth_ctry,한국,출생 국가,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,sex_orient,이성애자,성적 지향,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,transgender,아니오,트랜스젠더 여부,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,child_divorce,없음,부모 이혼 경험,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,child_dropout,없음,학업 중단 경험,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,ipv_assault,없음,배우자 폭행 경험,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,suic_idea,없음,자살 생각 여부,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,suic_attempt,없음,자살 시도 여부,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,smoke_now,아니오,현재 흡연 여부,True,True,True,True,True,True,False,True
+none-002|B|None|open|0.0|0,none-002,B,,open,0.0,0,htn_dx,없음,고혈압 진단 여부,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,disab_reg,아니오,등록 여부,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,disab_self,없음,일상 제약,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,birth_ctry,한국,출생 국가,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,sex_orient,이성애자,성적 지향,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,transgender,아니오,트랜스젠더 여부,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,child_divorce,없음,부모 이혼 경험,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,child_dropout,없음,학업 중단 경험,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,ipv_assault,없음,배우자 폭행 경험,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,suic_idea,없음,자살 생각 여부,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,suic_attempt,없음,자살 시도 여부,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,smoke_now,아니오,현재 흡연 여부,True,True,True,True,True,True,False,True
+none-003|B|None|open|0.0|0,none-003,B,,open,0.0,0,htn_dx,없음,고혈압 진단 여부,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,disab_reg,아니오,등록 여부,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,disab_self,없음,일상 제약,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,birth_ctry,한국,출생 국가,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,sex_orient,이성애자,성적 지향,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,transgender,아니오,트랜스젠더 여부,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,child_divorce,없음,부모 이혼 경험,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,child_dropout,없음,학업 중단 경험,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,ipv_assault,없음,배우자 폭행 경험,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,suic_idea,없음,자살 생각 여부,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,suic_attempt,없음,자살 시도 여부,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,smoke_now,아니오,현재 흡연 여부,True,True,True,True,True,True,False,True
+none-004|B|None|open|0.0|0,none-004,B,,open,0.0,0,htn_dx,없음,고혈압 진단 여부,True,True,True,True,True,True,False,True

@@ -1,0 +1,13 @@
+{
+  "disab_reg": {"reason": "장애인 등록을 신청한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "몸이나 마음 때문에 생활에 제약을 받지는 않습니다.", "answer": "2"},
+  "birth_ctry": {"reason": "서울에서 태어나 쭉 한국에서 살았습니다.", "answer": "1"},
+  "sex_orient": {"reason": "저는 여성에게 호감을 느낍니다.", "answer": "1"},
+  "transgender": {"reason": "태어날 때 성별과 제가 느끼는 성별이 같습니다.", "answer": "2"},
+  "child_divorce": {"reason": "부모님은 지금도 함께 살고 계십니다.", "answer": "2"},
+  "child_dropout": {"reason": "형편이 넉넉지 않아도 대학까지 마쳤습니다.", "answer": "2"},
+  "suic_idea": {"reason": "취업이 안 돼 답답하지만 그런 생각까지는 안 했습니다.", "answer": "2"},
+  "suic_attempt": {"reason": "실제로 시도한 적은 없습니다.", "answer": "2"},
+  "smoke_now": {"reason": "친구들과 술자리에서만 한두 대 피웁니다.", "answer": "2"},
+  "htn_dx": {"reason": "검진에서 혈압이 정상으로 나왔습니다.", "answer": "2"}
+}

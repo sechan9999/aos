@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없다.", "answer": "2"},
+  "disab_self": {"reason": "무릎이 시큰해도 배달은 매일 다 돈다.", "answer": "2"},
+  "unmet_care": {"reason": "병원 갈 시간에 물량을 돌려야 했다.", "answer": "1"},
+  "unmet_reason": {"reason": "낮에는 배달이라 병원 문 닫을 때 끝난다.", "answer": "3"},
+  "self_health": {"reason": "나이에 비해 걸어다녀서 그런대로 버틴다.", "answer": "3"},
+  "activity_limit": {"reason": "일하고 집안일 하는 데 지장은 없다.", "answer": "2"},
+  "discrim": {"reason": "나이 많다고 대놓고 무시하는 사람이 가끔 있다.", "answer": "1"},
+  "social_support": {"reason": "아내와 자식들이 같이 사니 걱정 없다.", "answer": "1"},
+  "depress_2wk": {"reason": "힘들어도 그렇게까지 처진 적은 없다.", "answer": "2"},
+  "suic_idea": {"reason": "손주들 보는 재미로 사는데 그런 생각은 없다.", "answer": "2"}
+}

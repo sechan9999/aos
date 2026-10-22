@@ -1,0 +1,12 @@
+{
+  "disab_reg": {"reason": "장애 등록을 한 적이 없습니다.", "answer": "2"},
+  "disab_self": {"reason": "다리가 저리긴 해도 장애로 여기진 않습니다.", "answer": "2"},
+  "unmet_care": {"reason": "가게를 비우기 어려워 진료를 미룬 적이 있습니다.", "answer": "1"},
+  "unmet_reason": {"reason": "혼자 매장을 지켜야 해서 시간을 내기 어려웠습니다.", "answer": "3"},
+  "self_health": {"reason": "크게 아픈 데는 없지만 쉽게 지치는 편입니다.", "answer": "3"},
+  "activity_limit": {"reason": "오래 걸으면 다리가 저려 중간에 쉬어야 합니다.", "answer": "1"},
+  "discrim": {"reason": "동네 손님들과 지내며 차별받은 일은 없었습니다.", "answer": "2"},
+  "social_support": {"reason": "남편과 가까이 사는 친정 부모님이 도와줍니다.", "answer": "1"},
+  "depress_2wk": {"reason": "마음이 소란해도 공예를 하며 금방 가라앉힙니다.", "answer": "2"},
+  "suic_idea": {"reason": "그런 생각을 해본 적은 없습니다.", "answer": "2"}
+}

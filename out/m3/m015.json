@@ -1,0 +1,10 @@
+{"disab_reg": {"reason": "등록한 적 없고 아직 내 손으로 일해서 먹고삽니다.", "answer": "1"},
+ "disab_self": {"reason": "무릎이 시큰해도 시장 일은 날마다 해내고 있습니다.", "answer": "2"},
+ "unmet_care": {"reason": "새벽에 나가 일하다 보니 병원 갈 짬을 못 냈습니다.", "answer": "1"},
+ "unmet_reason": {"reason": "경매 시간에 맞춰 일하느라 진료 시간을 못 맞춥니다.", "answer": "3"},
+ "self_health": {"reason": "여든치고는 괜찮지만 예전 같지는 않습니다.", "answer": "3"},
+ "activity_limit": {"reason": "빨리 걸으면 숨차도 집안일과 출근은 다 합니다.", "answer": "2"},
+ "discrim": {"reason": "나이 많다고 손이 느리다며 눈치 주는 일이 있었습니다.", "answer": "1"},
+ "social_support": {"reason": "같은 건물 이웃과 시장 동료가 거들어 줍니다.", "answer": "1"},
+ "depress_2wk": {"reason": "적막할 때 있어도 사진첩 덮고 금세 털어냅니다.", "answer": "2"},
+ "suic_idea": {"reason": "내일 입을 앞치마 다리며 하루하루 살아갑니다.", "answer": "2"}}
