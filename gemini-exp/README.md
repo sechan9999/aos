@@ -4,7 +4,7 @@
 
 실행 설계는 세 비판 축으로 구성됩니다 — 비판 1: 온도·문구(거부 보기/개방형), 비판 2: 페르소나 없음(B), 비판 3: 속성 주입(C). 조건·문구·주입을 바꾸는 하네스(`src/run.py`)는 모델 비종속(OpenAI 호환 엔드포인트)이며, 두 실행(gemini25, qwen25)이 이 코드로 돌았습니다. 자세한 실행 순서는 `RUN_README.md`(원본)와 `src/run_pipeline.py` 머리말을 보세요.
 
-> 두 트랙 비교 평가는 [`docs/06_cross_track_evaluation.md`](../docs/06_cross_track_evaluation.md)에 있습니다.
+> 세 트랙의 비교 평가는 [`docs/06_cross_track_evaluation.md`](../docs/06_cross_track_evaluation.md)에 있습니다.
 
 ## 내용물
 
