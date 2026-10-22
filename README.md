@@ -22,6 +22,8 @@
 
 로그확률 감사(`src/logprob_audit.py`)는 코드만 있고 아직 돌리지 않았습니다.
 
+> **별도 트랙**: [`muse-exp/`](muse-exp/)에는 Muse 에이전트가 독립 실행한 로그확률 감사(Qwen2.5-1.5B)와 120B 샘플링 재현(gpt-oss-120b, 진행 중)이 있습니다. 표본과 문항이 이 트랙과 다르니 비교 시 그 폴더의 README를 먼저 보세요.
+
 ## 데이터
 
 - 페르소나: [Nemotron-Personas-Korea](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea), 리비전 `ada0f5b5`, train split — 논문과 동일

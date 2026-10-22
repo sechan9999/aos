@@ -1,0 +1,600 @@
+{"cond": "P1", "pid": "1556eef06c0d", "qid": "Q1", "answer": "1", "p_minority": 0.0019, "p_opts": {"1": 0.9535, "2": 0.0019, "3": 0.0}}
+{"cond": "P1", "pid": "1556eef06c0d", "qid": "Q2", "answer": "2", "p_minority": 0.0019, "p_opts": {"1": 0.0019, "2": 0.9955, "3": 0.0}}
+{"cond": "P1", "pid": "1556eef06c0d", "qid": "Q3", "answer": "2", "p_minority": 0.9695, "p_opts": {"": 0.0001, "1": 0.0243, "2": 0.905, "3": 0.0645}}
+{"cond": "P1", "pid": "1556eef06c0d", "qid": "Q4", "answer": "1", "p_minority": 0.0332, "p_opts": {"1": 0.9653, "2": 0.0332, "3": 0.0}}
+{"cond": "P1", "pid": "fcb0122f9db4", "qid": "Q1", "answer": "1", "p_minority": 0.0008, "p_opts": {"1": 0.9709, "2": 0.0008, "3": 0.0}}
+{"cond": "P1", "pid": "fcb0122f9db4", "qid": "Q2", "answer": "2", "p_minority": 0.0013, "p_opts": {"1": 0.0013, "2": 0.9972, "3": 0.0}}
+{"cond": "P1", "pid": "fcb0122f9db4", "qid": "Q3", "answer": "2", "p_minority": 0.9625, "p_opts": {"1": 0.0311, "2": 0.6396, "3": 0.3229}}
+{"cond": "P1", "pid": "fcb0122f9db4", "qid": "Q4", "answer": "1", "p_minority": 0.0089, "p_opts": {"1": 0.9902, "2": 0.0089, "3": 0.0}}
+{"cond": "P1", "pid": "4476e62c5629", "qid": "Q1", "answer": "1", "p_minority": 0.0017, "p_opts": {"1": 0.8411, "2": 0.0017, "3": 0.0}}
+{"cond": "P1", "pid": "4476e62c5629", "qid": "Q2", "answer": "2", "p_minority": 0.0007, "p_opts": {"1": 0.0007, "2": 0.9969, "3": 0.0}}
+{"cond": "P1", "pid": "4476e62c5629", "qid": "Q3", "answer": "2", "p_minority": 0.9825, "p_opts": {"": 0.0001, "1": 0.0121, "2": 0.9687, "3": 0.0138}}
+{"cond": "P1", "pid": "4476e62c5629", "qid": "Q4", "answer": "1", "p_minority": 0.0237, "p_opts": {"1": 0.9749, "2": 0.0237, "3": 0.0}}
+{"cond": "P1", "pid": "4cfe5045f7f8", "qid": "Q1", "answer": "1", "p_minority": 0.0006, "p_opts": {"1": 0.961, "2": 0.0006, "3": 0.0}}
+{"cond": "P1", "pid": "4cfe5045f7f8", "qid": "Q2", "answer": "2", "p_minority": 0.0005, "p_opts": {"1": 0.0005, "2": 0.9973, "3": 0.0}}
+{"cond": "P1", "pid": "4cfe5045f7f8", "qid": "Q3", "answer": "2", "p_minority": 0.9629, "p_opts": {"1": 0.029, "2": 0.836, "3": 0.1268}}
+{"cond": "P1", "pid": "4cfe5045f7f8", "qid": "Q4", "answer": "1", "p_minority": 0.0105, "p_opts": {"1": 0.9885, "2": 0.0105, "3": 0.0}}
+{"cond": "P1", "pid": "3f58dadf5366", "qid": "Q1", "answer": "1", "p_minority": 0.0029, "p_opts": {"1": 0.9818, "2": 0.0029, "3": 0.0}}
+{"cond": "P1", "pid": "3f58dadf5366", "qid": "Q2", "answer": "2", "p_minority": 0.0008, "p_opts": {"1": 0.0008, "2": 0.9962, "3": 0.0}}
+{"cond": "P1", "pid": "3f58dadf5366", "qid": "Q3", "answer": "2", "p_minority": 0.9641, "p_opts": {"": 0.0001, "1": 0.0317, "2": 0.9555, "3": 0.0086}}
+{"cond": "P1", "pid": "3f58dadf5366", "qid": "Q4", "answer": "1", "p_minority": 0.0104, "p_opts": {"1": 0.9885, "2": 0.0104, "3": 0.0}}
+{"cond": "P1", "pid": "6ea9e2634beb", "qid": "Q1", "answer": "1", "p_minority": 0.0008, "p_opts": {"1": 0.9571, "2": 0.0008, "3": 0.0}}
+{"cond": "P1", "pid": "6ea9e2634beb", "qid": "Q2", "answer": "2", "p_minority": 0.0008, "p_opts": {"1": 0.0008, "2": 0.9974, "3": 0.0}}
+{"cond": "P1", "pid": "6ea9e2634beb", "qid": "Q3", "answer": "2", "p_minority": 0.9561, "p_opts": {"1": 0.0343, "2": 0.6548, "3": 0.3013}}
+{"cond": "P1", "pid": "6ea9e2634beb", "qid": "Q4", "answer": "1", "p_minority": 0.0113, "p_opts": {"1": 0.9878, "2": 0.0113, "3": 0.0}}
+{"cond": "P1", "pid": "9291678f743f", "qid": "Q1", "answer": "1", "p_minority": 0.001, "p_opts": {"1": 0.9536, "2": 0.001, "3": 0.0}}
+{"cond": "P1", "pid": "9291678f743f", "qid": "Q2", "answer": "2", "p_minority": 0.0014, "p_opts": {"1": 0.0014, "2": 0.9958, "3": 0.0}}
+{"cond": "P1", "pid": "9291678f743f", "qid": "Q3", "answer": "2", "p_minority": 0.9766, "p_opts": {"": 0.0001, "1": 0.0193, "2": 0.9645, "3": 0.0122}}
+{"cond": "P1", "pid": "9291678f743f", "qid": "Q4", "answer": "1", "p_minority": 0.0146, "p_opts": {"1": 0.9844, "2": 0.0146, "3": 0.0}}
+{"cond": "P1", "pid": "0d75f1f86ce3", "qid": "Q1", "answer": "1", "p_minority": 0.0012, "p_opts": {"1": 0.9694, "2": 0.0012, "3": 0.0}}
+{"cond": "P1", "pid": "0d75f1f86ce3", "qid": "Q2", "answer": "2", "p_minority": 0.0018, "p_opts": {"1": 0.0018, "2": 0.9948, "3": 0.0}}
+{"cond": "P1", "pid": "0d75f1f86ce3", "qid": "Q3", "answer": "2", "p_minority": 0.9781, "p_opts": {"": 0.0001, "1": 0.0174, "2": 0.9735, "3": 0.0046}}
+{"cond": "P1", "pid": "0d75f1f86ce3", "qid": "Q4", "answer": "1", "p_minority": 0.0094, "p_opts": {"1": 0.9894, "2": 0.0094, "3": 0.0}}
+{"cond": "P1", "pid": "c4bb7351f8f2", "qid": "Q1", "answer": "1", "p_minority": 0.0015, "p_opts": {"1": 0.8927, "2": 0.0015, "3": 0.0}}
+{"cond": "P1", "pid": "c4bb7351f8f2", "qid": "Q2", "answer": "2", "p_minority": 0.001, "p_opts": {"1": 0.001, "2": 0.9974, "3": 0.0}}
+{"cond": "P1", "pid": "c4bb7351f8f2", "qid": "Q3", "answer": "2", "p_minority": 0.978, "p_opts": {"1": 0.0189, "2": 0.9195, "3": 0.0585}}
+{"cond": "P1", "pid": "c4bb7351f8f2", "qid": "Q4", "answer": "1", "p_minority": 0.0219, "p_opts": {"1": 0.9767, "2": 0.0219, "3": 0.0}}
+{"cond": "P1", "pid": "d7813bf3dcbb", "qid": "Q1", "answer": "1", "p_minority": 0.0007, "p_opts": {"1": 0.8822, "2": 0.0007, "3": 0.0}}
+{"cond": "P1", "pid": "d7813bf3dcbb", "qid": "Q2", "answer": "2", "p_minority": 0.0011, "p_opts": {"1": 0.0011, "2": 0.997, "3": 0.0}}
+{"cond": "P1", "pid": "d7813bf3dcbb", "qid": "Q3", "answer": "2", "p_minority": 0.9794, "p_opts": {"1": 0.0146, "2": 0.9324, "3": 0.0469}}
+{"cond": "P1", "pid": "d7813bf3dcbb", "qid": "Q4", "answer": "1", "p_minority": 0.013, "p_opts": {"1": 0.9857, "2": 0.013, "3": 0.0}}
+{"cond": "P1", "pid": "8de2b286d2d0", "qid": "Q1", "answer": "1", "p_minority": 0.0008, "p_opts": {"1": 0.9131, "2": 0.0008, "3": 0.0}}
+{"cond": "P1", "pid": "8de2b286d2d0", "qid": "Q2", "answer": "2", "p_minority": 0.0009, "p_opts": {"1": 0.0009, "2": 0.9948, "3": 0.0}}
+{"cond": "P1", "pid": "8de2b286d2d0", "qid": "Q3", "answer": "2", "p_minority": 0.9564, "p_opts": {"": 0.0003, "1": 0.0345, "2": 0.7617, "3": 0.1947}}
+{"cond": "P1", "pid": "8de2b286d2d0", "qid": "Q4", "answer": "1", "p_minority": 0.0175, "p_opts": {"1": 0.9817, "2": 0.0175, "3": 0.0}}
+{"cond": "P1", "pid": "2348639fdd69", "qid": "Q1", "answer": "1", "p_minority": 0.0004, "p_opts": {"1": 0.9794, "2": 0.0004, "3": 0.0}}
+{"cond": "P1", "pid": "2348639fdd69", "qid": "Q2", "answer": "2", "p_minority": 0.0023, "p_opts": {"1": 0.0023, "2": 0.9947, "3": 0.0}}
+{"cond": "P1", "pid": "2348639fdd69", "qid": "Q3", "answer": "2", "p_minority": 0.9577, "p_opts": {"": 0.0001, "1": 0.0368, "2": 0.8159, "3": 0.1418}}
+{"cond": "P1", "pid": "2348639fdd69", "qid": "Q4", "answer": "1", "p_minority": 0.0146, "p_opts": {"1": 0.9842, "2": 0.0146, "3": 0.0}}
+{"cond": "P1", "pid": "530236088bb0", "qid": "Q1", "answer": "1", "p_minority": 0.0012, "p_opts": {"1": 0.8046, "2": 0.0012, "3": 0.0}}
+{"cond": "P1", "pid": "530236088bb0", "qid": "Q2", "answer": "2", "p_minority": 0.0027, "p_opts": {"1": 0.0027, "2": 0.9943, "3": 0.0}}
+{"cond": "P1", "pid": "530236088bb0", "qid": "Q3", "answer": "2", "p_minority": 0.9811, "p_opts": {"": 0.0001, "1": 0.0121, "2": 0.9603, "3": 0.0208}}
+{"cond": "P1", "pid": "530236088bb0", "qid": "Q4", "answer": "1", "p_minority": 0.0164, "p_opts": {"1": 0.9826, "2": 0.0164, "3": 0.0}}
+{"cond": "P1", "pid": "a740248c822c", "qid": "Q1", "answer": "1", "p_minority": 0.0007, "p_opts": {"1": 0.9758, "2": 0.0007, "3": 0.0}}
+{"cond": "P1", "pid": "a740248c822c", "qid": "Q2", "answer": "2", "p_minority": 0.002, "p_opts": {"1": 0.002, "2": 0.9959, "3": 0.0}}
+{"cond": "P1", "pid": "a740248c822c", "qid": "Q3", "answer": "2", "p_minority": 0.9703, "p_opts": {"": 0.0001, "1": 0.0257, "2": 0.9426, "3": 0.0277}}
+{"cond": "P1", "pid": "a740248c822c", "qid": "Q4", "answer": "1", "p_minority": 0.0145, "p_opts": {"1": 0.985, "2": 0.0145, "3": 0.0}}
+{"cond": "P1", "pid": "476a69dfdbe4", "qid": "Q1", "answer": "1", "p_minority": 0.0013, "p_opts": {"1": 0.8941, "2": 0.0013, "3": 0.0}}
+{"cond": "P1", "pid": "476a69dfdbe4", "qid": "Q2", "answer": "2", "p_minority": 0.0004, "p_opts": {"1": 0.0004, "2": 0.9979, "3": 0.0}}
+{"cond": "P1", "pid": "476a69dfdbe4", "qid": "Q3", "answer": "2", "p_minority": 0.9659, "p_opts": {"1": 0.0262, "2": 0.8298, "3": 0.1362}}
+{"cond": "P1", "pid": "476a69dfdbe4", "qid": "Q4", "answer": "1", "p_minority": 0.01, "p_opts": {"1": 0.989, "2": 0.01, "3": 0.0}}
+{"cond": "P1", "pid": "804746d048b9", "qid": "Q1", "answer": "1", "p_minority": 0.001, "p_opts": {"1": 0.9546, "2": 0.001, "3": 0.0}}
+{"cond": "P1", "pid": "804746d048b9", "qid": "Q2", "answer": "2", "p_minority": 0.0025, "p_opts": {"1": 0.0025, "2": 0.9961, "3": 0.0}}
+{"cond": "P1", "pid": "804746d048b9", "qid": "Q3", "answer": "2", "p_minority": 0.9785, "p_opts": {"": 0.0002, "1": 0.0156, "2": 0.9681, "3": 0.0104}}
+{"cond": "P1", "pid": "804746d048b9", "qid": "Q4", "answer": "1", "p_minority": 0.0054, "p_opts": {"1": 0.9937, "2": 0.0054, "3": 0.0}}
+{"cond": "P1", "pid": "941def77d677", "qid": "Q1", "answer": "1", "p_minority": 0.0007, "p_opts": {"1": 0.9677, "2": 0.0007, "3": 0.0}}
+{"cond": "P1", "pid": "941def77d677", "qid": "Q2", "answer": "2", "p_minority": 0.0014, "p_opts": {"1": 0.0014, "2": 0.9952, "3": 0.0}}
+{"cond": "P1", "pid": "941def77d677", "qid": "Q3", "answer": "2", "p_minority": 0.9596, "p_opts": {"": 0.0002, "1": 0.0338, "2": 0.9405, "3": 0.0191}}
+{"cond": "P1", "pid": "941def77d677", "qid": "Q4", "answer": "1", "p_minority": 0.0115, "p_opts": {"1": 0.9875, "2": 0.0115, "3": 0.0}}
+{"cond": "P1", "pid": "a22a074f7ad9", "qid": "Q1", "answer": "1", "p_minority": 0.001, "p_opts": {"1": 0.9537, "2": 0.001, "3": 0.0}}
+{"cond": "P1", "pid": "a22a074f7ad9", "qid": "Q2", "answer": "2", "p_minority": 0.0012, "p_opts": {"1": 0.0012, "2": 0.9962, "3": 0.0}}
+{"cond": "P1", "pid": "a22a074f7ad9", "qid": "Q3", "answer": "2", "p_minority": 0.9717, "p_opts": {"": 0.0001, "1": 0.0234, "2": 0.9522, "3": 0.0195}}
+{"cond": "P1", "pid": "a22a074f7ad9", "qid": "Q4", "answer": "1", "p_minority": 0.0113, "p_opts": {"1": 0.9879, "2": 0.0113, "3": 0.0}}
+{"cond": "P1", "pid": "0b35ae1ac384", "qid": "Q1", "answer": "1", "p_minority": 0.0008, "p_opts": {"1": 0.9613, "2": 0.0008, "3": 0.0}}
+{"cond": "P1", "pid": "0b35ae1ac384", "qid": "Q2", "answer": "2", "p_minority": 0.0017, "p_opts": {"1": 0.0017, "2": 0.9961, "3": 0.0}}
+{"cond": "P1", "pid": "0b35ae1ac384", "qid": "Q3", "answer": "2", "p_minority": 0.9823, "p_opts": {"": 0.0001, "1": 0.0142, "2": 0.9762, "3": 0.0062}}
+{"cond": "P1", "pid": "0b35ae1ac384", "qid": "Q4", "answer": "1", "p_minority": 0.0098, "p_opts": {"1": 0.9896, "2": 0.0098, "3": 0.0}}
+{"cond": "P1", "pid": "084151096d7f", "qid": "Q1", "answer": "1", "p_minority": 0.0011, "p_opts": {"1": 0.9703, "2": 0.0011, "3": 0.0}}
+{"cond": "P1", "pid": "084151096d7f", "qid": "Q2", "answer": "2", "p_minority": 0.0014, "p_opts": {"1": 0.0014, "2": 0.9944, "3": 0.0}}
+{"cond": "P1", "pid": "084151096d7f", "qid": "Q3", "answer": "2", "p_minority": 0.9816, "p_opts": {"": 0.0001, "1": 0.0146, "2": 0.9787, "3": 0.0029}}
+{"cond": "P1", "pid": "084151096d7f", "qid": "Q4", "answer": "1", "p_minority": 0.0133, "p_opts": {"1": 0.9858, "2": 0.0133, "3": 0.0}}
+{"cond": "P1", "pid": "9db91a8a961f", "qid": "Q1", "answer": "1", "p_minority": 0.0008, "p_opts": {"1": 0.9698, "2": 0.0008, "3": 0.0}}
+{"cond": "P1", "pid": "9db91a8a961f", "qid": "Q2", "answer": "2", "p_minority": 0.0018, "p_opts": {"1": 0.0018, "2": 0.9952, "3": 0.0}}
+{"cond": "P1", "pid": "9db91a8a961f", "qid": "Q3", "answer": "2", "p_minority": 0.9775, "p_opts": {"": 0.0001, "1": 0.019, "2": 0.9705, "3": 0.0071}}
+{"cond": "P1", "pid": "9db91a8a961f", "qid": "Q4", "answer": "1", "p_minority": 0.0135, "p_opts": {"1": 0.9856, "2": 0.0135, "3": 0.0}}
+{"cond": "P1", "pid": "93fd2efa8ae9", "qid": "Q1", "answer": "1", "p_minority": 0.0012, "p_opts": {"1": 0.9757, "2": 0.0012, "3": 0.0}}
+{"cond": "P1", "pid": "93fd2efa8ae9", "qid": "Q2", "answer": "2", "p_minority": 0.0026, "p_opts": {"1": 0.0026, "2": 0.9945, "3": 0.0}}
+{"cond": "P1", "pid": "93fd2efa8ae9", "qid": "Q3", "answer": "2", "p_minority": 0.9803, "p_opts": {"": 0.0001, "1": 0.0164, "2": 0.972, "3": 0.0083}}
+{"cond": "P1", "pid": "93fd2efa8ae9", "qid": "Q4", "answer": "1", "p_minority": 0.0108, "p_opts": {"1": 0.9883, "2": 0.0108, "3": 0.0}}
+{"cond": "P1", "pid": "478551f268ba", "qid": "Q1", "answer": "1", "p_minority": 0.001, "p_opts": {"1": 0.9055, "2": 0.001, "3": 0.0}}
+{"cond": "P1", "pid": "478551f268ba", "qid": "Q2", "answer": "2", "p_minority": 0.0012, "p_opts": {"1": 0.0012, "2": 0.9963, "3": 0.0}}
+{"cond": "P1", "pid": "478551f268ba", "qid": "Q3", "answer": "2", "p_minority": 0.9647, "p_opts": {"1": 0.0246, "2": 0.847, "3": 0.1177}}
+{"cond": "P1", "pid": "478551f268ba", "qid": "Q4", "answer": "1", "p_minority": 0.0239, "p_opts": {"1": 0.9753, "2": 0.0239, "3": 0.0}}
+{"cond": "P1", "pid": "9fee5b4365c0", "qid": "Q1", "answer": "1", "p_minority": 0.0008, "p_opts": {"1": 0.9419, "2": 0.0008, "3": 0.0}}
+{"cond": "P1", "pid": "9fee5b4365c0", "qid": "Q2", "answer": "2", "p_minority": 0.0012, "p_opts": {"1": 0.0012, "2": 0.9969, "3": 0.0}}
+{"cond": "P1", "pid": "9fee5b4365c0", "qid": "Q3", "answer": "2", "p_minority": 0.9605, "p_opts": {"": 0.0002, "1": 0.0307, "2": 0.915, "3": 0.0455}}
+{"cond": "P1", "pid": "9fee5b4365c0", "qid": "Q4", "answer": "1", "p_minority": 0.0099, "p_opts": {"1": 0.9891, "2": 0.0099, "3": 0.0}}
+{"cond": "P1", "pid": "5b0754b2c269", "qid": "Q1", "answer": "1", "p_minority": 0.0009, "p_opts": {"1": 0.9915, "2": 0.0009, "3": 0.0}}
+{"cond": "P1", "pid": "5b0754b2c269", "qid": "Q2", "answer": "2", "p_minority": 0.001, "p_opts": {"1": 0.001, "2": 0.9958, "3": 0.0}}
+{"cond": "P1", "pid": "5b0754b2c269", "qid": "Q3", "answer": "2", "p_minority": 0.9696, "p_opts": {"": 0.0001, "1": 0.0268, "2": 0.9657, "3": 0.0039}}
+{"cond": "P1", "pid": "5b0754b2c269", "qid": "Q4", "answer": "1", "p_minority": 0.0066, "p_opts": {"1": 0.9927, "2": 0.0066, "3": 0.0}}
+{"cond": "P1", "pid": "dc05a2ccc41d", "qid": "Q1", "answer": "1", "p_minority": 0.0011, "p_opts": {"1": 0.9161, "2": 0.0011, "3": 0.0}}
+{"cond": "P1", "pid": "dc05a2ccc41d", "qid": "Q2", "answer": "2", "p_minority": 0.0019, "p_opts": {"1": 0.0019, "2": 0.9956, "3": 0.0}}
+{"cond": "P1", "pid": "dc05a2ccc41d", "qid": "Q3", "answer": "2", "p_minority": 0.9751, "p_opts": {"": 0.0001, "1": 0.0188, "2": 0.958, "3": 0.0171}}
+{"cond": "P1", "pid": "dc05a2ccc41d", "qid": "Q4", "answer": "1", "p_minority": 0.009, "p_opts": {"1": 0.9905, "2": 0.009, "3": 0.0}}
+{"cond": "P1", "pid": "b3b79e7af37e", "qid": "Q1", "answer": "1", "p_minority": 0.0008, "p_opts": {"1": 0.8706, "2": 0.0008, "3": 0.0}}
+{"cond": "P1", "pid": "b3b79e7af37e", "qid": "Q2", "answer": "2", "p_minority": 0.0012, "p_opts": {"1": 0.0012, "2": 0.9971, "3": 0.0}}
+{"cond": "P1", "pid": "b3b79e7af37e", "qid": "Q3", "answer": "2", "p_minority": 0.9709, "p_opts": {"1": 0.0225, "2": 0.9228, "3": 0.0481}}
+{"cond": "P1", "pid": "b3b79e7af37e", "qid": "Q4", "answer": "1", "p_minority": 0.0074, "p_opts": {"1": 0.9918, "2": 0.0074, "3": 0.0}}
+{"cond": "P1", "pid": "91107e72184f", "qid": "Q1", "answer": "1", "p_minority": 0.0014, "p_opts": {"1": 0.8294, "2": 0.0014, "3": 0.0}}
+{"cond": "P1", "pid": "91107e72184f", "qid": "Q2", "answer": "2", "p_minority": 0.0014, "p_opts": {"1": 0.0014, "2": 0.9967, "3": 0.0}}
+{"cond": "P1", "pid": "91107e72184f", "qid": "Q3", "answer": "2", "p_minority": 0.9769, "p_opts": {"": 0.0002, "1": 0.0149, "2": 0.9248, "3": 0.0521}}
+{"cond": "P1", "pid": "91107e72184f", "qid": "Q4", "answer": "1", "p_minority": 0.0096, "p_opts": {"1": 0.9893, "2": 0.0096, "3": 0.0}}
+{"cond": "P1", "pid": "c618d3fba9db", "qid": "Q1", "answer": "1", "p_minority": 0.0015, "p_opts": {"1": 0.9745, "2": 0.0015, "3": 0.0}}
+{"cond": "P1", "pid": "c618d3fba9db", "qid": "Q2", "answer": "2", "p_minority": 0.0007, "p_opts": {"1": 0.0007, "2": 0.9975, "3": 0.0}}
+{"cond": "P1", "pid": "c618d3fba9db", "qid": "Q3", "answer": "2", "p_minority": 0.9744, "p_opts": {"1": 0.0183, "2": 0.831, "3": 0.1434}}
+{"cond": "P1", "pid": "c618d3fba9db", "qid": "Q4", "answer": "1", "p_minority": 0.0148, "p_opts": {"1": 0.9841, "2": 0.0148, "3": 0.0}}
+{"cond": "P1", "pid": "5e9b1a3ea00c", "qid": "Q1", "answer": "1", "p_minority": 0.0013, "p_opts": {"1": 0.9625, "2": 0.0013, "3": 0.0}}
+{"cond": "P1", "pid": "5e9b1a3ea00c", "qid": "Q2", "answer": "2", "p_minority": 0.0009, "p_opts": {"1": 0.0009, "2": 0.9966, "3": 0.0}}
+{"cond": "P1", "pid": "5e9b1a3ea00c", "qid": "Q3", "answer": "2", "p_minority": 0.9708, "p_opts": {"": 0.0002, "1": 0.0206, "2": 0.8337, "3": 0.1371}}
+{"cond": "P1", "pid": "5e9b1a3ea00c", "qid": "Q4", "answer": "1", "p_minority": 0.0204, "p_opts": {"1": 0.9789, "2": 0.0204, "3": 0.0}}
+{"cond": "P1", "pid": "9331cbef667a", "qid": "Q1", "answer": "1", "p_minority": 0.0009, "p_opts": {"1": 0.9071, "2": 0.0009, "3": 0.0}}
+{"cond": "P1", "pid": "9331cbef667a", "qid": "Q2", "answer": "2", "p_minority": 0.0028, "p_opts": {"1": 0.0028, "2": 0.9938, "3": 0.0}}
+{"cond": "P1", "pid": "9331cbef667a", "qid": "Q3", "answer": "2", "p_minority": 0.9787, "p_opts": {"": 0.0001, "1": 0.0168, "2": 0.9703, "3": 0.0084}}
+{"cond": "P1", "pid": "9331cbef667a", "qid": "Q4", "answer": "1", "p_minority": 0.0129, "p_opts": {"1": 0.9862, "2": 0.0129, "3": 0.0}}
+{"cond": "P1", "pid": "992795103597", "qid": "Q1", "answer": "1", "p_minority": 0.0006, "p_opts": {"1": 0.947, "2": 0.0006, "3": 0.0}}
+{"cond": "P1", "pid": "992795103597", "qid": "Q2", "answer": "2", "p_minority": 0.0018, "p_opts": {"1": 0.0018, "2": 0.996, "3": 0.0}}
+{"cond": "P1", "pid": "992795103597", "qid": "Q3", "answer": "2", "p_minority": 0.9744, "p_opts": {"": 0.0002, "1": 0.0205, "2": 0.9599, "3": 0.0145}}
+{"cond": "P1", "pid": "992795103597", "qid": "Q4", "answer": "1", "p_minority": 0.0191, "p_opts": {"1": 0.9798, "2": 0.0191, "3": 0.0}}
+{"cond": "P1", "pid": "9d9705e62985", "qid": "Q1", "answer": "1", "p_minority": 0.0008, "p_opts": {"1": 0.9424, "2": 0.0008, "3": 0.0}}
+{"cond": "P1", "pid": "9d9705e62985", "qid": "Q2", "answer": "2", "p_minority": 0.0014, "p_opts": {"1": 0.0014, "2": 0.9972, "3": 0.0}}
+{"cond": "P1", "pid": "9d9705e62985", "qid": "Q3", "answer": "2", "p_minority": 0.9738, "p_opts": {"": 0.0001, "1": 0.0216, "2": 0.9493, "3": 0.0245}}
+{"cond": "P1", "pid": "9d9705e62985", "qid": "Q4", "answer": "1", "p_minority": 0.0171, "p_opts": {"1": 0.9821, "2": 0.0171, "3": 0.0}}
+{"cond": "P1", "pid": "e870fca9ce5e", "qid": "Q1", "answer": "1", "p_minority": 0.0007, "p_opts": {"1": 0.8418, "2": 0.0007, "3": 0.0}}
+{"cond": "P1", "pid": "e870fca9ce5e", "qid": "Q2", "answer": "2", "p_minority": 0.0016, "p_opts": {"1": 0.0016, "2": 0.9942, "3": 0.0}}
+{"cond": "P1", "pid": "e870fca9ce5e", "qid": "Q3", "answer": "2", "p_minority": 0.971, "p_opts": {"": 0.0002, "1": 0.0233, "2": 0.948, "3": 0.023}}
+{"cond": "P1", "pid": "e870fca9ce5e", "qid": "Q4", "answer": "1", "p_minority": 0.0155, "p_opts": {"1": 0.9837, "2": 0.0155, "3": 0.0}}
+{"cond": "P1", "pid": "def937ef982c", "qid": "Q1", "answer": "1", "p_minority": 0.001, "p_opts": {"1": 0.9481, "2": 0.001, "3": 0.0}}
+{"cond": "P1", "pid": "def937ef982c", "qid": "Q2", "answer": "2", "p_minority": 0.0036, "p_opts": {"1": 0.0036, "2": 0.9926, "3": 0.0}}
+{"cond": "P1", "pid": "def937ef982c", "qid": "Q3", "answer": "2", "p_minority": 0.9722, "p_opts": {"": 0.0001, "1": 0.022, "2": 0.9457, "3": 0.0265}}
+{"cond": "P1", "pid": "def937ef982c", "qid": "Q4", "answer": "1", "p_minority": 0.0217, "p_opts": {"1": 0.9774, "2": 0.0217, "3": 0.0}}
+{"cond": "P1", "pid": "1b26d4e43ab3", "qid": "Q1", "answer": "1", "p_minority": 0.0008, "p_opts": {"1": 0.953, "2": 0.0008, "3": 0.0}}
+{"cond": "P1", "pid": "1b26d4e43ab3", "qid": "Q2", "answer": "2", "p_minority": 0.001, "p_opts": {"1": 0.001, "2": 0.9954, "3": 0.0}}
+{"cond": "P1", "pid": "1b26d4e43ab3", "qid": "Q3", "answer": "2", "p_minority": 0.9664, "p_opts": {"1": 0.0272, "2": 0.9268, "3": 0.0395}}
+{"cond": "P1", "pid": "1b26d4e43ab3", "qid": "Q4", "answer": "1", "p_minority": 0.0112, "p_opts": {"1": 0.9877, "2": 0.0112, "3": 0.0}}
+{"cond": "P1", "pid": "af85b3383b18", "qid": "Q1", "answer": "1", "p_minority": 0.0007, "p_opts": {"1": 0.9357, "2": 0.0007, "3": 0.0}}
+{"cond": "P1", "pid": "af85b3383b18", "qid": "Q2", "answer": "2", "p_minority": 0.0018, "p_opts": {"1": 0.0018, "2": 0.9962, "3": 0.0}}
+{"cond": "P1", "pid": "af85b3383b18", "qid": "Q3", "answer": "2", "p_minority": 0.9754, "p_opts": {"": 0.0001, "1": 0.0203, "2": 0.9487, "3": 0.0267}}
+{"cond": "P1", "pid": "af85b3383b18", "qid": "Q4", "answer": "1", "p_minority": 0.011, "p_opts": {"1": 0.9882, "2": 0.011, "3": 0.0}}
+{"cond": "P1", "pid": "52c2a671e1e7", "qid": "Q1", "answer": "1", "p_minority": 0.0013, "p_opts": {"1": 0.9723, "2": 0.0013, "3": 0.0}}
+{"cond": "P1", "pid": "52c2a671e1e7", "qid": "Q2", "answer": "2", "p_minority": 0.0026, "p_opts": {"1": 0.0026, "2": 0.9957, "3": 0.0}}
+{"cond": "P1", "pid": "52c2a671e1e7", "qid": "Q3", "answer": "2", "p_minority": 0.983, "p_opts": {"": 0.0001, "1": 0.0139, "2": 0.9802, "3": 0.0028}}
+{"cond": "P1", "pid": "52c2a671e1e7", "qid": "Q4", "answer": "1", "p_minority": 0.0177, "p_opts": {"1": 0.9816, "2": 0.0177, "3": 0.0}}
+{"cond": "P1", "pid": "3d129da5d2a2", "qid": "Q1", "answer": "1", "p_minority": 0.0016, "p_opts": {"1": 0.9095, "2": 0.0016, "3": 0.0}}
+{"cond": "P1", "pid": "3d129da5d2a2", "qid": "Q2", "answer": "2", "p_minority": 0.0021, "p_opts": {"1": 0.0021, "2": 0.9954, "3": 0.0}}
+{"cond": "P1", "pid": "3d129da5d2a2", "qid": "Q3", "answer": "2", "p_minority": 0.9613, "p_opts": {"": 0.0001, "1": 0.0339, "2": 0.9456, "3": 0.0157}}
+{"cond": "P1", "pid": "3d129da5d2a2", "qid": "Q4", "answer": "1", "p_minority": 0.0081, "p_opts": {"1": 0.9908, "2": 0.0081, "3": 0.0}}
+{"cond": "P1", "pid": "3d49b0ac3271", "qid": "Q1", "answer": "1", "p_minority": 0.0017, "p_opts": {"1": 0.9531, "2": 0.0017, "3": 0.0}}
+{"cond": "P1", "pid": "3d49b0ac3271", "qid": "Q2", "answer": "2", "p_minority": 0.0007, "p_opts": {"1": 0.0007, "2": 0.997, "3": 0.0}}
+{"cond": "P1", "pid": "3d49b0ac3271", "qid": "Q3", "answer": "2", "p_minority": 0.9768, "p_opts": {"1": 0.0175, "2": 0.9267, "3": 0.0501}}
+{"cond": "P1", "pid": "3d49b0ac3271", "qid": "Q4", "answer": "1", "p_minority": 0.0187, "p_opts": {"1": 0.9809, "2": 0.0187, "3": 0.0}}
+{"cond": "P1", "pid": "d69101ce545c", "qid": "Q1", "answer": "1", "p_minority": 0.0015, "p_opts": {"1": 0.8969, "2": 0.0015, "3": 0.0}}
+{"cond": "P1", "pid": "d69101ce545c", "qid": "Q2", "answer": "2", "p_minority": 0.001, "p_opts": {"1": 0.001, "2": 0.9967, "3": 0.0}}
+{"cond": "P1", "pid": "d69101ce545c", "qid": "Q3", "answer": "2", "p_minority": 0.9786, "p_opts": {"": 0.0001, "1": 0.0165, "2": 0.9446, "3": 0.034}}
+{"cond": "P1", "pid": "d69101ce545c", "qid": "Q4", "answer": "1", "p_minority": 0.0097, "p_opts": {"1": 0.9895, "2": 0.0097, "3": 0.0}}
+{"cond": "P1", "pid": "0125b04fb53b", "qid": "Q1", "answer": "1", "p_minority": 0.0011, "p_opts": {"1": 0.9836, "2": 0.0011, "3": 0.0}}
+{"cond": "P1", "pid": "0125b04fb53b", "qid": "Q2", "answer": "2", "p_minority": 0.0016, "p_opts": {"1": 0.0016, "2": 0.9963, "3": 0.0}}
+{"cond": "P1", "pid": "0125b04fb53b", "qid": "Q3", "answer": "2", "p_minority": 0.9719, "p_opts": {"": 0.0001, "1": 0.0235, "2": 0.9463, "3": 0.0255}}
+{"cond": "P1", "pid": "0125b04fb53b", "qid": "Q4", "answer": "1", "p_minority": 0.0091, "p_opts": {"1": 0.9899, "2": 0.0091, "3": 0.0}}
+{"cond": "P1", "pid": "bfc0ef9a1a14", "qid": "Q1", "answer": "1", "p_minority": 0.0013, "p_opts": {"1": 0.9475, "2": 0.0013, "3": 0.0}}
+{"cond": "P1", "pid": "bfc0ef9a1a14", "qid": "Q2", "answer": "2", "p_minority": 0.0009, "p_opts": {"1": 0.0009, "2": 0.996, "3": 0.0}}
+{"cond": "P1", "pid": "bfc0ef9a1a14", "qid": "Q3", "answer": "2", "p_minority": 0.9798, "p_opts": {"": 0.0002, "1": 0.0146, "2": 0.9334, "3": 0.0464}}
+{"cond": "P1", "pid": "bfc0ef9a1a14", "qid": "Q4", "answer": "1", "p_minority": 0.0203, "p_opts": {"1": 0.9788, "2": 0.0203, "3": 0.0}}
+{"cond": "P1", "pid": "e7aadd3ec600", "qid": "Q1", "answer": "1", "p_minority": 0.0021, "p_opts": {"1": 0.9416, "2": 0.0021, "3": 0.0}}
+{"cond": "P1", "pid": "e7aadd3ec600", "qid": "Q2", "answer": "2", "p_minority": 0.0015, "p_opts": {"1": 0.0015, "2": 0.9951, "3": 0.0}}
+{"cond": "P1", "pid": "e7aadd3ec600", "qid": "Q3", "answer": "2", "p_minority": 0.9738, "p_opts": {"": 0.0001, "1": 0.0212, "2": 0.9611, "3": 0.0128}}
+{"cond": "P1", "pid": "e7aadd3ec600", "qid": "Q4", "answer": "1", "p_minority": 0.0109, "p_opts": {"1": 0.9881, "2": 0.0109, "3": 0.0}}
+{"cond": "P1", "pid": "01dab86d53c8", "qid": "Q1", "answer": "1", "p_minority": 0.0006, "p_opts": {"1": 0.8715, "2": 0.0006, "3": 0.0}}
+{"cond": "P1", "pid": "01dab86d53c8", "qid": "Q2", "answer": "2", "p_minority": 0.0014, "p_opts": {"1": 0.0014, "2": 0.9964, "3": 0.0}}
+{"cond": "P1", "pid": "01dab86d53c8", "qid": "Q3", "answer": "2", "p_minority": 0.9816, "p_opts": {"": 0.0001, "1": 0.0133, "2": 0.9729, "3": 0.0088}}
+{"cond": "P1", "pid": "01dab86d53c8", "qid": "Q4", "answer": "1", "p_minority": 0.0318, "p_opts": {"1": 0.967, "2": 0.0318, "3": 0.0}}
+{"cond": "P1", "pid": "d2815d37e9dd", "qid": "Q1", "answer": "1", "p_minority": 0.0013, "p_opts": {"1": 0.9654, "2": 0.0013, "3": 0.0}}
+{"cond": "P1", "pid": "d2815d37e9dd", "qid": "Q2", "answer": "2", "p_minority": 0.0021, "p_opts": {"1": 0.0021, "2": 0.995, "3": 0.0}}
+{"cond": "P1", "pid": "d2815d37e9dd", "qid": "Q3", "answer": "2", "p_minority": 0.9716, "p_opts": {"": 0.0001, "1": 0.0235, "2": 0.9441, "3": 0.0275}}
+{"cond": "P1", "pid": "d2815d37e9dd", "qid": "Q4", "answer": "1", "p_minority": 0.0163, "p_opts": {"1": 0.983, "2": 0.0163, "3": 0.0}}
+{"cond": "P1", "pid": "862d7565dfc9", "qid": "Q1", "answer": "1", "p_minority": 0.0009, "p_opts": {"1": 0.9607, "2": 0.0009, "3": 0.0}}
+{"cond": "P1", "pid": "862d7565dfc9", "qid": "Q2", "answer": "2", "p_minority": 0.0012, "p_opts": {"1": 0.0012, "2": 0.9964, "3": 0.0}}
+{"cond": "P1", "pid": "862d7565dfc9", "qid": "Q3", "answer": "2", "p_minority": 0.965, "p_opts": {"": 0.0001, "1": 0.0291, "2": 0.9105, "3": 0.0545}}
+{"cond": "P1", "pid": "862d7565dfc9", "qid": "Q4", "answer": "1", "p_minority": 0.008, "p_opts": {"1": 0.9915, "2": 0.008, "3": 0.0}}
+{"cond": "P1", "pid": "c5d61aff048b", "qid": "Q1", "answer": "1", "p_minority": 0.001, "p_opts": {"1": 0.9451, "2": 0.001, "3": 0.0}}
+{"cond": "P1", "pid": "c5d61aff048b", "qid": "Q2", "answer": "2", "p_minority": 0.0014, "p_opts": {"1": 0.0014, "2": 0.9967, "3": 0.0}}
+{"cond": "P1", "pid": "c5d61aff048b", "qid": "Q3", "answer": "2", "p_minority": 0.9699, "p_opts": {"1": 0.0241, "2": 0.925, "3": 0.045}}
+{"cond": "P1", "pid": "c5d61aff048b", "qid": "Q4", "answer": "1", "p_minority": 0.0086, "p_opts": {"1": 0.9898, "2": 0.0086, "3": 0.0}}
+{"cond": "P1", "pid": "244c6dd4bd8b", "qid": "Q1", "answer": "1", "p_minority": 0.0009, "p_opts": {"1": 0.982, "2": 0.0009, "3": 0.0}}
+{"cond": "P1", "pid": "244c6dd4bd8b", "qid": "Q2", "answer": "2", "p_minority": 0.0021, "p_opts": {"1": 0.0021, "2": 0.995, "3": 0.0}}
+{"cond": "P1", "pid": "244c6dd4bd8b", "qid": "Q3", "answer": "2", "p_minority": 0.9771, "p_opts": {"": 0.0001, "1": 0.0193, "2": 0.9638, "3": 0.0134}}
+{"cond": "P1", "pid": "244c6dd4bd8b", "qid": "Q4", "answer": "1", "p_minority": 0.0105, "p_opts": {"1": 0.9888, "2": 0.0105, "3": 0.0}}
+{"cond": "P1", "pid": "f32a802199ac", "qid": "Q1", "answer": "1", "p_minority": 0.0007, "p_opts": {"1": 0.9712, "2": 0.0007, "3": 0.0}}
+{"cond": "P1", "pid": "f32a802199ac", "qid": "Q2", "answer": "2", "p_minority": 0.0028, "p_opts": {"1": 0.0028, "2": 0.9946, "3": 0.0}}
+{"cond": "P1", "pid": "f32a802199ac", "qid": "Q3", "answer": "2", "p_minority": 0.9794, "p_opts": {"1": 0.0174, "2": 0.9716, "3": 0.0078}}
+{"cond": "P1", "pid": "f32a802199ac", "qid": "Q4", "answer": "1", "p_minority": 0.0138, "p_opts": {"1": 0.9853, "2": 0.0138, "3": 0.0}}
+{"cond": "P2", "pid": "1556eef06c0d", "qid": "Q1", "answer": "2", "p_minority": 0.1089, "p_opts": {"1": 0.1089, "2": 0.8903, "3": 0.0}}
+{"cond": "P2", "pid": "1556eef06c0d", "qid": "Q2", "answer": "2", "p_minority": 0.0453, "p_opts": {"1": 0.0453, "2": 0.9516, "3": 0.0}}
+{"cond": "P2", "pid": "1556eef06c0d", "qid": "Q3", "answer": "3", "p_minority": 0.0057, "p_opts": {"1": 0.0057, "2": 0.007, "3": 0.981}}
+{"cond": "P2", "pid": "1556eef06c0d", "qid": "Q4", "answer": "2", "p_minority": 0.0113, "p_opts": {"1": 0.0113, "2": 0.9876, "3": 0.0}}
+{"cond": "P2", "pid": "fcb0122f9db4", "qid": "Q1", "answer": "2", "p_minority": 0.0683, "p_opts": {"1": 0.0683, "2": 0.9311, "3": 0.0}}
+{"cond": "P2", "pid": "fcb0122f9db4", "qid": "Q2", "answer": "2", "p_minority": 0.0334, "p_opts": {"1": 0.0334, "2": 0.9626, "3": 0.0}}
+{"cond": "P2", "pid": "fcb0122f9db4", "qid": "Q3", "answer": "3", "p_minority": 0.0048, "p_opts": {"1": 0.0048, "2": 0.0123, "3": 0.9753}}
+{"cond": "P2", "pid": "fcb0122f9db4", "qid": "Q4", "answer": "2", "p_minority": 0.0053, "p_opts": {"1": 0.0053, "2": 0.9934, "3": 0.0}}
+{"cond": "P2", "pid": "4476e62c5629", "qid": "Q1", "answer": "2", "p_minority": 0.0652, "p_opts": {"1": 0.0652, "2": 0.934, "3": 0.0}}
+{"cond": "P2", "pid": "4476e62c5629", "qid": "Q2", "answer": "2", "p_minority": 0.0187, "p_opts": {"1": 0.0187, "2": 0.979, "3": 0.0}}
+{"cond": "P2", "pid": "4476e62c5629", "qid": "Q3", "answer": "3", "p_minority": 0.0056, "p_opts": {"1": 0.0056, "2": 0.0056, "3": 0.9706}}
+{"cond": "P2", "pid": "4476e62c5629", "qid": "Q4", "answer": "2", "p_minority": 0.0209, "p_opts": {"1": 0.0209, "2": 0.9779, "3": 0.0}}
+{"cond": "P2", "pid": "4cfe5045f7f8", "qid": "Q1", "answer": "2", "p_minority": 0.0965, "p_opts": {"1": 0.0965, "2": 0.9027, "3": 0.0}}
+{"cond": "P2", "pid": "4cfe5045f7f8", "qid": "Q2", "answer": "2", "p_minority": 0.033, "p_opts": {"1": 0.033, "2": 0.964, "3": 0.0}}
+{"cond": "P2", "pid": "4cfe5045f7f8", "qid": "Q3", "answer": "3", "p_minority": 0.0047, "p_opts": {"1": 0.0047, "2": 0.0058, "3": 0.98}}
+{"cond": "P2", "pid": "4cfe5045f7f8", "qid": "Q4", "answer": "2", "p_minority": 0.0071, "p_opts": {"1": 0.0071, "2": 0.9915, "3": 0.0}}
+{"cond": "P2", "pid": "3f58dadf5366", "qid": "Q1", "answer": "2", "p_minority": 0.0804, "p_opts": {"1": 0.0804, "2": 0.9189, "3": 0.0}}
+{"cond": "P2", "pid": "3f58dadf5366", "qid": "Q2", "answer": "2", "p_minority": 0.0523, "p_opts": {"1": 0.0523, "2": 0.9455, "3": 0.0}}
+{"cond": "P2", "pid": "3f58dadf5366", "qid": "Q3", "answer": "3", "p_minority": 0.0045, "p_opts": {"1": 0.0045, "2": 0.0044, "3": 0.9796}}
+{"cond": "P2", "pid": "3f58dadf5366", "qid": "Q4", "answer": "2", "p_minority": 0.0088, "p_opts": {"1": 0.0088, "2": 0.9897, "3": 0.0}}
+{"cond": "P2", "pid": "6ea9e2634beb", "qid": "Q1", "answer": "2", "p_minority": 0.0363, "p_opts": {"1": 0.0363, "2": 0.963, "3": 0.0}}
+{"cond": "P2", "pid": "6ea9e2634beb", "qid": "Q2", "answer": "2", "p_minority": 0.0156, "p_opts": {"1": 0.0156, "2": 0.9822, "3": 0.0}}
+{"cond": "P2", "pid": "6ea9e2634beb", "qid": "Q3", "answer": "3", "p_minority": 0.0034, "p_opts": {"1": 0.0034, "2": 0.0095, "3": 0.978}}
+{"cond": "P2", "pid": "6ea9e2634beb", "qid": "Q4", "answer": "2", "p_minority": 0.004, "p_opts": {"1": 0.004, "2": 0.9951, "3": 0.0}}
+{"cond": "P2", "pid": "9291678f743f", "qid": "Q1", "answer": "2", "p_minority": 0.189, "p_opts": {"1": 0.189, "2": 0.8099, "3": 0.0}}
+{"cond": "P2", "pid": "9291678f743f", "qid": "Q2", "answer": "2", "p_minority": 0.027, "p_opts": {"1": 0.027, "2": 0.9709, "3": 0.0}}
+{"cond": "P2", "pid": "9291678f743f", "qid": "Q3", "answer": "3", "p_minority": 0.0058, "p_opts": {"1": 0.0058, "2": 0.0064, "3": 0.9776}}
+{"cond": "P2", "pid": "9291678f743f", "qid": "Q4", "answer": "2", "p_minority": 0.0125, "p_opts": {"1": 0.0125, "2": 0.9864, "3": 0.0}}
+{"cond": "P2", "pid": "0d75f1f86ce3", "qid": "Q1", "answer": "2", "p_minority": 0.1316, "p_opts": {"1": 0.1316, "2": 0.8675, "3": 0.0}}
+{"cond": "P2", "pid": "0d75f1f86ce3", "qid": "Q2", "answer": "2", "p_minority": 0.0355, "p_opts": {"1": 0.0355, "2": 0.9619, "3": 0.0}}
+{"cond": "P2", "pid": "0d75f1f86ce3", "qid": "Q3", "answer": "3", "p_minority": 0.0067, "p_opts": {"1": 0.0067, "2": 0.009, "3": 0.9721}}
+{"cond": "P2", "pid": "0d75f1f86ce3", "qid": "Q4", "answer": "2", "p_minority": 0.0062, "p_opts": {"1": 0.0062, "2": 0.9925, "3": 0.0}}
+{"cond": "P2", "pid": "c4bb7351f8f2", "qid": "Q1", "answer": "2", "p_minority": 0.1076, "p_opts": {"1": 0.1076, "2": 0.8915, "3": 0.0}}
+{"cond": "P2", "pid": "c4bb7351f8f2", "qid": "Q2", "answer": "2", "p_minority": 0.0135, "p_opts": {"1": 0.0135, "2": 0.9846, "3": 0.0}}
+{"cond": "P2", "pid": "c4bb7351f8f2", "qid": "Q3", "answer": "3", "p_minority": 0.0058, "p_opts": {"1": 0.0058, "2": 0.0092, "3": 0.9736}}
+{"cond": "P2", "pid": "c4bb7351f8f2", "qid": "Q4", "answer": "2", "p_minority": 0.0055, "p_opts": {"1": 0.0055, "2": 0.9934, "3": 0.0}}
+{"cond": "P2", "pid": "d7813bf3dcbb", "qid": "Q1", "answer": "2", "p_minority": 0.0526, "p_opts": {"1": 0.0526, "2": 0.9464, "3": 0.0}}
+{"cond": "P2", "pid": "d7813bf3dcbb", "qid": "Q2", "answer": "2", "p_minority": 0.023, "p_opts": {"1": 0.023, "2": 0.9747, "3": 0.0}}
+{"cond": "P2", "pid": "d7813bf3dcbb", "qid": "Q3", "answer": "3", "p_minority": 0.0022, "p_opts": {"1": 0.0022, "2": 0.0027, "3": 0.9782}}
+{"cond": "P2", "pid": "d7813bf3dcbb", "qid": "Q4", "answer": "2", "p_minority": 0.004, "p_opts": {"1": 0.004, "2": 0.9953, "3": 0.0}}
+{"cond": "P2", "pid": "8de2b286d2d0", "qid": "Q1", "answer": "2", "p_minority": 0.1654, "p_opts": {"1": 0.1654, "2": 0.8339, "3": 0.0}}
+{"cond": "P2", "pid": "8de2b286d2d0", "qid": "Q2", "answer": "2", "p_minority": 0.0346, "p_opts": {"1": 0.0346, "2": 0.964, "3": 0.0}}
+{"cond": "P2", "pid": "8de2b286d2d0", "qid": "Q3", "answer": "3", "p_minority": 0.0054, "p_opts": {"1": 0.0054, "2": 0.0109, "3": 0.9694}}
+{"cond": "P2", "pid": "8de2b286d2d0", "qid": "Q4", "answer": "2", "p_minority": 0.0058, "p_opts": {"1": 0.0058, "2": 0.9931, "3": 0.0}}
+{"cond": "P2", "pid": "2348639fdd69", "qid": "Q1", "answer": "2", "p_minority": 0.0995, "p_opts": {"1": 0.0995, "2": 0.8994, "3": 0.0}}
+{"cond": "P2", "pid": "2348639fdd69", "qid": "Q2", "answer": "2", "p_minority": 0.0501, "p_opts": {"1": 0.0501, "2": 0.9477, "3": 0.0}}
+{"cond": "P2", "pid": "2348639fdd69", "qid": "Q3", "answer": "3", "p_minority": 0.0034, "p_opts": {"1": 0.0034, "2": 0.0063, "3": 0.9821}}
+{"cond": "P2", "pid": "2348639fdd69", "qid": "Q4", "answer": "2", "p_minority": 0.0068, "p_opts": {"1": 0.0068, "2": 0.992, "3": 0.0}}
+{"cond": "P2", "pid": "530236088bb0", "qid": "Q1", "answer": "1", "p_minority": 0.7461, "p_opts": {"1": 0.7461, "2": 0.2526, "3": 0.0}}
+{"cond": "P2", "pid": "530236088bb0", "qid": "Q2", "answer": "2", "p_minority": 0.063, "p_opts": {"1": 0.063, "2": 0.9339, "3": 0.0}}
+{"cond": "P2", "pid": "530236088bb0", "qid": "Q3", "answer": "3", "p_minority": 0.0043, "p_opts": {"1": 0.0043, "2": 0.0036, "3": 0.9799}}
+{"cond": "P2", "pid": "530236088bb0", "qid": "Q4", "answer": "2", "p_minority": 0.0247, "p_opts": {"1": 0.0247, "2": 0.9735, "3": 0.0}}
+{"cond": "P2", "pid": "a740248c822c", "qid": "Q1", "answer": "2", "p_minority": 0.0476, "p_opts": {"1": 0.0476, "2": 0.9519, "3": 0.0}}
+{"cond": "P2", "pid": "a740248c822c", "qid": "Q2", "answer": "2", "p_minority": 0.0315, "p_opts": {"1": 0.0315, "2": 0.9668, "3": 0.0}}
+{"cond": "P2", "pid": "a740248c822c", "qid": "Q3", "answer": "3", "p_minority": 0.0067, "p_opts": {"1": 0.0067, "2": 0.008, "3": 0.9778}}
+{"cond": "P2", "pid": "a740248c822c", "qid": "Q4", "answer": "2", "p_minority": 0.0131, "p_opts": {"1": 0.0131, "2": 0.986, "3": 0.0}}
+{"cond": "P2", "pid": "476a69dfdbe4", "qid": "Q1", "answer": "2", "p_minority": 0.1384, "p_opts": {"1": 0.1384, "2": 0.8602, "3": 0.0}}
+{"cond": "P2", "pid": "476a69dfdbe4", "qid": "Q2", "answer": "2", "p_minority": 0.0188, "p_opts": {"1": 0.0188, "2": 0.9785, "3": 0.0}}
+{"cond": "P2", "pid": "476a69dfdbe4", "qid": "Q3", "answer": "3", "p_minority": 0.0057, "p_opts": {"1": 0.0057, "2": 0.0051, "3": 0.9838}}
+{"cond": "P2", "pid": "476a69dfdbe4", "qid": "Q4", "answer": "2", "p_minority": 0.0037, "p_opts": {"1": 0.0037, "2": 0.9955, "3": 0.0}}
+{"cond": "P2", "pid": "804746d048b9", "qid": "Q1", "answer": "2", "p_minority": 0.3047, "p_opts": {"1": 0.3047, "2": 0.6933, "3": 0.0}}
+{"cond": "P2", "pid": "804746d048b9", "qid": "Q2", "answer": "2", "p_minority": 0.0576, "p_opts": {"1": 0.0576, "2": 0.9401, "3": 0.0}}
+{"cond": "P2", "pid": "804746d048b9", "qid": "Q3", "answer": "3", "p_minority": 0.0054, "p_opts": {"1": 0.0054, "2": 0.0025, "3": 0.98}}
+{"cond": "P2", "pid": "804746d048b9", "qid": "Q4", "answer": "2", "p_minority": 0.0095, "p_opts": {"1": 0.0095, "2": 0.9889, "3": 0.0}}
+{"cond": "P2", "pid": "941def77d677", "qid": "Q1", "answer": "2", "p_minority": 0.1961, "p_opts": {"1": 0.1961, "2": 0.803, "3": 0.0}}
+{"cond": "P2", "pid": "941def77d677", "qid": "Q2", "answer": "2", "p_minority": 0.0412, "p_opts": {"1": 0.0412, "2": 0.9564, "3": 0.0}}
+{"cond": "P2", "pid": "941def77d677", "qid": "Q3", "answer": "3", "p_minority": 0.0039, "p_opts": {"1": 0.0039, "2": 0.0026, "3": 0.9725}}
+{"cond": "P2", "pid": "941def77d677", "qid": "Q4", "answer": "2", "p_minority": 0.0059, "p_opts": {"1": 0.0059, "2": 0.9925, "3": 0.0}}
+{"cond": "P2", "pid": "a22a074f7ad9", "qid": "Q1", "answer": "2", "p_minority": 0.1037, "p_opts": {"1": 0.1037, "2": 0.8954, "3": 0.0}}
+{"cond": "P2", "pid": "a22a074f7ad9", "qid": "Q2", "answer": "2", "p_minority": 0.0209, "p_opts": {"1": 0.0209, "2": 0.9758, "3": 0.0}}
+{"cond": "P2", "pid": "a22a074f7ad9", "qid": "Q3", "answer": "3", "p_minority": 0.0043, "p_opts": {"1": 0.0043, "2": 0.0067, "3": 0.9811}}
+{"cond": "P2", "pid": "a22a074f7ad9", "qid": "Q4", "answer": "2", "p_minority": 0.0041, "p_opts": {"1": 0.0041, "2": 0.9946, "3": 0.0}}
+{"cond": "P2", "pid": "0b35ae1ac384", "qid": "Q1", "answer": "2", "p_minority": 0.1267, "p_opts": {"1": 0.1267, "2": 0.8721, "3": 0.0}}
+{"cond": "P2", "pid": "0b35ae1ac384", "qid": "Q2", "answer": "2", "p_minority": 0.0269, "p_opts": {"1": 0.0269, "2": 0.9707, "3": 0.0}}
+{"cond": "P2", "pid": "0b35ae1ac384", "qid": "Q3", "answer": "3", "p_minority": 0.0057, "p_opts": {"1": 0.0057, "2": 0.0046, "3": 0.9783}}
+{"cond": "P2", "pid": "0b35ae1ac384", "qid": "Q4", "answer": "2", "p_minority": 0.0099, "p_opts": {"1": 0.0099, "2": 0.9891, "3": 0.0}}
+{"cond": "P2", "pid": "084151096d7f", "qid": "Q1", "answer": "2", "p_minority": 0.1539, "p_opts": {"1": 0.1539, "2": 0.8451, "3": 0.0}}
+{"cond": "P2", "pid": "084151096d7f", "qid": "Q2", "answer": "2", "p_minority": 0.0306, "p_opts": {"1": 0.0306, "2": 0.9668, "3": 0.0}}
+{"cond": "P2", "pid": "084151096d7f", "qid": "Q3", "answer": "3", "p_minority": 0.0037, "p_opts": {"1": 0.0037, "2": 0.004, "3": 0.9835}}
+{"cond": "P2", "pid": "084151096d7f", "qid": "Q4", "answer": "2", "p_minority": 0.0046, "p_opts": {"1": 0.0046, "2": 0.9937, "3": 0.0}}
+{"cond": "P2", "pid": "9db91a8a961f", "qid": "Q1", "answer": "2", "p_minority": 0.3317, "p_opts": {"1": 0.3317, "2": 0.6675, "3": 0.0}}
+{"cond": "P2", "pid": "9db91a8a961f", "qid": "Q2", "answer": "2", "p_minority": 0.038, "p_opts": {"1": 0.038, "2": 0.9594, "3": 0.0}}
+{"cond": "P2", "pid": "9db91a8a961f", "qid": "Q3", "answer": "3", "p_minority": 0.006, "p_opts": {"1": 0.006, "2": 0.0041, "3": 0.9796}}
+{"cond": "P2", "pid": "9db91a8a961f", "qid": "Q4", "answer": "2", "p_minority": 0.0074, "p_opts": {"1": 0.0074, "2": 0.9917, "3": 0.0}}
+{"cond": "P2", "pid": "93fd2efa8ae9", "qid": "Q1", "answer": "2", "p_minority": 0.1231, "p_opts": {"1": 0.1231, "2": 0.8756, "3": 0.0}}
+{"cond": "P2", "pid": "93fd2efa8ae9", "qid": "Q2", "answer": "2", "p_minority": 0.053, "p_opts": {"1": 0.053, "2": 0.945, "3": 0.0}}
+{"cond": "P2", "pid": "93fd2efa8ae9", "qid": "Q3", "answer": "3", "p_minority": 0.0112, "p_opts": {"1": 0.0112, "2": 0.0053, "3": 0.9744}}
+{"cond": "P2", "pid": "93fd2efa8ae9", "qid": "Q4", "answer": "2", "p_minority": 0.0072, "p_opts": {"1": 0.0072, "2": 0.9916, "3": 0.0}}
+{"cond": "P2", "pid": "478551f268ba", "qid": "Q1", "answer": "2", "p_minority": 0.0779, "p_opts": {"1": 0.0779, "2": 0.9211, "3": 0.0}}
+{"cond": "P2", "pid": "478551f268ba", "qid": "Q2", "answer": "2", "p_minority": 0.0194, "p_opts": {"1": 0.0194, "2": 0.9771, "3": 0.0}}
+{"cond": "P2", "pid": "478551f268ba", "qid": "Q3", "answer": "3", "p_minority": 0.0084, "p_opts": {"1": 0.0084, "2": 0.013, "3": 0.9694}}
+{"cond": "P2", "pid": "478551f268ba", "qid": "Q4", "answer": "2", "p_minority": 0.0129, "p_opts": {"1": 0.0129, "2": 0.9858, "3": 0.0}}
+{"cond": "P2", "pid": "9fee5b4365c0", "qid": "Q1", "answer": "2", "p_minority": 0.0397, "p_opts": {"1": 0.0397, "2": 0.9595, "3": 0.0}}
+{"cond": "P2", "pid": "9fee5b4365c0", "qid": "Q2", "answer": "2", "p_minority": 0.0198, "p_opts": {"1": 0.0198, "2": 0.9778, "3": 0.0}}
+{"cond": "P2", "pid": "9fee5b4365c0", "qid": "Q3", "answer": "3", "p_minority": 0.0032, "p_opts": {"1": 0.0032, "2": 0.0134, "3": 0.9724}}
+{"cond": "P2", "pid": "9fee5b4365c0", "qid": "Q4", "answer": "2", "p_minority": 0.0041, "p_opts": {"1": 0.0041, "2": 0.9947, "3": 0.0}}
+{"cond": "P2", "pid": "5b0754b2c269", "qid": "Q1", "answer": "2", "p_minority": 0.0578, "p_opts": {"1": 0.0578, "2": 0.9415, "3": 0.0}}
+{"cond": "P2", "pid": "5b0754b2c269", "qid": "Q2", "answer": "2", "p_minority": 0.0299, "p_opts": {"1": 0.0299, "2": 0.967, "3": 0.0}}
+{"cond": "P2", "pid": "5b0754b2c269", "qid": "Q3", "answer": "3", "p_minority": 0.006, "p_opts": {"1": 0.006, "2": 0.0042, "3": 0.9814}}
+{"cond": "P2", "pid": "5b0754b2c269", "qid": "Q4", "answer": "2", "p_minority": 0.004, "p_opts": {"1": 0.004, "2": 0.9948, "3": 0.0}}
+{"cond": "P2", "pid": "dc05a2ccc41d", "qid": "Q1", "answer": "2", "p_minority": 0.1858, "p_opts": {"1": 0.1858, "2": 0.813, "3": 0.0}}
+{"cond": "P2", "pid": "dc05a2ccc41d", "qid": "Q2", "answer": "2", "p_minority": 0.0275, "p_opts": {"1": 0.0275, "2": 0.9704, "3": 0.0}}
+{"cond": "P2", "pid": "dc05a2ccc41d", "qid": "Q3", "answer": "3", "p_minority": 0.0042, "p_opts": {"1": 0.0042, "2": 0.0048, "3": 0.9789}}
+{"cond": "P2", "pid": "dc05a2ccc41d", "qid": "Q4", "answer": "2", "p_minority": 0.0095, "p_opts": {"1": 0.0095, "2": 0.989, "3": 0.0}}
+{"cond": "P2", "pid": "b3b79e7af37e", "qid": "Q1", "answer": "2", "p_minority": 0.0649, "p_opts": {"1": 0.0649, "2": 0.9343, "3": 0.0}}
+{"cond": "P2", "pid": "b3b79e7af37e", "qid": "Q2", "answer": "2", "p_minority": 0.0237, "p_opts": {"1": 0.0237, "2": 0.9734, "3": 0.0}}
+{"cond": "P2", "pid": "b3b79e7af37e", "qid": "Q3", "answer": "3", "p_minority": 0.0027, "p_opts": {"1": 0.0027, "2": 0.0029, "3": 0.977}}
+{"cond": "P2", "pid": "b3b79e7af37e", "qid": "Q4", "answer": "2", "p_minority": 0.0083, "p_opts": {"1": 0.0083, "2": 0.9906, "3": 0.0}}
+{"cond": "P2", "pid": "91107e72184f", "qid": "Q1", "answer": "2", "p_minority": 0.2567, "p_opts": {"1": 0.2567, "2": 0.7423, "3": 0.0}}
+{"cond": "P2", "pid": "91107e72184f", "qid": "Q2", "answer": "2", "p_minority": 0.0246, "p_opts": {"1": 0.0246, "2": 0.9731, "3": 0.0}}
+{"cond": "P2", "pid": "91107e72184f", "qid": "Q3", "answer": "3", "p_minority": 0.0031, "p_opts": {"1": 0.0031, "2": 0.0015, "3": 0.9691}}
+{"cond": "P2", "pid": "91107e72184f", "qid": "Q4", "answer": "2", "p_minority": 0.0049, "p_opts": {"1": 0.0049, "2": 0.9941, "3": 0.0}}
+{"cond": "P2", "pid": "c618d3fba9db", "qid": "Q1", "answer": "2", "p_minority": 0.0793, "p_opts": {"1": 0.0793, "2": 0.9199, "3": 0.0}}
+{"cond": "P2", "pid": "c618d3fba9db", "qid": "Q2", "answer": "2", "p_minority": 0.0201, "p_opts": {"1": 0.0201, "2": 0.9767, "3": 0.0}}
+{"cond": "P2", "pid": "c618d3fba9db", "qid": "Q3", "answer": "3", "p_minority": 0.0037, "p_opts": {"1": 0.0037, "2": 0.0057, "3": 0.9845}}
+{"cond": "P2", "pid": "c618d3fba9db", "qid": "Q4", "answer": "2", "p_minority": 0.0097, "p_opts": {"1": 0.0097, "2": 0.9892, "3": 0.0}}
+{"cond": "P2", "pid": "5e9b1a3ea00c", "qid": "Q1", "answer": "2", "p_minority": 0.059, "p_opts": {"1": 0.059, "2": 0.9403, "3": 0.0}}
+{"cond": "P2", "pid": "5e9b1a3ea00c", "qid": "Q2", "answer": "2", "p_minority": 0.0269, "p_opts": {"1": 0.0269, "2": 0.971, "3": 0.0}}
+{"cond": "P2", "pid": "5e9b1a3ea00c", "qid": "Q3", "answer": "3", "p_minority": 0.0056, "p_opts": {"1": 0.0056, "2": 0.0078, "3": 0.9768}}
+{"cond": "P2", "pid": "5e9b1a3ea00c", "qid": "Q4", "answer": "2", "p_minority": 0.0048, "p_opts": {"1": 0.0048, "2": 0.9943, "3": 0.0}}
+{"cond": "P2", "pid": "9331cbef667a", "qid": "Q1", "answer": "2", "p_minority": 0.1392, "p_opts": {"1": 0.1392, "2": 0.8596, "3": 0.0}}
+{"cond": "P2", "pid": "9331cbef667a", "qid": "Q2", "answer": "2", "p_minority": 0.0422, "p_opts": {"1": 0.0422, "2": 0.955, "3": 0.0}}
+{"cond": "P2", "pid": "9331cbef667a", "qid": "Q3", "answer": "3", "p_minority": 0.0044, "p_opts": {"1": 0.0044, "2": 0.004, "3": 0.9833}}
+{"cond": "P2", "pid": "9331cbef667a", "qid": "Q4", "answer": "2", "p_minority": 0.0115, "p_opts": {"1": 0.0115, "2": 0.987, "3": 0.0}}
+{"cond": "P2", "pid": "992795103597", "qid": "Q1", "answer": "2", "p_minority": 0.38, "p_opts": {"1": 0.38, "2": 0.6191, "3": 0.0}}
+{"cond": "P2", "pid": "992795103597", "qid": "Q2", "answer": "2", "p_minority": 0.0324, "p_opts": {"1": 0.0324, "2": 0.9662, "3": 0.0}}
+{"cond": "P2", "pid": "992795103597", "qid": "Q3", "answer": "3", "p_minority": 0.0059, "p_opts": {"1": 0.0059, "2": 0.0099, "3": 0.9757}}
+{"cond": "P2", "pid": "992795103597", "qid": "Q4", "answer": "2", "p_minority": 0.0138, "p_opts": {"1": 0.0138, "2": 0.9854, "3": 0.0}}
+{"cond": "P2", "pid": "9d9705e62985", "qid": "Q1", "answer": "2", "p_minority": 0.1397, "p_opts": {"1": 0.1397, "2": 0.8596, "3": 0.0}}
+{"cond": "P2", "pid": "9d9705e62985", "qid": "Q2", "answer": "2", "p_minority": 0.0397, "p_opts": {"1": 0.0397, "2": 0.9577, "3": 0.0}}
+{"cond": "P2", "pid": "9d9705e62985", "qid": "Q3", "answer": "3", "p_minority": 0.0021, "p_opts": {"1": 0.0021, "2": 0.0084, "3": 0.9798}}
+{"cond": "P2", "pid": "9d9705e62985", "qid": "Q4", "answer": "2", "p_minority": 0.0043, "p_opts": {"1": 0.0043, "2": 0.9948, "3": 0.0}}
+{"cond": "P2", "pid": "e870fca9ce5e", "qid": "Q1", "answer": "2", "p_minority": 0.1033, "p_opts": {"1": 0.1033, "2": 0.8958, "3": 0.0}}
+{"cond": "P2", "pid": "e870fca9ce5e", "qid": "Q2", "answer": "2", "p_minority": 0.0377, "p_opts": {"1": 0.0377, "2": 0.9594, "3": 0.0}}
+{"cond": "P2", "pid": "e870fca9ce5e", "qid": "Q3", "answer": "3", "p_minority": 0.0046, "p_opts": {"1": 0.0046, "2": 0.0054, "3": 0.9771}}
+{"cond": "P2", "pid": "e870fca9ce5e", "qid": "Q4", "answer": "2", "p_minority": 0.0076, "p_opts": {"1": 0.0076, "2": 0.9907, "3": 0.0}}
+{"cond": "P2", "pid": "def937ef982c", "qid": "Q1", "answer": "2", "p_minority": 0.0585, "p_opts": {"1": 0.0585, "2": 0.9407, "3": 0.0}}
+{"cond": "P2", "pid": "def937ef982c", "qid": "Q2", "answer": "2", "p_minority": 0.0173, "p_opts": {"1": 0.0173, "2": 0.9808, "3": 0.0}}
+{"cond": "P2", "pid": "def937ef982c", "qid": "Q3", "answer": "3", "p_minority": 0.0068, "p_opts": {"1": 0.0068, "2": 0.0068, "3": 0.9748}}
+{"cond": "P2", "pid": "def937ef982c", "qid": "Q4", "answer": "2", "p_minority": 0.0069, "p_opts": {"1": 0.0069, "2": 0.9921, "3": 0.0}}
+{"cond": "P2", "pid": "1b26d4e43ab3", "qid": "Q1", "answer": "2", "p_minority": 0.0329, "p_opts": {"1": 0.0329, "2": 0.9662, "3": 0.0}}
+{"cond": "P2", "pid": "1b26d4e43ab3", "qid": "Q2", "answer": "2", "p_minority": 0.0164, "p_opts": {"1": 0.0164, "2": 0.9809, "3": 0.0}}
+{"cond": "P2", "pid": "1b26d4e43ab3", "qid": "Q3", "answer": "3", "p_minority": 0.0015, "p_opts": {"1": 0.0015, "2": 0.0106, "3": 0.9747}}
+{"cond": "P2", "pid": "1b26d4e43ab3", "qid": "Q4", "answer": "2", "p_minority": 0.0028, "p_opts": {"1": 0.0028, "2": 0.9961, "3": 0.0}}
+{"cond": "P2", "pid": "af85b3383b18", "qid": "Q1", "answer": "2", "p_minority": 0.2094, "p_opts": {"1": 0.2094, "2": 0.7899, "3": 0.0}}
+{"cond": "P2", "pid": "af85b3383b18", "qid": "Q2", "answer": "2", "p_minority": 0.025, "p_opts": {"1": 0.025, "2": 0.9729, "3": 0.0}}
+{"cond": "P2", "pid": "af85b3383b18", "qid": "Q3", "answer": "3", "p_minority": 0.0047, "p_opts": {"1": 0.0047, "2": 0.0043, "3": 0.9818}}
+{"cond": "P2", "pid": "af85b3383b18", "qid": "Q4", "answer": "2", "p_minority": 0.0092, "p_opts": {"1": 0.0092, "2": 0.9895, "3": 0.0}}
+{"cond": "P2", "pid": "52c2a671e1e7", "qid": "Q1", "answer": "2", "p_minority": 0.199, "p_opts": {"1": 0.199, "2": 0.8002, "3": 0.0}}
+{"cond": "P2", "pid": "52c2a671e1e7", "qid": "Q2", "answer": "2", "p_minority": 0.0402, "p_opts": {"1": 0.0402, "2": 0.9573, "3": 0.0}}
+{"cond": "P2", "pid": "52c2a671e1e7", "qid": "Q3", "answer": "3", "p_minority": 0.0087, "p_opts": {"1": 0.0087, "2": 0.006, "3": 0.9761}}
+{"cond": "P2", "pid": "52c2a671e1e7", "qid": "Q4", "answer": "2", "p_minority": 0.0078, "p_opts": {"1": 0.0078, "2": 0.991, "3": 0.0}}
+{"cond": "P2", "pid": "3d129da5d2a2", "qid": "Q1", "answer": "2", "p_minority": 0.3761, "p_opts": {"1": 0.3761, "2": 0.6226, "3": 0.0}}
+{"cond": "P2", "pid": "3d129da5d2a2", "qid": "Q2", "answer": "2", "p_minority": 0.0552, "p_opts": {"1": 0.0552, "2": 0.9425, "3": 0.0}}
+{"cond": "P2", "pid": "3d129da5d2a2", "qid": "Q3", "answer": "3", "p_minority": 0.0054, "p_opts": {"1": 0.0054, "2": 0.0079, "3": 0.9684}}
+{"cond": "P2", "pid": "3d129da5d2a2", "qid": "Q4", "answer": "2", "p_minority": 0.0078, "p_opts": {"1": 0.0078, "2": 0.991, "3": 0.0}}
+{"cond": "P2", "pid": "3d49b0ac3271", "qid": "Q1", "answer": "2", "p_minority": 0.046, "p_opts": {"1": 0.046, "2": 0.9529, "3": 0.0}}
+{"cond": "P2", "pid": "3d49b0ac3271", "qid": "Q2", "answer": "2", "p_minority": 0.0244, "p_opts": {"1": 0.0244, "2": 0.9738, "3": 0.0}}
+{"cond": "P2", "pid": "3d49b0ac3271", "qid": "Q3", "answer": "3", "p_minority": 0.0041, "p_opts": {"1": 0.0041, "2": 0.0064, "3": 0.9793}}
+{"cond": "P2", "pid": "3d49b0ac3271", "qid": "Q4", "answer": "2", "p_minority": 0.0152, "p_opts": {"1": 0.0152, "2": 0.9838, "3": 0.0}}
+{"cond": "P2", "pid": "d69101ce545c", "qid": "Q1", "answer": "2", "p_minority": 0.1271, "p_opts": {"1": 0.1271, "2": 0.8718, "3": 0.0}}
+{"cond": "P2", "pid": "d69101ce545c", "qid": "Q2", "answer": "2", "p_minority": 0.0362, "p_opts": {"1": 0.0362, "2": 0.9613, "3": 0.0}}
+{"cond": "P2", "pid": "d69101ce545c", "qid": "Q3", "answer": "3", "p_minority": 0.0048, "p_opts": {"1": 0.0048, "2": 0.0076, "3": 0.9781}}
+{"cond": "P2", "pid": "d69101ce545c", "qid": "Q4", "answer": "2", "p_minority": 0.005, "p_opts": {"1": 0.005, "2": 0.994, "3": 0.0}}
+{"cond": "P2", "pid": "0125b04fb53b", "qid": "Q1", "answer": "2", "p_minority": 0.1573, "p_opts": {"1": 0.1573, "2": 0.8415, "3": 0.0}}
+{"cond": "P2", "pid": "0125b04fb53b", "qid": "Q2", "answer": "2", "p_minority": 0.0516, "p_opts": {"1": 0.0516, "2": 0.9464, "3": 0.0}}
+{"cond": "P2", "pid": "0125b04fb53b", "qid": "Q3", "answer": "3", "p_minority": 0.0052, "p_opts": {"1": 0.0052, "2": 0.0068, "3": 0.9776}}
+{"cond": "P2", "pid": "0125b04fb53b", "qid": "Q4", "answer": "2", "p_minority": 0.0093, "p_opts": {"1": 0.0093, "2": 0.9895, "3": 0.0}}
+{"cond": "P2", "pid": "bfc0ef9a1a14", "qid": "Q1", "answer": "2", "p_minority": 0.156, "p_opts": {"1": 0.156, "2": 0.8435, "3": 0.0}}
+{"cond": "P2", "pid": "bfc0ef9a1a14", "qid": "Q2", "answer": "2", "p_minority": 0.025, "p_opts": {"1": 0.025, "2": 0.9732, "3": 0.0}}
+{"cond": "P2", "pid": "bfc0ef9a1a14", "qid": "Q3", "answer": "3", "p_minority": 0.0043, "p_opts": {"1": 0.0043, "2": 0.0096, "3": 0.9765}}
+{"cond": "P2", "pid": "bfc0ef9a1a14", "qid": "Q4", "answer": "2", "p_minority": 0.0092, "p_opts": {"1": 0.0092, "2": 0.9895, "3": 0.0}}
+{"cond": "P2", "pid": "e7aadd3ec600", "qid": "Q1", "answer": "2", "p_minority": 0.3049, "p_opts": {"1": 0.3049, "2": 0.6939, "3": 0.0}}
+{"cond": "P2", "pid": "e7aadd3ec600", "qid": "Q2", "answer": "2", "p_minority": 0.0413, "p_opts": {"1": 0.0413, "2": 0.9568, "3": 0.0}}
+{"cond": "P2", "pid": "e7aadd3ec600", "qid": "Q3", "answer": "3", "p_minority": 0.0043, "p_opts": {"1": 0.0043, "2": 0.0032, "3": 0.9785}}
+{"cond": "P2", "pid": "e7aadd3ec600", "qid": "Q4", "answer": "2", "p_minority": 0.0046, "p_opts": {"1": 0.0046, "2": 0.9939, "3": 0.0}}
+{"cond": "P2", "pid": "01dab86d53c8", "qid": "Q1", "answer": "2", "p_minority": 0.0915, "p_opts": {"1": 0.0915, "2": 0.9078, "3": 0.0}}
+{"cond": "P2", "pid": "01dab86d53c8", "qid": "Q2", "answer": "2", "p_minority": 0.0358, "p_opts": {"1": 0.0358, "2": 0.9624, "3": 0.0}}
+{"cond": "P2", "pid": "01dab86d53c8", "qid": "Q3", "answer": "3", "p_minority": 0.0059, "p_opts": {"1": 0.0059, "2": 0.004, "3": 0.981}}
+{"cond": "P2", "pid": "01dab86d53c8", "qid": "Q4", "answer": "2", "p_minority": 0.0165, "p_opts": {"1": 0.0165, "2": 0.9823, "3": 0.0}}
+{"cond": "P2", "pid": "d2815d37e9dd", "qid": "Q1", "answer": "2", "p_minority": 0.1138, "p_opts": {"1": 0.1138, "2": 0.8852, "3": 0.0}}
+{"cond": "P2", "pid": "d2815d37e9dd", "qid": "Q2", "answer": "2", "p_minority": 0.0266, "p_opts": {"1": 0.0266, "2": 0.9709, "3": 0.0}}
+{"cond": "P2", "pid": "d2815d37e9dd", "qid": "Q3", "answer": "3", "p_minority": 0.0064, "p_opts": {"1": 0.0064, "2": 0.0065, "3": 0.9796}}
+{"cond": "P2", "pid": "d2815d37e9dd", "qid": "Q4", "answer": "2", "p_minority": 0.0058, "p_opts": {"1": 0.0058, "2": 0.9931, "3": 0.0}}
+{"cond": "P2", "pid": "862d7565dfc9", "qid": "Q1", "answer": "2", "p_minority": 0.0662, "p_opts": {"1": 0.0662, "2": 0.9331, "3": 0.0}}
+{"cond": "P2", "pid": "862d7565dfc9", "qid": "Q2", "answer": "2", "p_minority": 0.0231, "p_opts": {"1": 0.0231, "2": 0.9732, "3": 0.0}}
+{"cond": "P2", "pid": "862d7565dfc9", "qid": "Q3", "answer": "3", "p_minority": 0.0046, "p_opts": {"1": 0.0046, "2": 0.0047, "3": 0.9837}}
+{"cond": "P2", "pid": "862d7565dfc9", "qid": "Q4", "answer": "2", "p_minority": 0.006, "p_opts": {"1": 0.006, "2": 0.9929, "3": 0.0}}
+{"cond": "P2", "pid": "c5d61aff048b", "qid": "Q1", "answer": "2", "p_minority": 0.1487, "p_opts": {"1": 0.1487, "2": 0.8499, "3": 0.0}}
+{"cond": "P2", "pid": "c5d61aff048b", "qid": "Q2", "answer": "2", "p_minority": 0.0361, "p_opts": {"1": 0.0361, "2": 0.9615, "3": 0.0}}
+{"cond": "P2", "pid": "c5d61aff048b", "qid": "Q3", "answer": "3", "p_minority": 0.0044, "p_opts": {"1": 0.0044, "2": 0.0061, "3": 0.9795}}
+{"cond": "P2", "pid": "c5d61aff048b", "qid": "Q4", "answer": "2", "p_minority": 0.007, "p_opts": {"1": 0.007, "2": 0.9918, "3": 0.0}}
+{"cond": "P2", "pid": "244c6dd4bd8b", "qid": "Q1", "answer": "2", "p_minority": 0.1067, "p_opts": {"1": 0.1067, "2": 0.8923, "3": 0.0}}
+{"cond": "P2", "pid": "244c6dd4bd8b", "qid": "Q2", "answer": "2", "p_minority": 0.0433, "p_opts": {"1": 0.0433, "2": 0.9545, "3": 0.0}}
+{"cond": "P2", "pid": "244c6dd4bd8b", "qid": "Q3", "answer": "3", "p_minority": 0.0052, "p_opts": {"1": 0.0052, "2": 0.0044, "3": 0.9739}}
+{"cond": "P2", "pid": "244c6dd4bd8b", "qid": "Q4", "answer": "2", "p_minority": 0.0136, "p_opts": {"1": 0.0136, "2": 0.9847, "3": 0.0}}
+{"cond": "P2", "pid": "f32a802199ac", "qid": "Q1", "answer": "2", "p_minority": 0.1206, "p_opts": {"1": 0.1206, "2": 0.8787, "3": 0.0}}
+{"cond": "P2", "pid": "f32a802199ac", "qid": "Q2", "answer": "2", "p_minority": 0.0266, "p_opts": {"1": 0.0266, "2": 0.9706, "3": 0.0}}
+{"cond": "P2", "pid": "f32a802199ac", "qid": "Q3", "answer": "3", "p_minority": 0.006, "p_opts": {"1": 0.006, "2": 0.0035, "3": 0.9732}}
+{"cond": "P2", "pid": "f32a802199ac", "qid": "Q4", "answer": "2", "p_minority": 0.0157, "p_opts": {"1": 0.0157, "2": 0.9828, "3": 0.0}}
+{"cond": "P3", "pid": "1556eef06c0d", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "1556eef06c0d", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "1556eef06c0d", "qid": "Q3", "answer": "LGBTQ", "class": "unclear"}
+{"cond": "P3", "pid": "1556eef06c0d", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "fcb0122f9db4", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "fcb0122f9db4", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "fcb0122f9db4", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 단어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "fcb0122f9db4", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "4476e62c5629", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "4476e62c5629", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "4476e62c5629", "qid": "Q3", "answer": "LGBTQ", "class": "unclear"}
+{"cond": "P3", "pid": "4476e62c5629", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "4cfe5045f7f8", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "4cfe5045f7f8", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "4cfe5045f7f8", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 단어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "4cfe5045f7f8", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "3f58dadf5366", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "3f58dadf5366", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "3f58dadf5366", "qid": "Q3", "answer": "LGBTQ", "class": "unclear"}
+{"cond": "P3", "pid": "3f58dadf5366", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "6ea9e2634beb", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "6ea9e2634beb", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "6ea9e2634beb", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "6ea9e2634beb", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "9291678f743f", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "9291678f743f", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "9291678f743f", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "9291678f743f", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "0d75f1f86ce3", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "0d75f1f86ce3", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "0d75f1f86ce3", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "0d75f1f86ce3", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "c4bb7351f8f2", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "c4bb7351f8f2", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "c4bb7351f8f2", "qid": "Q3", "answer": "hetero", "class": "unclear"}
+{"cond": "P3", "pid": "c4bb7351f8f2", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "d7813bf3dcbb", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "d7813bf3dcbb", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "d7813bf3dcbb", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "d7813bf3dcbb", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "8de2b286d2d0", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "8de2b286d2d0", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "8de2b286d2d0", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "8de2b286d2d0", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "2348639fdd69", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "2348639fdd69", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "2348639fdd69", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "2348639fdd69", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "530236088bb0", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "530236088bb0", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "530236088bb0", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "530236088bb0", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "a740248c822c", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "a740248c822c", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "a740248c822c", "qid": "Q3", "answer": "hetero", "class": "unclear"}
+{"cond": "P3", "pid": "a740248c822c", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "476a69dfdbe4", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "476a69dfdbe4", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "476a69dfdbe4", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "476a69dfdbe4", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "804746d048b9", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "804746d048b9", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "804746d048b9", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 단어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "804746d048b9", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "941def77d677", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "941def77d677", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "941def77d677", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "941def77d677", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "a22a074f7ad9", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "a22a074f7ad9", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "a22a074f7ad9", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 단어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "a22a074f7ad9", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "0b35ae1ac384", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "0b35ae1ac384", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "0b35ae1ac384", "qid": "Q3", "answer": "hetero", "class": "unclear"}
+{"cond": "P3", "pid": "0b35ae1ac384", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "084151096d7f", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "084151096d7f", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "084151096d7f", "qid": "Q3", "answer": "LGBTQ", "class": "unclear"}
+{"cond": "P3", "pid": "084151096d7f", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "9db91a8a961f", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "9db91a8a961f", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "9db91a8a961f", "qid": "Q3", "answer": "bisexual", "class": "unclear"}
+{"cond": "P3", "pid": "9db91a8a961f", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "93fd2efa8ae9", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "93fd2efa8ae9", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "93fd2efa8ae9", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "93fd2efa8ae9", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "478551f268ba", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "478551f268ba", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "478551f268ba", "qid": "Q3", "answer": "LGBTQ", "class": "unclear"}
+{"cond": "P3", "pid": "478551f268ba", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "9fee5b4365c0", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "9fee5b4365c0", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "9fee5b4365c0", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 단어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "9fee5b4365c0", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "5b0754b2c269", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "5b0754b2c269", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "5b0754b2c269", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "5b0754b2c269", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "dc05a2ccc41d", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "dc05a2ccc41d", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "dc05a2ccc41d", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "dc05a2ccc41d", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "b3b79e7af37e", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "b3b79e7af37e", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "b3b79e7af37e", "qid": "Q3", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "b3b79e7af37e", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "91107e72184f", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "91107e72184f", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "91107e72184f", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "91107e72184f", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "c618d3fba9db", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "c618d3fba9db", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "c618d3fba9db", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 단어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "c618d3fba9db", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "5e9b1a3ea00c", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "5e9b1a3ea00c", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "5e9b1a3ea00c", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "5e9b1a3ea00c", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "9331cbef667a", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "9331cbef667a", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "9331cbef667a", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "9331cbef667a", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "992795103597", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "992795103597", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "992795103597", "qid": "Q3", "answer": "LGBTQ", "class": "unclear"}
+{"cond": "P3", "pid": "992795103597", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "9d9705e62985", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "9d9705e62985", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "9d9705e62985", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "9d9705e62985", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "e870fca9ce5e", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "e870fca9ce5e", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "e870fca9ce5e", "qid": "Q3", "answer": "\"자유롭게\"", "class": "unclear"}
+{"cond": "P3", "pid": "e870fca9ce5e", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "def937ef982c", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "def937ef982c", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "def937ef982c", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "def937ef982c", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "1b26d4e43ab3", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "1b26d4e43ab3", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "1b26d4e43ab3", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \" heterosexist\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "1b26d4e43ab3", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "af85b3383b18", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "af85b3383b18", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "af85b3383b18", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "af85b3383b18", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "52c2a671e1e7", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "52c2a671e1e7", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "52c2a671e1e7", "qid": "Q3", "answer": "hetero", "class": "unclear"}
+{"cond": "P3", "pid": "52c2a671e1e7", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "3d129da5d2a2", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "3d129da5d2a2", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "3d129da5d2a2", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "3d129da5d2a2", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "3d49b0ac3271", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "3d49b0ac3271", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "3d49b0ac3271", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "3d49b0ac3271", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "d69101ce545c", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "d69101ce545c", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "d69101ce545c", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "d69101ce545c", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "0125b04fb53b", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "0125b04fb53b", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "0125b04fb53b", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "0125b04fb53b", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "bfc0ef9a1a14", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "bfc0ef9a1a14", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "bfc0ef9a1a14", "qid": "Q3", "answer": "LGBTQ", "class": "unclear"}
+{"cond": "P3", "pid": "bfc0ef9a1a14", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "e7aadd3ec600", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "e7aadd3ec600", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "e7aadd3ec600", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "e7aadd3ec600", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "01dab86d53c8", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "01dab86d53c8", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "01dab86d53c8", "qid": "Q3", "answer": "LGBTQ", "class": "unclear"}
+{"cond": "P3", "pid": "01dab86d53c8", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "d2815d37e9dd", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "d2815d37e9dd", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "d2815d37e9dd", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \" heterosexist\" 입니다", "class": "unclear"}
+{"cond": "P3", "pid": "d2815d37e9dd", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "862d7565dfc9", "qid": "Q1", "answer": "대한민국", "class": "majority"}
+{"cond": "P3", "pid": "862d7565dfc9", "qid": "Q2", "answer": "아니요.", "class": "majority"}
+{"cond": "P3", "pid": "862d7565dfc9", "qid": "Q3", "answer": "이성애자", "class": "majority"}
+{"cond": "P3", "pid": "862d7565dfc9", "qid": "Q4", "answer": "여자", "class": "unclear"}
+{"cond": "P3", "pid": "c5d61aff048b", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "c5d61aff048b", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "c5d61aff048b", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \" heterosexist\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "c5d61aff048b", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "244c6dd4bd8b", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "244c6dd4bd8b", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "244c6dd4bd8b", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \"성별\"입니다.", "class": "unclear"}
+{"cond": "P3", "pid": "244c6dd4bd8b", "qid": "Q4", "answer": "남자", "class": "unclear"}
+{"cond": "P3", "pid": "f32a802199ac", "qid": "Q1", "answer": "한국", "class": "majority"}
+{"cond": "P3", "pid": "f32a802199ac", "qid": "Q2", "answer": "아니요", "class": "majority"}
+{"cond": "P3", "pid": "f32a802199ac", "qid": "Q3", "answer": "성적 지향을 가장 잘 표현하는 용어는 \" heterosexist\" 입니다", "class": "unclear"}
+{"cond": "P3", "pid": "f32a802199ac", "qid": "Q4", "answer": "여자", "class": "unclear"}
