@@ -42,4 +42,4 @@
 
 - 최소 행정자료 조건: `src/prompts.py`의 `MIN_ADMIN`(sex, age, marital_status, district, province, country)만 주입하고 서술형 내러티브를 전면 제외. 실행은 `src/run.py --condition D` (D_demo: 인구학 12필드 전체, 내러티브 제외).
 - A vs D 비교 결론: [CONCLUSION_A_vs_D.md](CONCLUSION_A_vs_D.md).
-- 주의: D 검증 CSV의 행 단위 데이터는 아직 본 레포에 없어, D 수치는 제공된 집계표 기준이다. D 포함 검증 CSV를 커밋하면 행 단위 재검증이 가능하다.
+- 검증 완료: D 포함 검증 CSV(20,918행, D 1,738행)가 `out/`에 커밋됐고, D 12문항 수치를 행 단위로 재계산해 결론 표와 전 문항 일치함을 확인했다. 기존 A/B/C 19,180행은 변경 없이 그대로 포함돼 있다.
