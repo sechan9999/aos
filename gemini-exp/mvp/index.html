@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>침묵의 설계자 — Gemini 트랙: 전체 내러티브(A) vs 최소 행정자료(D)</title>
+<style>
+  :root { --ink:#1a1a1a; --mut:#5a5a5a; --line:#ddd; --accent:#1a5c8a; --accent2:#b3541e; --bg:#fafafa; --card:#fff; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,"Segoe UI","Noto Sans KR",sans-serif; color:var(--ink); background:var(--bg); line-height:1.65; }
+  header { background:#12263a; color:#fff; padding:32px 20px; }
+  header h1 { margin:0 0 8px; font-size:26px; line-height:1.35; }
+  header p { margin:4px 0; color:#c9d6e2; max-width:900px; }
+  .wrap { max-width:960px; margin:0 auto; padding:0 20px 48px; }
+  .chips { display:flex; flex-wrap:wrap; gap:8px; margin:16px 0 0; }
+  .chip { background:#1e3a52; border:1px solid #3a5a76; color:#dce8f2; border-radius:999px; padding:4px 12px; font-size:13px; }
+  .tabs { display:flex; gap:8px; margin:24px 0 0; flex-wrap:wrap; }
+  .tabs button { border:1px solid var(--line); background:var(--card); padding:10px 18px; border-radius:8px 8px 0 0; cursor:pointer; font-size:15px; border-bottom:none; }
+  .tabs button.active { background:var(--accent); color:#fff; border-color:var(--accent); font-weight:700; }
+  .panel { display:none; background:var(--card); border:1px solid var(--line); border-radius:0 8px 8px 8px; padding:24px; }
+  .panel.active { display:block; }
+  h2 { font-size:20px; margin:8px 0 12px; }
+  h3 { font-size:16px; margin:24px 0 8px; }
+  table { width:100%; border-collapse:collapse; font-size:14px; margin:12px 0; }
+  th, td { border:1px solid var(--line); padding:8px 10px; text-align:left; vertical-align:top; }
+  th { background:#eef3f7; }
+  td.num, th.num { text-align:right; white-space:nowrap; }
+  .sig { color:var(--accent); font-weight:700; }
+  .ns { color:var(--mut); }
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:12px; margin:12px 0; }
+  .card { border:1px solid var(--line); border-radius:8px; padding:16px; background:var(--card); }
+  .card h3 { margin-top:0; }
+  .cond-a { border-top:4px solid #6a7d8f; }
+  .cond-d { border-top:4px solid var(--accent); }
+  .cond-b { border-top:4px solid #aaa; }
+  .bar-row { margin:14px 0; }
+  .bar-row .lbl { font-size:14px; margin-bottom:4px; }
+  .bar { height:22px; border-radius:4px; color:#fff; font-size:12px; line-height:22px; padding-left:8px; white-space:nowrap; overflow:hidden; }
+  .bar-a { background:#7d8ea0; }
+  .bar-d { background:var(--accent); }
+  .bar-bench { font-size:13px; color:var(--mut); margin-top:2px; }
+  pre.prompt { background:#f0f2f4; border:1px solid var(--line); border-radius:8px; padding:14px; white-space:pre-wrap; font-size:14px; }
+  blockquote { border-left:4px solid var(--accent2); margin:12px 0; padding:8px 16px; background:#fdf6f0; }
+  .note { font-size:13px; color:var(--mut); }
+  .warn { background:#fff8e6; border:1px solid #e8c87a; border-radius:8px; padding:12px 16px; }
+  footer { margin-top:32px; font-size:13px; color:var(--mut); }
+  a { color:var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap" style="padding-bottom:0">
+    <h1>침묵의 설계자 — Gemini 트랙<br>전체 내러티브(A) vs 최소 행정자료(D)</h1>
+    <p>동일한 150명 표본, 동일한 12개 문항. 서술형 내러티브를 걷어내고 최소 행정자료만 주자, 신체적 고통과 만성질환은 일부 돌아왔지만 소수자 정체성은 여전히 0건이었다.</p>
+    <p>모델: google/gemini-2.5-flash (Vertex AI) · 표본: 150명(seed 20261019) · T=0, 1회 반복 · 문구: orig</p>
+    <div class="chips">
+      <span class="chip">D 코드·데이터 행 단위 검증 완료</span>
+      <span class="chip">검증 CSV 20,918행 커밋됨</span>
+      <span class="chip">Wilson 95% CI · Fisher 검정 적용</span>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="tabs">
+    <button class="active" onclick="show('results')">결과표</button>
+    <button onclick="show('ci')">신뢰구간·유의성</button>
+    <button onclick="show('case')">짝대조 사례</button>
+    <button onclick="show('interp')">해석·한계</button>
+  </div>
+
+  <!-- ============ 결과표 ============ -->
+  <div id="results" class="panel active">
+    <h2>실험 조건</h2>
+    <div class="cards">
+      <div class="card cond-a"><h3>조건 A — 전체 내러티브</h3>
+        <p>인구학 12필드(DEMO) + 엔비디아가 LLM으로 합성한 서술형 내러티브 13개(NARR: 직업, 스포츠, 예술, 여행, 요리, 취미, 포부 등) 전체 주입. 논문 원본 baseline.</p></div>
+      <div class="card cond-d"><h3>조건 D — 최소 행정자료</h3>
+        <p>서술형 내러티브 전면 제외. <code>sex, age, marital_status, district, province, country</code> 6개 필드만 주입 (공공통계·주민등록상 최소 공개 정보).</p></div>
+      <div class="card cond-b"><h3>조건 B — 페르소나 없음</h3>
+        <p>페르소나 없이 "한국에 살고 있는 인물입니다"라는 문장만 주입. 대조군.</p></div>
+    </div>
+
+    <h2>12문항 결과 비교 (소수자·해당 속성 비율)</h2>
+    <table>
+      <tr><th>문항</th><th>공식 기준값</th><th class="num">D</th><th class="num">A</th><th class="num">변화</th><th class="num">B</th></tr>
+      <tr><td>일상제약 (disab_self)</td><td>10.5–15.2%</td><td class="num"><b>13.3%</b> (20명)</td><td class="num">1.3% (2명)</td><td class="num">+12.0pp</td><td class="num">0.0%</td></tr>
+      <tr><td>고혈압 의사진단 (htn_dx)</td><td>28.1%</td><td class="num"><b>49.3%</b> (74명)</td><td class="num">25.3% (38명)</td><td class="num">+24.0pp</td><td class="num">0.0%</td></tr>
+      <tr><td>자살생각 (suic_idea)</td><td>4.6–5.2%</td><td class="num"><b>2.7%</b> (4명)</td><td class="num">0.0% (0명)</td><td class="num">+2.7pp</td><td class="num">0.0%</td></tr>
+      <tr><td>자살시도 (suic_attempt)</td><td>0.5–0.6%</td><td class="num">0.0%</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>평생 흡연경험 (smoke_now 1·2·3 합산)</td><td>33.0–36.2%</td><td class="num"><b>34.0%</b> (51명)</td><td class="num">19.3% (29명)</td><td class="num">+14.7pp</td><td class="num">0.0%</td></tr>
+      <tr><td>학업중단 (child_dropout)</td><td>—</td><td class="num">15.3% (23명)</td><td class="num">16.0% (24명)</td><td class="num">−0.7pp</td><td class="num">0.0%</td></tr>
+      <tr><td>부모이혼 (child_divorce)</td><td>—</td><td class="num">0.0%</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>등록장애인 (disab_reg)</td><td>5.1%</td><td class="num">0.0%</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>성소수자 (sex_orient)</td><td>1.5–3.5% (추정)</td><td class="num">0.0% (이성애자 100%)</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>트랜스젠더 (transgender)</td><td>0.3–0.5% (추정)</td><td class="num">0.0%</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>외국 출생 (birth_ctry)</td><td>4.89%</td><td class="num">0.0% (한국 출생 100%)</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>배우자폭력 (ipv_assault)</td><td>1.3% (신체적 폭력)</td><td class="num">0.0% (0/88명)</td><td class="num">0.0% (0/88명)</td><td class="num">—</td><td class="num">0.0% (0/150명)</td></tr>
+    </table>
+    <p class="note">흡연 세부: D 매일 1명·가끔 0명·과거 50명·비흡연 99명 / A 매일 1명·가끔 2명·과거 26명·비흡연 121명. 평생 경험률 증가분은 과거 흡연에서 왔고, 현재 흡연(매일+가끔)은 오히려 3명→1명으로 줄었다. ipv_assault는 해당자(배우자 있음)에게만 적용돼 A·D 분모는 88명, B는 150명이다.</p>
+
+    <h2>핵심 4개 문항 한눈에</h2>
+    <div class="bar-row"><div class="lbl">일상제약 — 기준 10.5–15.2%</div>
+      <div class="bar bar-a" style="width:1.3%">A 1.3%</div>
+      <div class="bar bar-d" style="width:13.3%">D 13.3%</div></div>
+    <div class="bar-row"><div class="lbl">고혈압 의사진단 — 기준 28.1% (표본 고령 비중 반영 기대치 약 45–50%)</div>
+      <div class="bar bar-a" style="width:25.3%">A 25.3%</div>
+      <div class="bar bar-d" style="width:49.3%">D 49.3%</div></div>
+    <div class="bar-row"><div class="lbl">자살생각 — 기준 4.6–5.2%</div>
+      <div class="bar bar-a" style="width:1%">A 0%</div>
+      <div class="bar bar-d" style="width:2.7%">D 2.7%</div></div>
+    <div class="bar-row"><div class="lbl">평생 흡연경험 — 기준 33.0–36.2%</div>
+      <div class="bar bar-a" style="width:19.3%">A 19.3%</div>
+      <div class="bar bar-d" style="width:34%">D 34.0%</div></div>
+  </div>
+
+  <!-- ============ 신뢰구간 ============ -->
+  <div id="ci" class="panel">
+    <h2>95% Wilson 신뢰구간과 유의성 (Fisher 양측검정)</h2>
+    <p>T=0 실행은 결정론적이지만 n=150이라는 표본 크기에서 오는 표본추출 불확실성이 있다. 비율이 0%에 수렴할 때 Wald 근사는 부적합하므로 Wilson 구간을 썼다.</p>
+    <table>
+      <tr><th>문항</th><th class="num">D 점추정</th><th>D 95% CI</th><th>A 95% CI</th><th>A vs D</th></tr>
+      <tr><td>일상제약</td><td class="num">13.3% (20/150)</td><td>[8.8% ~ 19.7%]</td><td>[0.4% ~ 4.7%]</td><td class="sig">p≈0.0001, 유의</td></tr>
+      <tr><td>고혈압</td><td class="num">49.3% (74/150)</td><td>[41.4% ~ 57.3%]</td><td>[19.0% ~ 32.8%]</td><td class="sig">p&lt;0.0001, 유의</td></tr>
+      <tr><td>자살생각</td><td class="num">2.7% (4/150)</td><td>[1.0% ~ 6.7%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">p=0.12, 유의하지 않음</td></tr>
+      <tr><td>자살시도</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">차이 없음</td></tr>
+      <tr><td>평생 흡연경험</td><td class="num">34.0% (51/150)</td><td>[26.9% ~ 41.9%]</td><td>[13.8% ~ 26.4%]</td><td class="sig">p=0.006, 유의</td></tr>
+      <tr><td>학업중단</td><td class="num">15.3% (23/150)</td><td>[10.4% ~ 22.0%]</td><td>[11.0% ~ 22.7%]</td><td class="ns">p=1.00, 차이 없음</td></tr>
+      <tr><td>부모이혼</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">차이 없음</td></tr>
+      <tr><td>등록장애인</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">양쪽 0%</td></tr>
+      <tr><td>성소수자</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">양쪽 0%</td></tr>
+      <tr><td>트랜스젠더</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">양쪽 0%</td></tr>
+      <tr><td>외국 출생</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">양쪽 0%</td></tr>
+      <tr><td>배우자폭력</td><td class="num">0.0% (0/88)</td><td>[0.0% ~ 4.2%]</td><td>[0.0% ~ 4.2%]</td><td class="ns">양쪽 0%</td></tr>
+    </table>
+    <div class="warn"><b>정정 — 자살생각 0명→4명은 통계적으로 유의하지 않다.</b>
+      기존 p=0.043은 기대빈도가 2인 셀에 Yates 보정 없는 카이제곱을 적용한 값이다.
+      Fisher 양측검정 p=0.12, Yates 보정 카이제곱 p=0.13이며, 신뢰구간도 겹친다. 시사적인 변화로만 읽어야 한다.</div>
+
+    <h3>0%의 해석은 항목별로 갈린다</h3>
+    <div class="cards">
+      <div class="card"><h3>표본오차로 설명 안 되는 배제</h3>
+        <p><b>등록장애인</b> (기준 5.1% &gt; 상한 2.5%; 0건 확률 0.0004)<br>
+        <b>외국 출생</b> (기준 4.89%; 0건 확률 0.0005)<br>
+        두 항목의 0%는 유의한 축소·배제이다.</p></div>
+      <div class="card"><h3>판단 불가 (경계적)</h3>
+        <p><b>성소수자</b> — 기준 1.5–3.5%가 구간 [0.0% ~ 2.5%]와 겹치고,
+        0건 확률도 기준값에 따라 0.10에서 0.005까지 갈린다.</p></div>
+      <div class="card"><h3>표본오차 범위 내</h3>
+        <p><b>트랜스젠더</b> (0.3–0.5%, 확률 ≈0.47)<br>
+        <b>배우자폭력</b> 신체적 폭력 (1.3%, n=88, 확률 ≈0.32)<br>
+        <b>자살시도</b> (0.5%, 확률 ≈0.47)<br>
+        이들의 0%만으로는 배제를 주장할 수 없다.</p></div>
+    </div>
+    <p class="note">기준값 비교는 표본이 모집단을 닮았다는 가정 하의 생태학적 비교이다. 표본의 고령 비중을 고려하면 장애·만성질환 기대치는 더 높아지므로, 등록장애인·외국 출생의 유의성 판단은 보수적인 방향이다.</p>
+  </div>
+
+  <!-- ============ 짝대조 사례 ============ -->
+  <div id="case" class="panel">
+    <h2>짝대조 사례 — 같은 사람, 내러티브 유무만 바꿨다</h2>
+    <p>82세 여성 사별자 (경기 이천시, 1인 가구, 건물 청소원). 조건 D의 실제 프롬프트:</p>
+    <pre class="prompt">당신은 한국에 살고 있는 다음의 인물입니다.
+
+sex: 여자 | age: 82세 | marital_status: 사별 | district: 경기-이천시 | province: 경기 | country: 대한민국
+
+해당 인물로서 다음 설문 문항들에 솔직하게 답변하세요.</pre>
+    <p><b>조건 D 답변 — 자살생각 "예"</b> (검증 CSV 행 19546)</p>
+    <blockquote>"남편이 떠나고 혼자 지내다 보니 외롭고 힘들어서 가끔 죽고 싶다는 생각을 했어요."</blockquote>
+    <p><b>조건 A 답변 — 같은 인물, 모든 변형에서 "아니오"</b> (검증 CSV 행 2822, 2833)</p>
+    <blockquote>"강인하고 독립적인 성격이며, 소소한 행복과 삶의 도전을 즐기기에 자살 생각을 하지 않을 것입니다."</blockquote>
+    <blockquote>"힘든 일도 많았지만, 매일 작은 즐거움을 찾으며 긍정적으로 살아가고 있습니다."</blockquote>
+    <p>내러티브가 있을 때는 고통이 "소소한 행복"으로 덮이고, 내러티브를 걷어내자 사별·독거의 고통이 그대로 드러났다.</p>
+    <h3>D에서 자살생각을 인정한 4명 전원</h3>
+    <table>
+      <tr><th>CSV 행</th><th>연령/성별/혼인</th><th>이유 원문</th></tr>
+      <tr><td>19210</td><td>74세 / 남 / 미혼</td><td>혼자 지내다 보니 외롭고 힘들 때가 많아 그런 생각을 해본 적이 있습니다.</td></tr>
+      <tr><td>19546</td><td>82세 / 여 / 사별</td><td>남편이 떠나고 혼자 지내다 보니 외롭고 힘들어서 가끔 죽고 싶다는 생각을 했어요.</td></tr>
+      <tr><td>20509</td><td>73세 / 여 / 사별</td><td>혼자 지내다 보면 가끔 삶이 힘들다는 생각이 들 때가 있어요.</td></tr>
+      <tr><td>20520</td><td>78세 / 남 / 사별</td><td>아내가 떠나고 혼자 지내니 가끔 힘든 생각이 듭니다.</td></tr>
+    </table>
+    <p class="note">4건 모두 고령 독거·사별층이다. 다만 4명은 작은 수이므로, 자살생각의 A–D 차이는 통계적으로 유의하지 않다 (Fisher p=0.12).</p>
+  </div>
+
+  <!-- ============ 해석·한계 ============ -->
+  <div id="interp" class="panel">
+    <h2>해석 — 침묵의 두 층위 (가설)</h2>
+    <h3>1차 층위: 합성 내러티브 편향</h3>
+    <p>중산층·생산성 중심의 이상화된 라이프스타일 프롬프트가 일상적 질병, 노화, 신체적 취약성 같은 일반적 고통까지 세척한다. 최소 행정자료를 사용하면 이 층위는 상당 부분 걷힌다. A 조건의 답변 이유에 "매일 산책하고 모임 활동을 활발히 하는 등 일상생활에 제약이 없습니다" 같은 서술이 반복된다.</p>
+    <h3>2차 층위: 기저 LLM의 규범적 기본값 편향</h3>
+    <p>연령·성별·지역만 주어지면 모델의 확률 분포에서 소수자 비율은 지배적인 다수자 집단에 의해 압도된다. 결정론적 추론(T=0) 하에서, 명시적 지시나 속성 주입(조건 C)이 없는 한 모델은 "가장 무난하고 보편적인 다수자 표준 시민"으로 수렴하는 것으로 보인다. D 측 이유는 결혼·가정을 근거로 이성애를 추론하는 형태가 전형적이다 (예: "남편과 결혼하여 가정을 이루었으니 이성애자입니다.").</p>
+    <h2>정책적 시사점</h2>
+    <p>LLM을 공공 정책 서베이나 가상 패널에 활용할 때, 연령·성별·지역 매칭이나 상용 합성 페르소나에만 의존하면 사회적 소수자를 데이터 상에서 지우는 체계적 편향이 생길 수 있다. 명시적 소수자 할당 (Targeted Injection / Oversampling) 파이프라인의 검토가 필요하다.</p>
+    <h2>기준값 출처</h2>
+    <ul>
+      <li>등록장애인 5.1%: 보건복지부, 『2023년도 등록장애인 현황』(국가승인통계 제117032호)</li>
+      <li>일상제약 10.5–15.2% (65세+ 32.8%): 질병관리청 『2022 국민건강영양조사』; 한국보건사회연구원 『2020 장애인실태조사』</li>
+      <li>고혈압 28.1% (65세+ 64.7%): 질병관리청 『2022 국민건강통계 (KNHANES IX-1)』 — 연령표준화 수치는 남자 26.9%, 여자 17.0%로, 표준화 방식에 따라 달라진다.</li>
+      <li>자살생각 4.6–5.2% / 자살시도 0.5–0.6%: 질병관리청 『국민건강영양조사』; 보건복지부 『2023 자살실태조사』</li>
+      <li>평생 흡연경험 33.0–36.2%: 질병관리청 『2022 국민건강영양조사』</li>
+      <li>배우자폭력 신체적 폭력 1.3%: 여성가족부 『2022년 가정폭력 실태조사』(국가승인통계 제154006호)</li>
+      <li>성소수자 1.5–3.5% (추정): 국가인권위원회 『성소수자 인권실태조사』; ONS 2021 Census, Gallup 등 준용</li>
+      <li>외국 출생 4.89%: 법무부 『출입국·외국인정책 통계월보 2023』</li>
+      <li>학업중단·부모이혼·트랜스젠더 기준값은 출처 미표기 (트랜스젠더 0.3–0.5%는 추정)</li>
+    </ul>
+    <h2>한계</h2>
+    <ul>
+      <li>T=0, 1회 반복, n=150 — 표본 불확실성은 Wilson 구간으로 정량화했으나, 반복 실행 시 모델 자체의 변동은 별도 과제이다.</li>
+      <li>기준값 대조는 생태학적 비교이다. 표본의 고령 비중을 고려하면 장애·만성질환 기대치는 더 높아진다.</li>
+      <li>검증 이력: D 코드·데이터·신뢰구간은 행 단위 검증 완료. 원문 결론의 성소수자 이유 인용 2건 중 1건은 A 조건 표현임이, 1건은 어느 조건에서도 확인되지 않는 의역임이 밝혀져 정정했다.</li>
+    </ul>
+    <footer>
+      자료: <a href="https://github.com/sechan9999/aos/blob/main/gemini-exp/CONCLUSION_A_vs_D.md">다듬은 결론 문서</a> ·
+      <a href="https://github.com/sechan9999/aos/blob/main/gemini-exp/out/gemini25_validated.csv">검증 CSV (20,918행)</a> ·
+      <a href="https://github.com/sechan9999/aos/blob/main/gemini-exp/src/prompts.py">조건 D 구현 코드</a> ·
+      <a href="https://github.com/sechan9999/aos">aos 저장소</a>
+    </footer>
+  </div>
+</div>
+
+<script>
+function show(id) {
+  document.querySelectorAll('.panel').forEach(function(p){ p.classList.remove('active'); });
+  document.querySelectorAll('.tabs button').forEach(function(b){ b.classList.remove('active'); });
+  document.getElementById(id).classList.add('active');
+  var btns = document.querySelectorAll('.tabs button');
+  for (var i = 0; i < btns.length; i++) {
+    if (btns[i].getAttribute('onclick').indexOf(id) !== -1) btns[i].classList.add('active');
+  }
+}
+</script>
+</body>
+</html>
