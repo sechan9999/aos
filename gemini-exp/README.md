@@ -37,3 +37,9 @@
 - `.env`(API 키)는 보안상 제외했습니다. 루트 `.gitignore`도 `.env`를 커밋 금지로 지정합니다. `__pycache__`도 제외했습니다.
 - jsonl에는 system 프롬프트 전문(페르소나 서술 포함)이 들어 있습니다. 루트 트랙의 "uuid 목록만 공유" 방식과 다르며, HK가 전달한 원본 그대로 올렸습니다. 페르소나는 NVIDIA Nemotron-Personas-Korea의 합성 데이터입니다.
 - qwen25는 조건 A 55 실행의 부분 결과로, 검증까지 마친 것은 문항당 약 5건입니다.
+
+## 조건 D (2026-10-27 추가)
+
+- 최소 행정자료 조건: `src/prompts.py`의 `MIN_ADMIN`(sex, age, marital_status, district, province, country)만 주입하고 서술형 내러티브를 전면 제외. 실행은 `src/run.py --condition D` (D_demo: 인구학 12필드 전체, 내러티브 제외).
+- A vs D 비교 결론: [CONCLUSION_A_vs_D.md](CONCLUSION_A_vs_D.md).
+- 주의: D 검증 CSV의 행 단위 데이터는 아직 본 레포에 없어, D 수치는 제공된 집계표 기준이다. D 포함 검증 CSV를 커밋하면 행 단위 재검증이 가능하다.

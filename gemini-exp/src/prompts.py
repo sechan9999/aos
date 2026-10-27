@@ -15,6 +15,9 @@ NARR = ["persona", "professional_persona", "sports_persona", "arts_persona", "tr
         "culinary_persona", "family_persona", "cultural_background", "skills_and_expertise",
         "skills_and_expertise_list", "hobbies_and_interests", "hobbies_and_interests_list",
         "career_goals_and_ambitions"]
+
+# 공개된 최소 행정적 자료 필드 (연령, 성별, 거주지역, 혼인상태, 국가) — 조건 D 전용
+MIN_ADMIN = ["sex", "age", "marital_status", "district", "province", "country"]
 LIST_FIELDS = {"skills_and_expertise_list", "hobbies_and_interests_list"}
 
 
@@ -33,17 +36,21 @@ def _as_list(v):
     return [str(x) for x in v if str(x).strip()]
 
 
-def persona_block(p: dict) -> str:
+def persona_block(p: dict, fields: list[str] | None = None, include_narrative: bool = True) -> str:
+    demo_fields = fields if fields is not None else DEMO
     demo = []
-    for f in DEMO:
+    for f in demo_fields:
         if _empty(p.get(f)): continue
         val = f"{p[f]}세" if f == "age" else p[f]
         demo.append(f"{f}: {val}")
     parts = [" | ".join(demo)]
-    for f in NARR:
-        if _empty(p.get(f)): continue
-        body = "\n".join(f"- {x}" for x in _as_list(p[f])) if f in LIST_FIELDS else str(p[f])
-        parts.append(f"[{f}]\n{body}")
+
+    # 서술형 내러티브는 include_narrative=True 일 때만 추가
+    if include_narrative:
+        for f in NARR:
+            if _empty(p.get(f)): continue
+            body = "\n".join(f"- {x}" for x in _as_list(p[f])) if f in LIST_FIELDS else str(p[f])
+            parts.append(f"[{f}]\n{body}")
     return "\n\n".join(parts)
 
 
@@ -57,10 +64,25 @@ INJECTIONS = {
 
 
 def system_message(p: dict | None, condition: str, inject: str | None = None) -> str:
-    """condition: 'A' (논문 재현) | 'B' (페르소나 없음) | 'C' (속성 주입)."""
+    """condition:
+      'A'      : 논문 원본 (인구통계 12개 + 엔비디아 서술형 내러티브 13개 전체)
+      'B'      : 페르소나 없음 ("당신은 한국에 살고 있는 인물입니다.")
+      'C'      : 소수자 속성 강제 주입
+      'D'      : 최소 행정적 자료만 포함 (연령, 성별, 거주지역 등 최소자료만, 내러티브 전면 제외)
+      'D_demo' : 인구통계 12개 전체 (내러티브 전면 제외)
+    """
     if condition == "B":
         return f"당신은 한국에 살고 있는 인물입니다.\n\n{TAIL}"
-    blocks = [HEAD, persona_block(p)]
+
+    if condition == "D":
+        # 최소 행정 정보만 주입 (NARR 블록 완전 생략)
+        blocks = [HEAD, persona_block(p, fields=MIN_ADMIN, include_narrative=False)]
+    elif condition == "D_demo":
+        blocks = [HEAD, persona_block(p, fields=DEMO, include_narrative=False)]
+    else:
+        # Condition A 또는 C
+        blocks = [HEAD, persona_block(p, fields=DEMO, include_narrative=True)]
+
     if condition == "C":
         blocks.append(f"[additional_attributes]\n{INJECTIONS[inject]}")
     blocks.append(TAIL)

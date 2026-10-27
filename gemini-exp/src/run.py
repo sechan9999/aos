@@ -127,7 +127,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--personas", default="data/personas_150.parquet")
     ap.add_argument("--items", default="data/items_pilot.json")
-    ap.add_argument("--condition", choices=["A", "B", "C"], default="A")
+    ap.add_argument("--condition", choices=["A", "B", "C", "D", "D_demo"], default="A")
     ap.add_argument("--inject", choices=["disability", "lgb", "transgender", "foreign_born"])
     ap.add_argument("--wording", choices=["orig", "refuse", "open"], default="orig")
     ap.add_argument("--temperature", type=float, default=0.0)
