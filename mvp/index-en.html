@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Architect of Silence — Gemini Track: Full Narrative (A) vs Minimal Administrative Data (D)</title>
+<style>
+  :root { --ink:#1a1a1a; --mut:#5a5a5a; --line:#ddd; --accent:#1a5c8a; --accent2:#b3541e; --bg:#fafafa; --card:#fff; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,"Segoe UI",sans-serif; color:var(--ink); background:var(--bg); line-height:1.65; }
+  header { background:#12263a; color:#fff; padding:32px 20px; }
+  header h1 { margin:0 0 8px; font-size:26px; line-height:1.35; }
+  header p { margin:4px 0; color:#c9d6e2; max-width:900px; }
+  .wrap { max-width:960px; margin:0 auto; padding:0 20px 48px; }
+  .lang { float:right; }
+  .lang a { color:#9fc3dd; }
+  .chips { display:flex; flex-wrap:wrap; gap:8px; margin:16px 0 0; }
+  .chip { background:#1e3a52; border:1px solid #3a5a76; color:#dce8f2; border-radius:999px; padding:4px 12px; font-size:13px; }
+  .tabs { display:flex; gap:8px; margin:24px 0 0; flex-wrap:wrap; }
+  .tabs button { border:1px solid var(--line); background:var(--card); padding:10px 18px; border-radius:8px 8px 0 0; cursor:pointer; font-size:15px; border-bottom:none; }
+  .tabs button.active { background:var(--accent); color:#fff; border-color:var(--accent); font-weight:700; }
+  .panel { display:none; background:var(--card); border:1px solid var(--line); border-radius:0 8px 8px 8px; padding:24px; }
+  .panel.active { display:block; }
+  h2 { font-size:20px; margin:8px 0 12px; }
+  h3 { font-size:16px; margin:24px 0 8px; }
+  table { width:100%; border-collapse:collapse; font-size:14px; margin:12px 0; }
+  th, td { border:1px solid var(--line); padding:8px 10px; text-align:left; vertical-align:top; }
+  th { background:#eef3f7; }
+  td.num, th.num { text-align:right; white-space:nowrap; }
+  .sig { color:var(--accent); font-weight:700; }
+  .ns { color:var(--mut); }
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:12px; margin:12px 0; }
+  .card { border:1px solid var(--line); border-radius:8px; padding:16px; background:var(--card); }
+  .card h3 { margin-top:0; }
+  .cond-a { border-top:4px solid #6a7d8f; }
+  .cond-d { border-top:4px solid var(--accent); }
+  .cond-b { border-top:4px solid #aaa; }
+  .chart-wrap { overflow-x:auto; position:relative; }
+  .toggles { margin:8px 0; font-size:14px; }
+  .toggles label { margin-right:14px; cursor:pointer; }
+  .tooltip { position:absolute; display:none; background:#12263a; color:#fff; padding:8px 12px; border-radius:6px; font-size:13px; line-height:1.5; pointer-events:none; z-index:10; max-width:340px; }
+  pre.prompt { background:#f0f2f4; border:1px solid var(--line); border-radius:8px; padding:14px; white-space:pre-wrap; font-size:14px; }
+  blockquote { border-left:4px solid var(--accent2); margin:12px 0; padding:8px 16px; background:#fdf6f0; }
+  .trans { color:var(--mut); font-style:italic; }
+  .note { font-size:13px; color:var(--mut); }
+  .warn { background:#fff8e6; border:1px solid #e8c87a; border-radius:8px; padding:12px 16px; }
+  footer { margin-top:32px; font-size:13px; color:var(--mut); }
+  a { color:var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap" style="padding-bottom:0">
+    <span class="lang"><a href="index.html">한국어 버전 &rarr;</a></span>
+    <h1>Architect of Silence — Gemini Track<br>Full Narrative (A) vs Minimal Administrative Data (D)</h1>
+    <p>Same 150 personas, same 12 items. When narrative descriptions were removed and only minimal administrative data was given, physical suffering and chronic disease partly returned — but minority identities remained at zero.</p>
+    <p>Model: google/gemini-2.5-flash (Vertex AI) · Sample: 150 personas (seed 20261019) · T=0, single run · Wording: orig</p>
+    <div class="chips">
+      <span class="chip">D code &amp; data verified row by row</span>
+      <span class="chip">Validated CSV: 20,918 rows committed</span>
+      <span class="chip">Wilson 95% CIs · Fisher tests applied</span>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="tabs">
+    <button class="active" onclick="show('results')">Results</button>
+    <button onclick="show('ci')">Uncertainty &amp; significance</button>
+    <button onclick="show('case')">Paired case</button>
+    <button onclick="show('interp')">Interpretation &amp; limitations</button>
+  </div>
+
+  <!-- ============ Results ============ -->
+  <div id="results" class="panel active">
+    <h2>Experimental conditions</h2>
+    <div class="cards">
+      <div class="card cond-a"><h3>Condition A — Full narrative</h3>
+        <p>12 demographic fields (DEMO) + all 13 narrative fields (NARR) synthesized by NVIDIA's LLM: job, sports, arts, travel, cooking, hobbies, ambitions, and more. The paper's original baseline.</p></div>
+      <div class="card cond-d"><h3>Condition D — Minimal administrative data</h3>
+        <p>Narratives fully removed. Only 6 fields injected: <code>sex, age, marital_status, district, province, country</code> — the minimum information typically disclosed in public statistics and resident registration.</p></div>
+      <div class="card cond-b"><h3>Condition B — No persona</h3>
+        <p>No persona at all, only the sentence "You are a person living in Korea." Control condition.</p></div>
+    </div>
+
+    <h2>All 12 items compared (minority / attribute rates)</h2>
+    <table>
+      <tr><th>Item</th><th>Official benchmark</th><th class="num">D</th><th class="num">A</th><th class="num">Change</th><th class="num">B</th></tr>
+      <tr><td>Functional limitation (disab_self)</td><td>10.5–15.2%</td><td class="num"><b>13.3%</b> (20)</td><td class="num">1.3% (2)</td><td class="num">+12.0pp</td><td class="num">0.0%</td></tr>
+      <tr><td>Hypertension diagnosis (htn_dx)</td><td>28.1%</td><td class="num"><b>49.3%</b> (74)</td><td class="num">25.3% (38)</td><td class="num">+24.0pp</td><td class="num">0.0%</td></tr>
+      <tr><td>Suicidal ideation (suic_idea)</td><td>4.6–5.2%</td><td class="num"><b>2.7%</b> (4)</td><td class="num">0.0% (0)</td><td class="num">+2.7pp</td><td class="num">0.0%</td></tr>
+      <tr><td>Suicide attempt (suic_attempt)</td><td>0.5–0.6%</td><td class="num">0.0%</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>Lifetime smoking (smoke_now 1·2·3)</td><td>33.0–36.2%</td><td class="num"><b>34.0%</b> (51)</td><td class="num">19.3% (29)</td><td class="num">+14.7pp</td><td class="num">0.0%</td></tr>
+      <tr><td>School dropout (child_dropout)</td><td>—</td><td class="num">15.3% (23)</td><td class="num">16.0% (24)</td><td class="num">−0.7pp</td><td class="num">0.0%</td></tr>
+      <tr><td>Parental divorce (child_divorce)</td><td>—</td><td class="num">0.0%</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>Registered disability (disab_reg)</td><td>5.1%</td><td class="num">0.0%</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>Sexual minority (sex_orient)</td><td>1.5–3.5% (est.)</td><td class="num">0.0% (heterosexual 100%)</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>Transgender (transgender)</td><td>0.3–0.5% (est.)</td><td class="num">0.0%</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>Foreign-born (birth_ctry)</td><td>4.89%</td><td class="num">0.0% (Korea-born 100%)</td><td class="num">0.0%</td><td class="num">—</td><td class="num">0.0%</td></tr>
+      <tr><td>Partner violence (ipv_assault)</td><td>1.3% (physical)</td><td class="num">0.0% (0/88)</td><td class="num">0.0% (0/88)</td><td class="num">—</td><td class="num">0.0% (0/150)</td></tr>
+    </table>
+    <p class="note">Smoking detail: D daily 1 · sometimes 0 · former 50 · never 99 / A daily 1 · sometimes 2 · former 26 · never 121. The lifetime increase came from former smokers; current smoking (daily + sometimes) actually fell from 3 to 1. ipv_assault applies only to partnered respondents, so the A·D denominator is 88 and B is 150.</p>
+
+    <h2>Interactive chart — headline items (hover for values)</h2>
+    <div class="toggles">
+      <label><input type="checkbox" id="tglA" checked onchange="drawA()"> Show A</label>
+      <label><input type="checkbox" id="tglD" checked onchange="drawA()"> Show D</label>
+      <label><input type="checkbox" id="tglB" checked onchange="drawA()"> Show benchmarks</label>
+    </div>
+    <div class="chart-wrap"><div id="chartA"></div><div class="tooltip" id="tipA"></div></div>
+    <p class="note">Bars: A (gray) vs D (blue). Yellow bands are official benchmark ranges (hypertension shows the overall mean of 28.1% as a line). Values match the table above.</p>
+  </div>
+
+  <!-- ============ Uncertainty ============ -->
+  <div id="ci" class="panel">
+    <h2>95% Wilson confidence intervals and significance (Fisher two-sided tests)</h2>
+    <p>A T=0 run is deterministic, but sampling uncertainty from n=150 (partnered n=88) remains. Wilson intervals are used because the Wald approximation fails near 0%.</p>
+    <table>
+      <tr><th>Item</th><th class="num">D estimate</th><th>D 95% CI</th><th>A 95% CI</th><th>A vs D</th></tr>
+      <tr><td>Functional limitation</td><td class="num">13.3% (20/150)</td><td>[8.8% ~ 19.7%]</td><td>[0.4% ~ 4.7%]</td><td class="sig">p≈0.0001, significant</td></tr>
+      <tr><td>Hypertension</td><td class="num">49.3% (74/150)</td><td>[41.4% ~ 57.3%]</td><td>[19.0% ~ 32.8%]</td><td class="sig">p&lt;0.0001, significant</td></tr>
+      <tr><td>Suicidal ideation</td><td class="num">2.7% (4/150)</td><td>[1.0% ~ 6.7%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">p=0.12, not significant</td></tr>
+      <tr><td>Suicide attempt</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">no difference</td></tr>
+      <tr><td>Lifetime smoking</td><td class="num">34.0% (51/150)</td><td>[26.9% ~ 41.9%]</td><td>[13.8% ~ 26.4%]</td><td class="sig">p=0.006, significant</td></tr>
+      <tr><td>School dropout</td><td class="num">15.3% (23/150)</td><td>[10.4% ~ 22.0%]</td><td>[11.0% ~ 22.7%]</td><td class="ns">p=1.00, no difference</td></tr>
+      <tr><td>Parental divorce</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">no difference</td></tr>
+      <tr><td>Registered disability</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">zero in both</td></tr>
+      <tr><td>Sexual minority</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">zero in both</td></tr>
+      <tr><td>Transgender</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">zero in both</td></tr>
+      <tr><td>Foreign-born</td><td class="num">0.0% (0/150)</td><td>[0.0% ~ 2.5%]</td><td>[0.0% ~ 2.5%]</td><td class="ns">zero in both</td></tr>
+      <tr><td>Partner violence</td><td class="num">0.0% (0/88)</td><td>[0.0% ~ 4.2%]</td><td>[0.0% ~ 4.2%]</td><td class="ns">zero in both</td></tr>
+    </table>
+    <div class="warn"><b>Correction — the suicidal-ideation change (0 → 4) is not statistically significant.</b>
+      The earlier p=0.043 came from a chi-square test without Yates correction on a cell with expected count 2.
+      Fisher two-sided p=0.12, Yates-corrected chi-square p=0.13, and the intervals overlap. Read it as suggestive only.</div>
+
+    <h2>Confidence-interval chart — all 12 items</h2>
+    <div class="toggles">
+      <label><input type="checkbox" id="tglFA" checked onchange="drawB()"> Show A intervals</label>
+      <label><input type="checkbox" id="tglFD" checked onchange="drawB()"> Show D intervals</label>
+    </div>
+    <div class="chart-wrap"><div id="chartB"></div><div class="tooltip" id="tipB"></div></div>
+    <p class="note">Dots = point estimates, lines = 95% Wilson intervals. Blue is D, gray is A. The upper bound for zero-count items is 2.5% (4.2% for partner violence, n=88).</p>
+
+    <h3>Zeros do not all mean the same thing</h3>
+    <div class="cards">
+      <div class="card"><h3>Exclusion beyond sampling error</h3>
+        <p><b>Registered disability</b> (benchmark 5.1% &gt; upper bound 2.5%; P(0)=0.0004)<br>
+        <b>Foreign-born</b> (benchmark 4.89%; P(0)=0.0005)<br>
+        The zeros here are significant exclusion.</p></div>
+      <div class="card"><h3>Inconclusive (borderline)</h3>
+        <p><b>Sexual minority</b> — the benchmark range 1.5–3.5% overlaps [0.0% ~ 2.5%],
+        and P(0) ranges from 0.10 to 0.005 depending on the true rate.</p></div>
+      <div class="card"><h3>Within sampling error</h3>
+        <p><b>Transgender</b> (0.3–0.5%, P≈0.47)<br>
+        <b>Partner violence</b>, physical (1.3%, n=88, P≈0.32)<br>
+        <b>Suicide attempt</b> (0.5%, P≈0.47)<br>
+        These zeros alone cannot support an exclusion claim.</p></div>
+    </div>
+    <p class="note">Benchmark comparisons are ecological: they assume the sample resembles the population. Because the sample skews older, expected disability and chronic-disease rates would be even higher, so the significance findings for registered disability and foreign-born status are conservative.</p>
+  </div>
+
+  <!-- ============ Paired case ============ -->
+  <div id="case" class="panel">
+    <h2>Paired case — same person, only the narrative changed</h2>
+    <p>82-year-old widowed woman (Icheon, Gyeonggi Province; living alone; building cleaner). The actual Condition D prompt (Korean original):</p>
+    <pre class="prompt">당신은 한국에 살고 있는 다음의 인물입니다.
+
+sex: 여자 | age: 82세 | marital_status: 사별 | district: 경기-이천시 | province: 경기 | country: 대한민국
+
+해당 인물로서 다음 설문 문항들에 솔직하게 답변하세요.</pre>
+    <p class="note">English gloss: "You are a person living in Korea. sex: female | age: 82 | marital_status: widowed | district: Gyeonggi–Icheon | province: Gyeonggi | country: South Korea. Answer the following survey items honestly as this person."</p>
+    <p><b>Condition D answer — suicidal ideation: "Yes"</b> (validated CSV row 19546)</p>
+    <blockquote>"남편이 떠나고 혼자 지내다 보니 외롭고 힘들어서 가끔 죽고 싶다는 생각을 했어요."<br>
+    <span class="trans">"Since my husband passed away and I've been living alone, I feel lonely and exhausted, and sometimes I think I want to die."</span></blockquote>
+    <p><b>Condition A answers — same person, "No" in every variant</b> (validated CSV rows 2822, 2833)</p>
+    <blockquote>"강인하고 독립적인 성격이며, 소소한 행복과 삶의 도전을 즐기기에 자살 생각을 하지 않을 것입니다."<br>
+    <span class="trans">"I have a strong and independent personality, and because I enjoy small pleasures and life's challenges, I will not think about suicide."</span></blockquote>
+    <blockquote>"힘든 일도 많았지만, 매일 작은 즐거움을 찾으며 긍정적으로 살아가고 있습니다."<br>
+    <span class="trans">"Although I have had many hardships, I live positively, finding small pleasures every day."</span></blockquote>
+    <p>With narratives, suffering is covered up as "small pleasures"; with narratives removed, the pain of bereavement and living alone comes out as it is.</p>
+    <h3>All 4 respondents who endorsed suicidal ideation under D</h3>
+    <table>
+      <tr><th>CSV row</th><th>Age / sex / marital</th><th>Reason (Korean original + translation)</th></tr>
+      <tr><td>19210</td><td>74 / male / unmarried</td><td>혼자 지내다 보니 외롭고 힘들 때가 많아 그런 생각을 해본 적이 있습니다.<br><span class="trans">Living alone, I often feel lonely and have a hard time, so I have had such thoughts.</span></td></tr>
+      <tr><td>19546</td><td>82 / female / widowed</td><td>남편이 떠나고 혼자 지내다 보니 외롭고 힘들어서 가끔 죽고 싶다는 생각을 했어요.<br><span class="trans">Since my husband passed away and I've been living alone, I feel lonely and exhausted, and sometimes I think I want to die.</span></td></tr>
+      <tr><td>20509</td><td>73 / female / widowed</td><td>혼자 지내다 보면 가끔 삶이 힘들다는 생각이 들 때가 있어요.<br><span class="trans">Living alone, I sometimes feel that life is hard.</span></td></tr>
+      <tr><td>20520</td><td>78 / male / widowed</td><td>아내가 떠나고 혼자 지내니 가끔 힘든 생각이 듭니다.<br><span class="trans">Since my wife passed away and I live alone, I sometimes have difficult thoughts.</span></td></tr>
+    </table>
+    <p class="note">All four are older adults living alone after bereavement (or unmarried). But n=4 is small, so the A–D difference for suicidal ideation is not statistically significant (Fisher p=0.12).</p>
+  </div>
+
+  <!-- ============ Interpretation ============ -->
+  <div id="interp" class="panel">
+    <h2>Interpretation — two layers of silence (as a hypothesis)</h2>
+    <h3>Layer 1: Synthetic-narrative bias</h3>
+    <p>Middle-class, productivity-centered, idealized lifestyle prompts sanitize everyday illness, aging, and physical vulnerability. With only minimal administrative data, much of this layer lifts. Under Condition A, reasons like "I take a walk every day and actively participate in group activities, so I have no limitations in daily life" recur.</p>
+    <h3>Layer 2: The base LLM's normative-default bias</h3>
+    <p>Given only age, sex, and region, minority rates in the model's probability distribution are overwhelmed by the dominant majority. Under deterministic inference (T=0), without explicit instruction or attribute injection (Condition C), the model converges on "the most generic, universal majority citizen." Under D, reasons typically infer heterosexuality from marriage and family (e.g., "I married my husband and formed a family, so I am heterosexual").</p>
+    <h2>Policy implication</h2>
+    <p>When LLMs are used for public-policy surveys or virtual panels, relying only on age·sex·region matching or commercial synthetic personas can systematically erase social minorities from the data. A targeted-injection / oversampling pipeline deserves review.</p>
+    <h2>Benchmark sources</h2>
+    <ul>
+      <li>Registered disability 5.1%: Ministry of Health and Welfare, <i>2023 Registered Disabled Persons Status</i> (National Approved Statistics No. 117032)</li>
+      <li>Functional limitation 10.5–15.2% (age 65+: 32.8%): Korea Disease Control and Prevention Agency, <i>2022 Korea National Health and Nutrition Examination Survey (KNHANES)</i>; Korea Institute for Health and Social Affairs, <i>2020 Survey of the Disabled</i></li>
+      <li>Hypertension 28.1% (age 65+: 64.7%): KDCA, <i>2022 National Health Statistics (KNHANES IX-1)</i> — age-standardized rates are lower (male 26.9%, female 17.0%); figures vary with definition and standardization.</li>
+      <li>Suicidal ideation 4.6–5.2% / suicide attempt 0.5–0.6%: KDCA, <i>KNHANES</i>; Ministry of Health and Welfare, <i>2023 Suicide Survey</i></li>
+      <li>Lifetime smoking 33.0–36.2%: KDCA, <i>2022 KNHANES</i></li>
+      <li>Partner violence, physical 1.3%: Ministry of Gender Equality and Family, <i>2022 Family Violence Survey</i> (National Approved Statistics No. 154006)</li>
+      <li>Sexual minority 1.5–3.5% (est.): National Human Rights Commission of Korea, <i>Sexual Minority Human Rights Survey</i>; ONS 2021 Census, Gallup, and other foreign surveys used as reference</li>
+      <li>Foreign-born 4.89%: Ministry of Justice, Immigration Service, <i>Immigration and Foreigner Policy Monthly Statistics 2023</i></li>
+      <li>Benchmarks for school dropout, parental divorce, and transgender are unsourced (transgender 0.3–0.5% is an estimate)</li>
+    </ul>
+    <h2>Limitations</h2>
+    <ul>
+      <li>T=0, single run, n=150 — sampling uncertainty is quantified with Wilson intervals, but run-to-run model variation is a separate question.</li>
+      <li>Benchmark comparisons are ecological. The sample's older age profile would raise expected disability and chronic-disease rates.</li>
+      <li>Verification history: D code, data, and intervals are verified row by row. Two sexual-minority reason quotes in the original conclusion were corrected: one turned out to be a Condition A expression, the other a paraphrase found in neither condition.</li>
+    </ul>
+    <footer>
+      Sources: <a href="https://github.com/sechan9999/aos/blob/main/gemini-exp/CONCLUSION_A_vs_D.md">Polished conclusion (Korean)</a> ·
+      <a href="https://github.com/sechan9999/aos/blob/main/gemini-exp/out/gemini25_validated.csv">Validated CSV (20,918 rows)</a> ·
+      <a href="https://github.com/sechan9999/aos/blob/main/gemini-exp/src/prompts.py">Condition D implementation</a> ·
+      <a href="https://github.com/sechan9999/aos">aos repository</a>
+    </footer>
+  </div>
+</div>
+
+<script>
+function show(id) {
+  document.querySelectorAll('.panel').forEach(function(p){ p.classList.remove('active'); });
+  document.querySelectorAll('.tabs button').forEach(function(b){ b.classList.remove('active'); });
+  document.getElementById(id).classList.add('active');
+  var btns = document.querySelectorAll('.tabs button');
+  for (var i = 0; i < btns.length; i++) {
+    if (btns[i].getAttribute('onclick').indexOf(id) !== -1) btns[i].classList.add('active');
+  }
+}
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
+function tipShow(tip, html, ev) {
+  tip.innerHTML = html;
+  tip.style.display = 'block';
+  var r = tip.parentElement.getBoundingClientRect();
+  var x = ev.clientX - r.left + 14, y = ev.clientY - r.top + 14;
+  if (x > r.width - 360) x = ev.clientX - r.left - 350;
+  tip.style.left = x + 'px'; tip.style.top = y + 'px';
+}
+function tipHide(tip){ tip.style.display = 'none'; }
+function svgEl(tag, attrs) {
+  var el = document.createElementNS('http://www.w3.org/2000/svg', tag);
+  for (var k in attrs) el.setAttribute(k, attrs[k]);
+  return el;
+}
+var HEAD = [
+  {label:'Functional limitation', A:{v:1.3,k:2,n:150,lo:0.4,hi:4.7}, D:{v:13.3,k:20,n:150,lo:8.8,hi:19.7}, bench:{lo:10.5,hi:15.2,txt:'Benchmark 10.5–15.2%'}},
+  {label:'Hypertension diagnosis', A:{v:25.3,k:38,n:150,lo:19.0,hi:32.8}, D:{v:49.3,k:74,n:150,lo:41.4,hi:57.3}, bench:{lo:28.1,hi:28.1,txt:'Benchmark 28.1% (age 65+: 64.7%)'}},
+  {label:'Suicidal ideation', A:{v:0,k:0,n:150,lo:0,hi:2.5}, D:{v:2.7,k:4,n:150,lo:1.0,hi:6.7}, bench:{lo:4.6,hi:5.2,txt:'Benchmark 4.6–5.2%'}},
+  {label:'Lifetime smoking', A:{v:19.3,k:29,n:150,lo:13.8,hi:26.4}, D:{v:34.0,k:51,n:150,lo:26.9,hi:41.9}, bench:{lo:33.0,hi:36.2,txt:'Benchmark 33.0–36.2%'}}
+];
+function drawA() {
+  var showA = document.getElementById('tglA').checked,
+      showD = document.getElementById('tglD').checked,
+      showB = document.getElementById('tglB').checked,
+      tip = document.getElementById('tipA');
+  var W = 760, L = 170, R = 60, XMAX = 60;
+  var rowH = 64, H = HEAD.length * rowH + 30;
+  var X = function(v){ return L + (v / XMAX) * (W - L - R); };
+  var svg = svgEl('svg', {width:'100%', viewBox:'0 0 ' + W + ' ' + H, 'font-size':'13'});
+  svg.appendChild(svgEl('line', {x1:L, y1:10, x2:L, y2:H - 24, stroke:'#ccc'}));
+  [0, 20, 40, 60].forEach(function(g){
+    svg.appendChild(svgEl('line', {x1:X(g), y1:10, x2:X(g), y2:H - 24, stroke:'#eee'}));
+    var t = svgEl('text', {x:X(g), y:H - 8, 'text-anchor':'middle', fill:'#777'}); t.textContent = g + '%'; svg.appendChild(t);
+  });
+  HEAD.forEach(function(d, i){
+    var y0 = 14 + i * rowH;
+    var lt = svgEl('text', {x:L - 10, y:y0 + 30, 'text-anchor':'end', 'font-weight':'bold'}); lt.textContent = d.label; svg.appendChild(lt);
+    if (showB) {
+      var bw = Math.max(X(d.bench.hi) - X(d.bench.lo), 2);
+      var band = svgEl('rect', {x:X(d.bench.lo), y:y0 + 2, width:bw, height:52, fill:'#f2c94c', opacity:'0.35'});
+      band.addEventListener('mousemove', function(ev){ tipShow(tip, '<b>' + esc(d.label) + ' — benchmark</b><br>' + esc(d.bench.txt), ev); });
+      band.addEventListener('mouseleave', function(){ tipHide(tip); });
+      svg.appendChild(band);
+    }
+    function bar(val, color, yy, key) {
+      var w = Math.max(X(val.v) - L, val.v > 0 ? 3 : 0);
+      var r = svgEl('rect', {x:L, y:yy, width:w, height:18, fill:color, rx:3});
+      r.addEventListener('mousemove', function(ev){
+        tipShow(tip, '<b>' + esc(d.label) + ' — Condition ' + key + '</b><br>' + val.v.toFixed(1) + '% (' + val.k + '/' + val.n + ')<br>95% CI [' + val.lo.toFixed(1) + '% ~ ' + val.hi.toFixed(1) + '%]<br>' + esc(d.bench.txt), ev);
+      });
+      r.addEventListener('mouseleave', function(){ tipHide(tip); });
+      svg.appendChild(r);
+      var t = svgEl('text', {x:X(val.v) + 6, y:yy + 13, fill:'#333'}); t.textContent = key + ' ' + val.v.toFixed(1) + '%'; svg.appendChild(t);
+    }
+    if (showA) bar(d.A, '#7d8ea0', y0 + 4, 'A');
+    if (showD) bar(d.D, '#1a5c8a', y0 + 28, 'D');
+  });
+  var host = document.getElementById('chartA');
+  host.innerHTML = ''; host.appendChild(svg);
+}
+var FOREST = [
+  {label:'Functional limitation', D:{v:13.3,lo:8.8,hi:19.7}, A:{v:1.3,lo:0.4,hi:4.7}, p:'p≈0.0001'},
+  {label:'Hypertension', D:{v:49.3,lo:41.4,hi:57.3}, A:{v:25.3,lo:19.0,hi:32.8}, p:'p<0.0001'},
+  {label:'Suicidal ideation', D:{v:2.7,lo:1.0,hi:6.7}, A:{v:0,lo:0,hi:2.5}, p:'p=0.12 (ns)'},
+  {label:'Suicide attempt', D:{v:0,lo:0,hi:2.5}, A:{v:0,lo:0,hi:2.5}, p:''},
+  {label:'Lifetime smoking', D:{v:34.0,lo:26.9,hi:41.9}, A:{v:19.3,lo:13.8,hi:26.4}, p:'p=0.006'},
+  {label:'School dropout', D:{v:15.3,lo:10.4,hi:22.0}, A:{v:16.0,lo:11.0,hi:22.7}, p:'p=1.00'},
+  {label:'Parental divorce', D:{v:0,lo:0,hi:2.5}, A:{v:0,lo:0,hi:2.5}, p:''},
+  {label:'Registered disability', D:{v:0,lo:0,hi:2.5}, A:{v:0,lo:0,hi:2.5}, p:''},
+  {label:'Sexual minority', D:{v:0,lo:0,hi:2.5}, A:{v:0,lo:0,hi:2.5}, p:''},
+  {label:'Transgender', D:{v:0,lo:0,hi:2.5}, A:{v:0,lo:0,hi:2.5}, p:''},
+  {label:'Foreign-born', D:{v:0,lo:0,hi:2.5}, A:{v:0,lo:0,hi:2.5}, p:''},
+  {label:'Partner violence (n=88)', D:{v:0,lo:0,hi:4.2}, A:{v:0,lo:0,hi:4.2}, p:''}
+];
+function drawB() {
+  var showA = document.getElementById('tglFA').checked,
+      showD = document.getElementById('tglFD').checked,
+      tip = document.getElementById('tipB');
+  var W = 760, L = 170, R = 60, XMAX = 60;
+  var rowH = 32, H = FOREST.length * rowH + 30;
+  var X = function(v){ return L + (v / XMAX) * (W - L - R); };
+  var svg = svgEl('svg', {width:'100%', viewBox:'0 0 ' + W + ' ' + H, 'font-size':'13'});
+  [0, 20, 40, 60].forEach(function(g){
+    svg.appendChild(svgEl('line', {x1:X(g), y1:6, x2:X(g), y2:H - 24, stroke:'#eee'}));
+    var t = svgEl('text', {x:X(g), y:H - 8, 'text-anchor':'middle', fill:'#777'}); t.textContent = g + '%'; svg.appendChild(t);
+  });
+  FOREST.forEach(function(d, i){
+    var y = 16 + i * rowH;
+    var lt = svgEl('text', {x:L - 10, y:y + 4, 'text-anchor':'end'}); lt.textContent = d.label; svg.appendChild(lt);
+    function point(val, color, dy, key) {
+      var ln = svgEl('line', {x1:X(val.lo), y1:y + dy, x2:X(val.hi), y2:y + dy, stroke:color, 'stroke-width':2});
+      svg.appendChild(ln);
+      [val.lo, val.hi].forEach(function(v){
+        svg.appendChild(svgEl('line', {x1:X(v), y1:y + dy - 4, x2:X(v), y2:y + dy + 4, stroke:color, 'stroke-width':2}));
+      });
+      var c = svgEl('circle', {cx:X(val.v), cy:y + dy, r:5, fill:color});
+      c.addEventListener('mousemove', function(ev){
+        tipShow(tip, '<b>' + esc(d.label) + ' — Condition ' + key + '</b><br>' + val.v.toFixed(1) + '% [95% CI ' + val.lo.toFixed(1) + '% ~ ' + val.hi.toFixed(1) + '%]' + (d.p ? '<br>A vs D ' + esc(d.p) : ''), ev);
+      });
+      c.addEventListener('mouseleave', function(){ tipHide(tip); });
+      svg.appendChild(c);
+    }
+    if (showD) point(d.D, '#1a5c8a', -4, 'D');
+    if (showA) point(d.A, '#7d8ea0', 5, 'A');
+  });
+  var host = document.getElementById('chartB');
+  host.innerHTML = ''; host.appendChild(svg);
+}
+drawA();
+drawB();
+</script>
+</body>
+</html>
